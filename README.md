@@ -28,7 +28,7 @@ Note: [You will need to load the appropriate environment on Mahuika](#environmen
 
 If you cannot compile the C++ code, in line 100 of `ml.m' set cpp_code=0;
 
-
+The function "MLapp.m" incorporates a Poincare asymptotic expansion for large time, and a Power series approximation for small time.
 
 ## Paramaters
 
@@ -37,19 +37,21 @@ If you cannot compile the C++ code, in line 100 of `ml.m' set cpp_code=0;
 | Name | Type | Default | Desc. |
 | --- | --- | --- | --- |
 | `NSIM` | int[] | `[]` | Number of simulations to run |
-| `alpha` | double | `exp(-2)` | set value of x(1) |
-| `beta` | double | `0.7` | set value of x(4)  |
-| `gamma` | double | `1.5` | set value of x(3) |
-| `theta` | int | `1` | Parameter for magnitude distribution, do not change. | 
-| `lambda` | int | `3` | Parameter for magnitude distribution, do not change. |
-| `mu` | double | `1` | x(2), i.e 2nd parameter to be estimated via maximisation, corresponds to background rate (\lambda_0 in the manuscript). |
-| `c` | double | `1` | set value of x(5) |
+| `alpha` | double | `exp(-2)` | set value of x(1) in simulation study |
+| `beta` | double | `0.7` | set value of x(4) in simulation study |
+| `gamma` | double | `1.5` | set value of x(3) in simulation study|
+| `theta` | int | `1` | Parameter for magnitude distribution, do not change in simulation study. | 
+| `lambda` | int | `3` | Parameter for magnitude distribution, do not change in simulation study. |
+| `mu` | double | `1` | x(2), i.e 2nd parameter to be estimated via maximisation, corresponds to background rate (\lambda_0 in the manuscript) in simulation study. |
+| `c` | double | `1` | set value of x(5) in simulation study|
 | `M0` | double | `2.5` | Cutoff magnitude in data set |
 | `MMAX` | double | `9.5` |Maximum permissible magnitude |
 | `Nrand` | int | `30` | Number of initial guess for minimisation |
 | `RepNum` | int | `500` | Number of repeats of simulating data and estimating it |
-| `Batchsize`| int | `10` | Size of parallel batches |
-
+| `Batchsize`| int | `10` | Size of parallel batches in simulation study |
+| `A`| int | `1` | First event to be considered when fitting actual data. |
+| `B`| int | `1` | Last event to be considered when fitting actual data. |
+| `PAR`| int | `0` | Swicth for minimising log-likelihood in parallel or not. Set to 0 if not using a parallel computer. |
 
 ### Execution parameters
 | Name | Type | Default | Desc. |
