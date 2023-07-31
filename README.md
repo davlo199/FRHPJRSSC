@@ -38,11 +38,12 @@ If you cannot compile the C++ code, in line 100 of `ml.m' set cpp_code=0;
 | --- | --- | --- | --- |
 | `NSIM` | int[] | `[]` | Number of simulations to run |
 | `alpha` | double | `exp(-2)` | set value of x(1) |
-| `beta` | double | `0.7` |   |
-| `gamma` | double | `1.5` | third parameter to be estimated, corresponds to weighting of events in likelihood. |
+| `beta` | double | `0.7` | set value of x(4)  |
+| `gamma` | double | `1.5` | set value of x(3) |
 | `theta` | int | `1` | Parameter for magnitude distribution, do not change. | 
 | `lambda` | int | `3` | Parameter for magnitude distribution, do not change. |
-| `mu` | int | `1` | x(2), i.e 2nd parameter to be estimated via maximisation, corresponds to background rate (\lambda_0 in the manuscript). |
+| `mu` | double | `1` | x(2), i.e 2nd parameter to be estimated via maximisation, corresponds to background rate (\lambda_0 in the manuscript). |
+| `c` | double | `1` | set value of x(5) |
 | `M0` | double | `2.5` | Cutoff magnitude in data set |
 | `MMAX` | double | `9.5` |Maximum permissible magnitude |
 | `Nrand` | int | `30` | Number of initial guess for minimisation |
