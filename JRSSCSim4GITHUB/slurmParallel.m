@@ -1,0 +1,85 @@
+function results=slurmParallel(functionHandle, indexedVariables, slurmParameters)
+    % slurmParallel 
+
+    % functionHandle : string of function to run.
+    % indexedVariables
+    % slurmParameters (optional): Parameters to pass to slurm.
+
+
+    % Add paths.
+    addpath('.');
+    addpath('slurm_parallel');
+
+
+    % Generate new tempdir.
+    tmpRoot = "./";
+    if length(tmpRoot) < 1; tmpRoot = "/tmp"; end
+
+    % Create workdir based on hash of partial function.
+    workDir = fullfile(tmpRoot,DataHash(functionHandle));
+    
+    if exist(workDir, 'file') == 7
+        fprintf("Looks like this job has run before. Completed tasks will not be re-run.\n");
+        status=getStatus(workDir);
+        % if any finished, dont run again.      
+        if status.nCompleted > 0
+            indexedVariables = setdiff(indexedVariables, status.jobs.COMPLETED);
+        end
+    else
+        % Create workdir.
+        mkdir(workDir);
+    end
+    % Split up indexed variables, save partial function handle.
+    prepRun(workDir, functionHandle, indexedVariables);
+
+    fprintf("Working from temporary directory %s\n", workDir);
+    
+    % Skip slurm submission if no jobs to run for some reason.
+    if length(indexedVariables)>1
+        % These will be default slurm params unless overwritten.
+        slurmCmd = [
+            "sbatch", '--export', 'none'];
+        % Get slurm commands from input.
+        for v = 1:2:length(slurmParameters)
+            slurmCmd = [slurmCmd, slurmParameters{v}, slurmParameters{v + 1}];
+        end
+      % Original
+      %slurmCmd = [slurmCmd, "--output", strcat(workDir, "/worker%a.out"), "--job-name", "worker", "--array",strcat(join(string(indexedVariables),','), "%1000"), 'slurm_parallel/slurmWrapper.sl', strcat("""", workDir, """"), strcat("""", erase(matlabRelease.Release, "R"), """"),'export ','OMP_NUM_THREADS=${SLURM_CPUS_PER_TASK}'];
+     % Profiling
+     slurmCmd = [slurmCmd, "--output", strcat(workDir, "/worker%a.out"), "--job-name", "worker", "--array",strcat(join(string(indexedVariables),','), "%1000"), 'slurm_parallel/slurmWrapper.sl', strcat("""", workDir, """"), strcat("""", erase(matlabRelease.Release, "R"), """"),'export ','OMP_NUM_THREADS=${SLURM_CPUS_PER_TASK}','--profile task','--acctg-freq=1'];
+     
+
+
+      %with OMP
+     
+      %slurmCmd = [slurmCmd, "--output", strcat(workDir, "/worker%a.out"), "--job-name", "worker", "--array","OMP_NUM_THREADS=${SLURM_CPUS_PER_TASK}", strcat(join(string(indexedVariables),','), "%1000"), 'slurm_parallel/slurmWrapper.sl', strcat("""", workDir, """"), strcat("""", erase(matlabRelease.Release, "R"), """")];
+        fprintf("Submitting slurm job with command '%s'\n", strjoin(slurmCmd))
+        [~,stdOut]=system(strjoin(slurmCmd));
+        % OMP_NUM_THREADS=${SLURM_CPUS_PER_TASK}
+        % Write out job to working dir.
+        jobid=regexp(stdOut, '(?<=Submitted batch job )\d*','match');
+        fprintf(fopen('.slurm_job_id', 'w'), jobid{1});
+    end
+% For when NOT using job array. Commented out for simplicities sake.l 
+%     else
+%         for worker=1:length(indexedVariables)+1
+%             slurmCmd = [slurmCmd, "--output", strcat(workDir, "/worker", num2str(worker),".out"), "--job-name", strcat("worker",num2str(worker)), 'wrappers/slurmWrapper.sl', strcat("""", erase(matlabRelease.Release, "R"), """"), strcat("""", workDir, """"), strcat("""", funcCall, """"), strcat("""", num2str(worker), """")];
+%             fprintf("Submitting slurm job with command '%s'\n", strjoin(slurmCmd))
+%             system(strjoin(slurmCmd));
+%         end
+%     end
+    
+    % Wait for jobs to finish.
+    status=waitFor(workDir);
+    
+    disp("Final state:");
+    disp(status.jobs);
+    
+    % Error if not all finished.
+    assert(status.nCount == status.nCompleted, "Some jobs failed. Working directory will be kept. Running job again will resubmit incomplete jobs.");
+
+    % Collect results, delet folder if works.
+    results=collectResults(workDir);
+    rmdir(workDir,'s');
+end
+    

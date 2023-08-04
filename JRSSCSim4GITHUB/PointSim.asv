@@ -1,0 +1,106 @@
+%clear
+%filename='Ogata06MLESIM';
+%%%% To simulate points from Ogata2006MLE
+NSIM=1348;
+Tfinal=180;
+lambda=7.908;
+theta=16115.796;
+%a=1;
+M0=2.75; %Cutoff magnitude in data set
+MMAX=10; %Maximum permissible magnitude 
+M1=7.3; %Magnitude of first event
+N=NSIM;
+mu=theta;
+K=1/lambda;
+sigma=M0/lambda;
+A=sigma/K;
+magexp=exprnd(mu,1,N)+M0; %%W-a random variable
+magPar=gprnd(K,sigma,A,1,N);
+mag=min(MMAX,min(magexp,magPar));
+
+
+bHat=log10(exp(1))./(mean(mag)-M0);
+
+%%
+% for II=1:length(NSIM)
+
+
+
+n=0;
+alpha=0.097; 
+mu=0.4763;
+epsilon=1e-10;
+beta=0.5282;
+c=0.8223;
+gamma=2.1013;
+
+
+
+% SimPoints=[];
+% MAG=[];
+% while length(SimPoints)<1
+%     M=mu;
+%     E=exprnd(1/M,1,1);
+% t=t+E;
+% U=rand;
+% if (U<(mu/M))
+% n=n+1;
+% SimPoints = [SimPoints, t];
+% magexp=exprnd(1/theta,1,1)+M0; %%W-a random variable
+% magPar=gprnd(1/lambda,M0,M0*lambda,1,1);
+% mag=min(MMAX,min(magexp,magPar));
+% MAG=[MAG,mag];
+% end
+% end
+SimPoints=0;  %%Sets initial event large to check explosion
+t=SimPoints;
+MAG2=M1;
+while t<=Tfinal
+t;
+M=mu+alpha*((exp(gamma*(MAG2-M0)))*c^beta*(ml(-(c.*(t+epsilon-SimPoints)).^beta,beta,beta,1).*(t+epsilon-SimPoints).^(beta-1)).');
+E=exprnd(1/M,1,1);
+t=t+E;
+U=rand;
+if (U<(mu+c^beta.*alpha*((exp(gamma*(MAG2-M0)))*(ml(-(c.*(t-SimPoints)).^beta,beta,beta,1)...
+        .*(t+epsilon-SimPoints).^(beta-1)).'))/M)
+n=n+1;
+SimPoints = [SimPoints, t];
+magexp=exprnd(mu,1,1)+M0; %%W-a random variable
+magPar=gprnd(K,sigma,A,1,1);
+mag=min(MMAX,min(magexp,magPar));
+MAG2=[MAG2,mag];
+end
+end
+%%
+IDX=Events<=180;
+subplot(2,1,1)
+plot(SimPoints(1:end-1),MAG2(1:end-1),'x')
+title("Simulated")
+subplot(2,1,2)
+plot(Events(IDX),MAG(IDX),'x')
+title("Actual")
+
+%%
+N=[100,500,761,1023,1348,5000,5e4,1e6];
+lambda=7.908;
+theta=16115.796;
+M0=2.75; %Cutoff magnitude in data set
+MMAX=10; %Maximum permissible magnitude 
+M1=7.3; %Magnitude of first event
+mu=theta;
+K=1/lambda;
+sigma=M0/lambda;
+A=sigma/K;
+Mean=[];
+Std=[];
+
+for i=1:length(N)
+
+    
+    magexp=exprnd(mu,1e3,N(i))+M0; %%W-a random variable
+    magPar=gprnd(K,sigma,A,1e3,N(i));
+    mag=min(MMAX,min(magexp,magPar));
+    
+    
+end
+

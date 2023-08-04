@@ -1,0 +1,104 @@
+function ExpConsCheck(input_file)
+
+    start = clock;
+
+    % Declare input variables;
+
+    alpha = exp(-2); beta = 0.7; gamma = 1.5; theta = 1; lambda = 3; mu = 0.05;
+    M0 = 2.5; MMAX = 9.5; nBeta = 5; Nrand = 100; RepNum = 5;Tprime=10; c=1;
+    saveOutput = false; saveProfile = false; M=13;
+    NSIM = 100; TRUE = [];
+    parallel.outer=maxNumCompThreads > 2;parallel.inner=0;parallel.batchSize=1;parallel.slurm={};
+
+    %% Load inputs.
+    run(input_file);
+
+    % Common sense checks.
+
+    % if saveProfile
+    %     mpi_prof = profile('status');
+    % end
+
+    % test if outpath valid.
+    if saveOutput
+        save(saveOutput);
+    end
+
+    assert(~rem(RepNum, parallel.batchSize), "Havn't finished logic for when RepNum not divisible by batch size yet.")
+    assert(~isequal([parallel.outer,parallel.inner], [1, 1]), 'Cannot nest parfor loops, no point anyway. Either set outer loop to slurm, or inner loop to serial');
+
+    %% Setup
+
+    %Set up preamble before simulation
+    mle = zeros(10 * RepNum + 1, length(NSIM)); %Estimate matrix
+
+    % What parralel method to use
+    %   0 = None
+    %   1 = Parpool
+    %   2 = Slurm Jobs
+    switch parallel.outer
+            % Using parpool
+        case 1
+            parpool(nesiSafeParpool(length(NSIM)));
+
+            parfor II = 1:length(NSIM)
+                mle(:, II) = cons( NSIM(II), parallel, RepNum, nBeta, Nrand, alpha, beta, gamma, mu, M0, MMAX, lambda, theta,Tprime,M,c);
+            end
+
+            % Using multiple SlurmJobs.
+        case 2
+                imle=slurmParallel("cons(index, broadcastVariables{:})",0,NSIM,{parallel, RepNum, nBeta, Nrand, alpha, beta, gamma, mu, M0, MMAX, lambda, theta,Tprime,M,c});
+                mle = imle';
+
+            % Serial
+        otherwise
+
+            for II = 1:length(NSIM)
+                mle(:, II) = cons( NSIM(II), parallel, RepNum, nBeta, Nrand, alpha, beta, gamma, mu, M0, MMAX, lambda, theta,Tprime,M,c);
+            end
+
+    end
+
+    %Output is a matrix where in each column has every 4 being the repeated mle for one parameter.
+    % Each column is for a different length of the data set separated by the number should find consistency
+
+    %Separates the mle matrix into vectors of each estimate for differing data
+    %set sizes to check consistency
+    alphat = zeros(RepNum, length(NSIM));
+    muhat = alphat;
+    gamhat = muhat;
+    bethat = muhat;
+    chat=muhat;
+    alpSE=chat;
+    muSE=chat;
+    gamSE=chat;
+    betSE=chat;
+    cSE=chat;
+    for kk = 1:RepNum
+        alphat(kk, :) = mle(10 * (kk - 1) + 2, :);
+        muhat(kk, :) = mle(10 * (kk - 1) + 3, :);
+        gamhat(kk, :) = mle(10 * (kk - 1) + 4, :);
+        bethat(kk, :) = mle(10 * (kk - 1) + 5, :);
+        chat(kk, :) = mle(10 * (kk - 1) + 6, :);
+
+        alpSE(kk, :) = mle(10 * (kk - 1) + 7, :);
+        muSE(kk, :) = mle(10 * (kk - 1) + 8, :);
+        gamSE(kk, :) = mle(10 * (kk - 1) + 9, :);
+        betSE(kk, :) = mle(10 * (kk - 1) + 10, :);
+        cSE(kk, :) = mle(10 * (kk - 1) + 11, :);
+    end
+
+    runtime = clock - start;
+    sprintf('Simulation ran for .2%f', runtime);
+
+    if saveOutput
+        save(saveOutput);
+    end
+
+    % if saveProfile
+    %     profsave(mpi_prof, saveProfile);
+    % end
+
+    fprintf('Code has run to completion\n')
+    %Simulates the data
+end
