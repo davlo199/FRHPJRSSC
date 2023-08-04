@@ -1,0 +1,762 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+1992-04-23T04:50:23.230Z,33.96,-116.317,11.629,6.1,mw,0,63.1,NA,0.256,ci,ci3019681,2021-01-07T23:39:01.254Z,"17km NNE of Thousand Palms, California",earthquake,NA,0.216,NA,0,reviewed,ci,ci
+1992-04-23T04:54:14.590Z,33.949,-116.32,5.934,3.5,mh,0,85.4,NA,0.204,ci,ci3027817,2016-02-10T21:15:14.386Z,"16km NNE of Thousand Palms, California",earthquake,NA,1.184,NA,0,reviewed,ci,ci
+1992-04-23T04:55:27.960Z,34.01,-116.348,5.132,3.32,mc,0,158.6,NA,0.181,ci,ci3027925,2016-02-09T20:04:25.818Z,"14km SE of Yucca Valley, California",earthquake,NA,5.756,NA,6,reviewed,ci,ci
+1992-04-23T04:56:21.680Z,33.998,-116.329,9.119,3.65,mc,0,65,NA,0.215,ci,ci3027929,2016-02-09T23:52:13.928Z,"15km S of Joshua Tree, California",earthquake,NA,0.459,NA,24,reviewed,ci,ci
+1992-04-23T04:57:02.920Z,33.999,-116.331,9.485,3.41,mc,0,79.6,NA,0.21,ci,ci3027931,2016-02-10T10:39:04.205Z,"15km S of Joshua Tree, California",earthquake,NA,0.532,NA,11,reviewed,ci,ci
+1992-04-23T05:07:37.480Z,33.951,-116.321,4.469,3.03,mc,0,71.3,NA,0.186,ci,ci2047718,2016-02-09T20:04:27.165Z,"16km NNE of Thousand Palms, California",earthquake,NA,0.347,NA,41,reviewed,ci,ci
+1992-04-23T05:10:10.390Z,34.01,-116.324,2.539,4,mh,0,64.3,NA,0.249,ci,ci2047719,2016-02-10T21:15:16.563Z,"14km S of Joshua Tree, California",earthquake,NA,0.492,NA,0,reviewed,ci,ci
+1992-04-23T05:10:28.090Z,33.958,-116.33,2.27,4.3,mc,0,96.5,NA,0.169,ci,ci3027826,2016-02-10T07:02:37.819Z,"16km E of Desert Hot Springs, California",earthquake,NA,0.412,NA,16,reviewed,ci,ci
+1992-04-23T05:11:37.800Z,34.015,-116.33,9.193,3.27,mc,0,77.5,NA,0.192,ci,ci3027831,2016-02-09T20:04:28.571Z,"13km S of Joshua Tree, California",earthquake,NA,0.552,NA,7,reviewed,ci,ci
+1992-04-23T05:16:53.980Z,34.0091667,-116.3446667,5.147,2.5,mh,7,288,NA,0.28,ci,ci2047720,2016-02-10T21:15:17.936Z,"14km SE of Yucca Valley, California",earthquake,2.25,31.61,NA,0,reviewed,ci,ci
+1992-04-23T05:22:18.550Z,34.062,-116.325,10.259,3.83,mc,0,55.1,NA,0.235,ci,ci2047722,2016-02-09T23:52:15.275Z,"8km S of Joshua Tree, California",earthquake,NA,0.478,NA,55,reviewed,ci,ci
+1992-04-23T05:22:54.990Z,33.951,-116.327,10.179,3.19,mc,0,84.7,NA,0.117,ci,ci3017248,2016-02-10T21:15:19.283Z,"16km NNE of Thousand Palms, California",earthquake,NA,0.99,NA,9,reviewed,ci,ci
+1992-04-23T05:23:16.190Z,33.943,-116.325,4.629,4.01,mc,0,67.2,NA,0.149,ci,ci3017236,2016-02-10T10:39:05.464Z,"15km NNE of Thousand Palms, California",earthquake,NA,0.328,NA,54,reviewed,ci,ci
+1992-04-23T05:24:41.270Z,34.022,-116.326,-0.439,3.27,mc,0,79.9,NA,0.172,ci,ci3017249,2016-02-10T03:29:46.674Z,"13km S of Joshua Tree, California",earthquake,NA,0.707,NA,38,reviewed,ci,ci
+1992-04-23T05:25:15.670Z,34.01,-116.289,3.551,2.8,mc,0,105.3,NA,0.166,ci,ci3017269,2016-02-10T21:15:20.911Z,"14km S of Joshua Tree, California",earthquake,NA,1.385,NA,6,reviewed,ci,ci
+1992-04-23T05:36:49.380Z,33.9591667,-116.325,4.429,3.49,mc,40,67,NA,0.19,ci,ci2047724,2016-04-02T11:55:09.324Z,"16km E of Desert Hot Springs, CA",earthquake,0.37,0.64,NA,64,reviewed,ci,ci
+1992-04-23T05:37:09.700Z,33.959,-116.3871667,0.905,2.5,mh,7,210,NA,0.07,ci,ci3017238,2016-04-02T00:49:20.517Z,"11km E of Desert Hot Springs, CA",earthquake,0.77,1.05,NA,0,reviewed,ci,ci
+1992-04-23T05:37:32.740Z,33.956,-116.341,3.868,2.79,mc,0,136.2,NA,0.154,ci,ci3017246,2016-02-10T14:05:55.329Z,"15km E of Desert Hot Springs, California",earthquake,NA,0.279,NA,9,reviewed,ci,ci
+1992-04-23T05:45:59.300Z,34.022,-116.324,5.998,3.09,mc,0,117.3,NA,0.173,ci,ci2047725,2016-02-10T21:15:22.318Z,"13km S of Joshua Tree, California",earthquake,NA,4.23,NA,5,reviewed,ci,ci
+1992-04-23T05:53:16.670Z,33.991,-116.304,2.739,3.28,mc,0,71.3,NA,0.142,ci,ci2047726,2016-02-10T17:36:53.462Z,"16km S of Joshua Tree, California",earthquake,NA,0.38,NA,35,reviewed,ci,ci
+1992-04-23T05:56:14.320Z,33.949,-116.317,8.209,3.24,mc,0,62.4,NA,0.168,ci,ci2047727,2016-02-10T07:02:40.821Z,"16km NNE of Thousand Palms, California",earthquake,NA,0.862,NA,60,reviewed,ci,ci
+1992-04-23T05:56:49.510Z,34.029,-116.331,-1.067,2.84,mc,0,89.4,NA,0.119,ci,ci3017296,2016-02-10T21:15:23.950Z,"12km S of Joshua Tree, California",earthquake,NA,4.484,NA,8,reviewed,ci,ci
+1992-04-23T05:58:07.900Z,33.977,-116.233,1.964,3.5,mc,0,67.7,NA,0.215,ci,ci2047728,2016-02-10T03:29:48.042Z,"19km SSE of Joshua Tree, California",earthquake,NA,0.29,NA,65,reviewed,ci,ci
+1992-04-23T06:06:32.920Z,34.031,-116.332,-0.519,2.89,mc,0,80.6,NA,0.185,ci,ci2047729,2016-02-10T03:29:50.483Z,"12km S of Joshua Tree, California",earthquake,NA,0.468,NA,4,reviewed,ci,ci
+1992-04-23T06:06:43.050Z,33.96,-116.324,8.531,3.39,mc,0,83.9,NA,0.263,ci,ci3017321,2016-02-10T14:05:59.200Z,"16km E of Desert Hot Springs, California",earthquake,NA,1.194,NA,57,reviewed,ci,ci
+1992-04-23T06:11:55.340Z,34.028,-116.321,8.781,3.58,mc,0,63,NA,0.265,ci,ci2047731,2016-02-10T17:36:54.905Z,"12km S of Joshua Tree, California",earthquake,NA,0.443,NA,110,reviewed,ci,ci
+1992-04-23T06:12:31.030Z,34.034,-116.311,1.641,3,mh,0,136.6,NA,0.392,ci,ci3017430,2016-04-02T08:40:42.340Z,"11km S of Joshua Tree, CA",earthquake,NA,1.895,NA,0,reviewed,ci,ci
+1992-04-23T06:13:32.850Z,33.982,-116.235,1.809,2.99,mc,0,67.8,NA,0.202,ci,ci3017431,2016-02-09T20:04:33.575Z,"18km SSE of Joshua Tree, California",earthquake,NA,0.2,NA,38,reviewed,ci,ci
+1992-04-23T06:15:50.590Z,33.9878333,-116.3298333,5.239,3.27,mc,41,63,NA,0.22,ci,ci2047732,2016-04-01T19:43:43.286Z,"16km E of Desert Hot Springs, CA",earthquake,0.42,1.67,NA,32,reviewed,ci,ci
+1992-04-23T06:16:02.900Z,33.9491667,-116.3181667,7.807,2.5,mh,4,230,0.05451,0.12,ci,ci12177163,2016-02-09T20:04:36.099Z,"16km NNE of Thousand Palms, California",earthquake,2.37,1.26,NA,0,reviewed,ci,ci
+1992-04-23T06:17:32.410Z,33.95,-116.317,5.099,3.38,mc,0,62.5,NA,0.209,ci,ci2047733,2016-02-10T03:29:51.945Z,"16km NNE of Thousand Palms, California",earthquake,NA,1.012,NA,79,reviewed,ci,ci
+1992-04-23T06:18:44.850Z,33.952,-116.319,4.369,3.17,mc,0,62.5,NA,0.189,ci,ci3017562,2016-02-10T14:06:00.555Z,"16km NNE of Thousand Palms, California",earthquake,NA,0.192,NA,63,reviewed,ci,ci
+1992-04-23T06:27:41.830Z,33.978,-116.334,1.739,3.23,mc,0,73.5,NA,0.206,ci,ci2047735,2016-02-09T23:52:20.962Z,"16km E of Desert Hot Springs, California",earthquake,NA,0.315,NA,36,reviewed,ci,ci
+1992-04-23T06:34:06.540Z,33.9841667,-116.3271667,10.29,2.81,mc,22,156,0.1854,0.2,ci,ci3017750,2016-04-02T18:14:54.105Z,"16km E of Desert Hot Springs, CA",earthquake,0.62,2.38,NA,61,reviewed,ci,ci
+1992-04-23T06:34:28.960Z,33.956,-116.3251667,1.799,2.5,mh,14,72,0.05094,0.13,ci,ci12177167,2016-02-10T17:36:56.675Z,"16km NNE of Thousand Palms, California",earthquake,0.53,0.88,NA,0,reviewed,ci,ci
+1992-04-23T06:34:31.070Z,33.952,-116.3286667,0.879,3.15,mc,24,69,NA,0.15,ci,ci2047736,2016-02-10T03:29:53.316Z,"16km NNE of Thousand Palms, California",earthquake,0.48,0.81,NA,61,reviewed,ci,ci
+1992-04-23T06:35:26.550Z,34.0161667,-116.3376667,8.439,2.73,mc,13,85,0.08698,0.21,ci,ci3017756,2016-04-02T02:16:43.638Z,"13km S of Joshua Tree, CA",earthquake,0.8,2.07,NA,37,reviewed,ci,ci
+1992-04-23T06:36:28.840Z,34.0508333,-116.3358333,7.519,3.56,mc,48,56,NA,0.22,ci,ci3017753,2016-04-02T05:30:49.841Z,"10km SSW of Joshua Tree, CA",earthquake,0.42,1.2,NA,79,reviewed,ci,ci
+1992-04-23T06:37:21.040Z,33.9651667,-116.3543333,5.639,2.5,mh,9,70,0.03621,0.1,ci,ci3017748,2016-04-02T11:57:06.729Z,"14km E of Desert Hot Springs, CA",earthquake,0.45,0.85,NA,0,reviewed,ci,ci
+1992-04-23T06:38:42.450Z,33.9731667,-116.3265,5.389,2.92,mc,42,73,0.05852,0.25,ci,ci2047738,2016-04-02T15:05:02.238Z,"16km E of Desert Hot Springs, CA",earthquake,0.48,1.32,NA,54,reviewed,ci,ci
+1992-04-23T06:40:14.250Z,33.9528333,-116.315,5.429,3.81,mc,28,74,NA,0.15,ci,ci2047739,2016-04-02T02:15:00.703Z,"16km NNE of Thousand Palms, CA",earthquake,0.53,1.59,NA,8,reviewed,ci,ci
+1992-04-23T06:50:28.700Z,33.988,-116.291,3.393,3.73,mc,0,74.5,NA,0.192,ci,ci3017177,2016-02-10T17:36:59.440Z,"16km S of Joshua Tree, California",earthquake,NA,0.24,NA,39,reviewed,ci,ci
+1992-04-23T06:50:45.980Z,33.965,-116.314,1.949,3.34,mc,0,100.3,NA,0.126,ci,ci3017808,2016-02-09T20:04:38.637Z,"17km E of Desert Hot Springs, California",earthquake,NA,0.725,NA,30,reviewed,ci,ci
+1992-04-23T06:51:37.900Z,33.933,-116.321,2.939,3.27,mc,0,132.7,NA,0.198,ci,ci3017810,2016-02-09T23:52:23.580Z,"14km NNE of Thousand Palms, California",earthquake,NA,0.333,NA,45,reviewed,ci,ci
+1992-04-23T06:56:05.130Z,33.918,-116.43,10,2.5,ml,NA,NA,NA,0.1,us,usp000567a,2014-11-07T00:50:28.927Z,"1 km ESE of Desert Edge, California",earthquake,NA,NA,NA,NA,reviewed,us,gs$
+1992-04-23T06:59:13.000Z,34.0001667,-116.3221667,0.112,2.5,mh,16,174,NA,0.15,ci,ci12177171,2016-02-09T23:52:24.840Z,"15km S of Joshua Tree, California",earthquake,0.62,1.09,NA,0,reviewed,ci,ci
+1992-04-23T06:59:15.580Z,33.9746667,-116.3273333,2.635,3.11,mc,17,111,0.05891,0.41,ci,ci3017179,2016-04-01T19:45:33.925Z,"16km E of Desert Hot Springs, CA",earthquake,0.99,0.86,NA,42,reviewed,ci,ci
+1992-04-23T07:02:14.060Z,33.964,-116.3281667,1.389,2.94,mc,37,62,NA,0.3,ci,ci3017180,2016-04-02T15:06:46.488Z,"16km E of Desert Hot Springs, CA",earthquake,0.5,1.02,NA,38,reviewed,ci,ci
+1992-04-23T07:02:50.760Z,34,-116.329,5.199,2.7,mh,0,79.5,NA,0.226,ci,ci3018192,2016-04-02T08:38:31.593Z,"15km S of Joshua Tree, CA",earthquake,NA,4.025,NA,0,reviewed,ci,ci
+1992-04-23T07:03:04.480Z,33.9433333,-116.3281667,5.362,3,mc,24,69,NA,0.23,ci,ci3018193,2016-04-02T02:14:49.201Z,"15km NNE of Thousand Palms, CA",earthquake,0.54,1.26,NA,32,reviewed,ci,ci
+1992-04-23T07:03:50.110Z,33.999,-116.335,10.646,2.52,mc,0,158.3,NA,0.155,ci,ci3018194,2016-02-10T14:06:03.527Z,"15km S of Joshua Tree, California",earthquake,NA,0.882,NA,9,reviewed,ci,ci
+1992-04-23T07:04:04.550Z,34.011,-116.3221667,4.904,3.11,mc,24,81,0.08887,0.21,ci,ci3017181,2016-04-02T18:14:50.342Z,"14km S of Joshua Tree, CA",earthquake,0.49,10.28,NA,42,reviewed,ci,ci
+1992-04-23T07:06:03.270Z,34.006,-116.322,3.129,2.86,mc,0,77.4,NA,0.224,ci,ci3017182,2016-02-10T07:02:47.440Z,"14km S of Joshua Tree, California",earthquake,NA,0.458,NA,41,reviewed,ci,ci
+1992-04-23T07:19:36.190Z,33.97,-116.278,1.974,2.59,mc,0,84.1,NA,0.105,ci,ci2047740,2016-02-10T21:15:35.312Z,"19km S of Joshua Tree, California",earthquake,NA,0.623,NA,6,reviewed,ci,ci
+1992-04-23T07:20:43.090Z,34.0326667,-116.3355,0.489,2.8,mh,25,84,NA,0.19,ci,ci12177183,2016-02-10T07:02:48.673Z,"12km S of Joshua Tree, California",earthquake,0.53,0.94,NA,0,reviewed,ci,ci
+1992-04-23T07:20:48.830Z,33.9376667,-116.3198333,5.305,3.5,mh,19,71,NA,0.24,ci,ci12177179,2016-02-10T03:29:59.334Z,"15km NNE of Thousand Palms, California",earthquake,0.65,1.51,NA,0,reviewed,ci,ci
+1992-04-23T07:21:34.800Z,33.95,-116.351,4.289,3.48,mc,0,67.6,NA,0.182,ci,ci3019086,2016-02-10T03:30:00.613Z,"14km E of Desert Hot Springs, California",earthquake,NA,0.106,NA,27,reviewed,ci,ci
+1992-04-23T07:21:44.970Z,33.9655,-116.2963333,1.955,3.5,mh,12,90,NA,0.37,ci,ci12177175,2016-02-10T14:06:05.519Z,"18km NNE of Thousand Palms, California",earthquake,0.94,1.22,NA,0,reviewed,ci,ci
+1992-04-23T07:22:48.620Z,33.9595,-116.2996667,0.679,2.84,mc,49,64,NA,0.25,ci,ci3019095,2016-04-02T02:14:56.292Z,"18km NNE of Thousand Palms, CA",earthquake,0.41,0.85,NA,47,reviewed,ci,ci
+1992-04-23T07:39:26.140Z,34.0418333,-116.3285,1.479,2.69,mc,10,93,NA,0.11,ci,ci3019121,2016-04-02T18:12:52.314Z,"10km S of Joshua Tree, CA",earthquake,0.5,1.05,NA,11,reviewed,ci,ci
+1992-04-23T07:40:24.090Z,34.034,-116.234,7.214,3.07,mc,0,70,NA,0.173,ci,ci2047744,2016-02-10T10:39:14.157Z,"13km SSE of Joshua Tree, California",earthquake,NA,1.139,NA,43,reviewed,ci,ci
+1992-04-23T07:43:01.160Z,33.967,-116.326,7.699,2.97,mc,0,68.2,NA,0.181,ci,ci2047745,2016-02-10T03:30:03.280Z,"16km E of Desert Hot Springs, California",earthquake,NA,0.543,NA,40,reviewed,ci,ci
+1992-04-23T07:44:37.660Z,33.9515,-116.3493333,4.409,2.87,mc,40,66,NA,0.21,ci,ci2047747,2016-04-02T18:12:53.686Z,"14km E of Desert Hot Springs, CA",earthquake,0.42,0.59,NA,42,reviewed,ci,ci
+1992-04-23T07:45:07.710Z,33.946,-116.308,2.489,2.6,mc,0,72.4,NA,0.183,ci,ci3019144,2016-02-09T23:52:27.450Z,"16km NNE of Thousand Palms, California",earthquake,NA,0.204,NA,9,reviewed,ci,ci
+1992-04-23T07:46:49.160Z,33.982,-116.331,7.228,2.98,mc,0,140.2,NA,0.183,ci,ci2047748,2016-02-10T10:39:16.143Z,"16km E of Desert Hot Springs, California",earthquake,NA,1.079,NA,95,reviewed,ci,ci
+1992-04-23T07:47:11.850Z,33.996,-116.326,4.881,3.36,mc,0,63.7,NA,0.223,ci,ci3019115,2016-02-10T21:15:41.354Z,"16km S of Joshua Tree, California",earthquake,NA,3.963,NA,95,reviewed,ci,ci
+1992-04-23T07:49:25.130Z,34.0148333,-116.332,2.881,2.92,mc,45,63,NA,0.25,ci,ci2047749,2016-04-02T18:12:55.061Z,"13km S of Joshua Tree, CA",earthquake,0.54,0.9,NA,78,reviewed,ci,ci
+1992-04-23T07:49:39.780Z,33.9861667,-116.3248333,1.611,3.14,mc,13,83,NA,0.21,ci,ci3019164,2016-04-02T02:14:58.090Z,"16km E of Desert Hot Springs, CA",earthquake,0.49,0.77,NA,69,reviewed,ci,ci
+1992-04-23T07:52:33.550Z,34.037,-116.326,3.419,2.88,mc,0,77.1,NA,0.152,ci,ci2047750,2016-02-10T03:30:07.761Z,"11km S of Joshua Tree, California",earthquake,NA,0.262,NA,25,reviewed,ci,ci
+1992-04-23T07:55:33.000Z,33.93,-116.33,6,3.1,md,NA,NA,NA,NA,us,usp000567g,2014-11-07T00:50:28.934Z,"4 km NNE of Sky Valley, California",earthquake,NA,NA,NA,NA,reviewed,pas,pas
+1992-04-23T08:16:51.910Z,33.942,-116.25,10,2.8,md,NA,NA,NA,0.4,us,usp000567j,2014-11-07T00:50:28.937Z,"11 km ENE of Sky Valley, California",earthquake,NA,NA,NA,NA,reviewed,us,pas
+1992-04-23T08:26:01.030Z,33.996,-116.321,10,2.8,md,NA,NA,NA,1.1,us,usp000567k,2014-11-07T00:50:28.938Z,"12 km NNE of Sky Valley, California",earthquake,NA,NA,NA,NA,reviewed,us,pas
+1992-04-23T08:30:02.860Z,34.0231667,-116.3371667,2.631,2.63,mc,14,87,NA,0.18,ci,ci2047759,2016-04-01T22:58:19.192Z,"13km S of Joshua Tree, CA",earthquake,0.42,0.77,NA,8,reviewed,ci,ci
+1992-04-23T08:33:41.110Z,34.0336667,-116.3295,-0.271,3.89,mc,60,60,NA,0.27,ci,ci2047761,2016-04-02T05:28:42.537Z,"11km S of Joshua Tree, CA",earthquake,0.43,0.99,NA,59,reviewed,ci,ci
+1992-04-23T08:40:15.820Z,34.0435,-116.3286667,-0.191,2.88,mc,12,89,NA,0.2,ci,ci2047762,2016-04-02T08:38:43.826Z,"10km S of Joshua Tree, CA",earthquake,0.49,1.2,NA,70,reviewed,ci,ci
+1992-04-23T08:40:25.210Z,33.961,-116.307,0.483,3.22,mc,32,72,NA,0.15,ci,ci3028644,2016-04-01T22:59:02.908Z,"18km NNE of Thousand Palms, CA",earthquake,0.32,0.63,NA,72,reviewed,ci,ci
+1992-04-23T08:44:29.910Z,33.9413333,-116.31,-0.251,3.3,mc,48,62,NA,0.28,ci,ci2047763,2016-04-02T02:15:02.269Z,"15km NNE of Thousand Palms, CA",earthquake,0.45,1.11,NA,89,reviewed,ci,ci
+1992-04-23T08:45:13.770Z,33.9465,-116.3178333,3.719,3,mc,26,149,NA,0.22,ci,ci3028655,2016-04-02T02:15:38.733Z,"16km NNE of Thousand Palms, CA",earthquake,0.47,0.51,NA,29,reviewed,ci,ci
+1992-04-23T08:47:04.220Z,34.033,-116.31,-0.101,3.37,mc,0,95.9,0.1128,0.202,ci,ci3119894,2016-02-10T03:30:15.626Z,"11km S of Joshua Tree, California",earthquake,NA,1.889,NA,77,reviewed,ci,ci
+1992-04-23T08:47:20.370Z,34.042,-116.332,0.019,3.64,mc,0,70.1,NA,0.219,ci,ci3119895,2016-02-10T14:06:11.126Z,"10km S of Joshua Tree, California",earthquake,NA,0.692,NA,56,reviewed,ci,ci
+1992-04-23T08:48:54.100Z,34.027,-116.322,0.591,2.71,mc,0,80.2,0.1025,0.172,ci,ci3122436,2016-02-10T14:06:13.332Z,"12km S of Joshua Tree, California",earthquake,NA,0.6,NA,9,reviewed,ci,ci
+1992-04-23T08:49:01.960Z,33.954,-116.319,2.979,2.55,mc,0,73.1,NA,0.235,ci,ci3122445,2016-02-10T17:37:05.526Z,"16km NNE of Thousand Palms, California",earthquake,NA,0.437,NA,8,reviewed,ci,ci
+1992-04-23T08:50:33.480Z,33.935,-116.322,5.448,2.52,mc,0,85.6,NA,0.232,ci,ci2047766,2016-02-10T07:02:56.297Z,"14km NNE of Thousand Palms, California",earthquake,NA,NA,NA,50,reviewed,ci,ci
+1992-04-23T08:50:39.460Z,33.988,-116.324,5.217,2.55,mc,0,199.5,0.07,0.071,ci,ci3119209,2016-02-10T17:37:06.767Z,"16km S of Joshua Tree, California",earthquake,NA,NA,NA,44,reviewed,ci,ci
+1992-04-23T08:50:45.330Z,33.992,-116.331,-0.571,2.85,mc,0,80,NA,0.182,ci,ci3119213,2016-02-10T21:15:45.538Z,"16km S of Joshua Tree, California",earthquake,NA,1.154,NA,52,reviewed,ci,ci
+1992-04-23T08:53:54.400Z,33.98,-116.267,4.174,2.77,mc,0,107.6,0.0743,0.11,ci,ci2121480,2016-02-10T17:37:10.550Z,"18km SSE of Joshua Tree, California",earthquake,NA,0.51,NA,61,reviewed,ci,ci
+1992-04-23T08:53:56.860Z,33.988,-116.279,0.177,2.74,mc,0,65.7,NA,0.191,ci,ci2047767,2016-02-09T23:52:35.904Z,"17km S of Joshua Tree, California",earthquake,NA,0.594,NA,61,reviewed,ci,ci
+1992-04-23T09:00:41.870Z,34.022,-116.326,3.731,2.67,mc,0,62.8,NA,0.179,ci,ci2047768,2016-02-09T20:04:46.690Z,"13km S of Joshua Tree, California",earthquake,NA,0.289,NA,57,reviewed,ci,ci
+1992-04-23T09:06:25.910Z,34.048,-116.327,4.849,2.5,mc,0,81.8,NA,0.175,ci,ci2047769,2016-02-10T14:06:21.997Z,"10km S of Joshua Tree, California",earthquake,NA,16.181,NA,44,reviewed,ci,ci
+1992-04-23T09:07:14.490Z,33.99,-116.277,2.384,2.73,mc,0,65.9,NA,0.204,ci,ci2047771,2016-02-10T10:39:26.461Z,"16km SSE of Joshua Tree, California",earthquake,NA,0.265,NA,55,reviewed,ci,ci
+1992-04-23T09:10:49.820Z,34.011,-116.325,3.121,2.53,mc,0,103.1,0.08757,0.161,ci,ci3122715,2016-02-10T03:30:23.515Z,"14km S of Joshua Tree, California",earthquake,NA,0.925,NA,15,reviewed,ci,ci
+1992-04-23T09:11:41.150Z,33.938,-116.321,8.729,3.53,mc,0,57.2,NA,0.168,ci,ci3120066,2016-02-10T17:37:14.436Z,"15km NNE of Thousand Palms, California",earthquake,NA,0.513,NA,78,reviewed,ci,ci
+1992-04-23T09:12:58.850Z,34.008,-116.319,3.131,2.92,mc,0,80.9,NA,0.191,ci,ci3122441,2016-02-09T23:52:38.451Z,"14km S of Joshua Tree, California",earthquake,NA,0.24,NA,39,reviewed,ci,ci
+1992-04-23T09:14:21.810Z,34.034,-116.323,7.863,2.5,mc,0,61.6,NA,0.212,ci,ci3122618,2016-02-10T14:06:24.960Z,"11km S of Joshua Tree, California",earthquake,NA,0.854,NA,50,reviewed,ci,ci
+1992-04-23T09:16:34.080Z,34.025,-116.329,0.621,2.9,mc,0,84.9,NA,0.185,ci,ci3120067,2016-02-10T14:06:26.370Z,"12km S of Joshua Tree, California",earthquake,NA,0.416,NA,69,reviewed,ci,ci
+1992-04-23T09:17:53.710Z,34.03,-116.319,2.719,2.59,mc,0,63,NA,0.188,ci,ci2047775,2016-02-09T20:04:51.516Z,"12km S of Joshua Tree, California",earthquake,NA,0.32,NA,45,reviewed,ci,ci
+1992-04-23T09:20:45.070Z,33.984,-116.31,-0.652,2.51,mc,0,160.6,0.07598,0.275,ci,ci3122716,2016-02-10T21:15:50.859Z,"17km S of Joshua Tree, California",earthquake,NA,1.473,NA,27,reviewed,ci,ci
+1992-04-23T09:21:07.940Z,33.941,-116.309,0.849,2.56,mc,0,62.8,NA,0.206,ci,ci3122717,2016-02-09T23:52:41.849Z,"15km NNE of Thousand Palms, California",earthquake,NA,0.355,NA,38,reviewed,ci,ci
+1992-04-23T09:21:53.500Z,34.024,-116.331,-0.259,2.58,mc,0,87.6,NA,0.168,ci,ci2047776,2016-02-10T03:30:27.330Z,"12km S of Joshua Tree, California",earthquake,NA,0.452,NA,44,reviewed,ci,ci
+1992-04-23T09:27:16.160Z,34.029,-116.314,9.169,2.64,mc,0,87.7,NA,0.174,ci,ci3120070,2016-02-09T23:52:43.125Z,"12km S of Joshua Tree, California",earthquake,NA,2.981,NA,56,reviewed,ci,ci
+1992-04-23T09:27:23.350Z,34.025,-116.327,2.351,2.88,mc,0,61.9,NA,0.182,ci,ci3120071,2016-02-10T07:03:02.986Z,"12km S of Joshua Tree, California",earthquake,NA,0.509,NA,56,reviewed,ci,ci
+1992-04-23T09:29:25.550Z,33.973,-116.328,2.351,2.67,mc,0,77.2,0.05744,0.183,ci,ci3122447,2016-02-09T20:04:56.444Z,"16km E of Desert Hot Springs, California",earthquake,NA,1.005,NA,25,reviewed,ci,ci
+1992-04-23T09:29:43.210Z,34.044,-116.337,7.549,2.77,mc,0,87.9,0.1129,0.164,ci,ci3120089,2016-02-09T23:52:44.447Z,"10km SSW of Joshua Tree, California",earthquake,NA,5.16,NA,62,reviewed,ci,ci
+1992-04-23T09:29:50.010Z,34.021,-116.333,-0.781,2.91,mc,0,61.2,NA,0.156,ci,ci3120159,2016-02-10T17:37:16.943Z,"13km S of Joshua Tree, California",earthquake,NA,0.961,NA,50,reviewed,ci,ci
+1992-04-23T09:30:51.360Z,34.024,-116.335,-0.799,2.52,mc,0,88.1,0.095,0.156,ci,ci3120092,2016-02-10T07:03:04.292Z,"12km S of Joshua Tree, California",earthquake,NA,9.121,NA,5,reviewed,ci,ci
+1992-04-23T09:36:53.970Z,33.951,-116.307,-0.511,2.64,mc,0,72.8,NA,0.181,ci,ci2047782,2016-02-10T21:15:56.251Z,"16km NNE of Thousand Palms, California",earthquake,NA,0.372,NA,49,reviewed,ci,ci
+1992-04-23T09:40:53.090Z,34.004,-116.324,0.148,3.27,mc,0,145.5,NA,0.207,ci,ci3097747,2016-02-10T17:37:19.558Z,"15km S of Joshua Tree, California",earthquake,NA,0.346,NA,63,reviewed,ci,ci
+1992-04-23T09:43:54.130Z,34.015,-116.314,4.986,2.56,mc,0,65,NA,0.228,ci,ci3119359,2016-02-10T17:37:21.743Z,"13km S of Joshua Tree, California",earthquake,NA,NA,NA,63,reviewed,ci,ci
+1992-04-23T09:44:18.600Z,33.949,-116.311,-0.451,3.02,mc,0,72.1,NA,0.144,ci,ci2047784,2016-02-10T14:06:31.491Z,"16km NNE of Thousand Palms, California",earthquake,NA,0.518,NA,53,reviewed,ci,ci
+1992-04-23T09:46:33.390Z,33.947,-116.307,-0.537,3.29,mc,0,62.8,NA,0.18,ci,ci2047785,2016-02-09T20:05:01.633Z,"16km NNE of Thousand Palms, California",earthquake,NA,0.475,NA,13,reviewed,ci,ci
+1992-04-23T09:47:59.270Z,33.948,-116.31,-0.581,3.32,mc,0,62.7,NA,0.181,ci,ci3123247,2016-02-10T14:06:32.821Z,"16km NNE of Thousand Palms, California",earthquake,NA,0.372,NA,81,reviewed,ci,ci
+1992-04-23T09:51:27.000Z,33.951,-116.316,3.929,2.55,mc,0,65.5,NA,0.189,ci,ci2047786,2016-02-10T21:16:03.703Z,"16km NNE of Thousand Palms, California",earthquake,NA,0.181,NA,42,reviewed,ci,ci
+1992-04-23T09:56:09.550Z,34.01,-116.323,-0.279,2.87,mc,0,78.4,NA,0.182,ci,ci3119376,2016-02-10T17:37:25.635Z,"14km S of Joshua Tree, California",earthquake,NA,0.621,NA,58,reviewed,ci,ci
+1992-04-23T09:56:25.540Z,33.986,-116.326,7.769,3.06,mc,0,78.3,NA,0.163,ci,ci2047787,2016-02-10T10:39:32.810Z,"16km E of Desert Hot Springs, California",earthquake,NA,1.004,NA,34,reviewed,ci,ci
+1992-04-23T09:58:09.540Z,34.033,-116.323,7.969,3.78,mc,0,61.4,NA,0.169,ci,ci3120177,2016-02-10T21:16:05.262Z,"11km S of Joshua Tree, California",earthquake,NA,0.744,NA,66,reviewed,ci,ci
+1992-04-23T10:01:01.380Z,34.017,-116.337,-0.719,3.19,mc,0,75.7,NA,0.201,ci,ci3123325,2016-02-10T17:37:28.270Z,"13km S of Joshua Tree, California",earthquake,NA,0.655,NA,22,reviewed,ci,ci
+1992-04-23T10:03:03.420Z,33.934,-116.318,0.419,3.23,mc,0,62.1,NA,0.155,ci,ci2047789,2016-02-09T20:05:06.171Z,"14km NNE of Thousand Palms, California",earthquake,NA,0.253,NA,62,reviewed,ci,ci
+1992-04-23T10:06:02.790Z,33.954,-116.301,-0.691,2.59,mc,0,64.7,NA,0.249,ci,ci3123350,2016-02-09T23:52:50.779Z,"17km NNE of Thousand Palms, California",earthquake,NA,0.467,NA,32,reviewed,ci,ci
+1992-04-23T10:08:28.290Z,34.01,-116.321,4.361,2.69,mc,0,81.9,NA,0.184,ci,ci2121498,2016-02-10T07:03:09.726Z,"14km S of Joshua Tree, California",earthquake,NA,0.419,NA,50,reviewed,ci,ci
+1992-04-23T10:08:30.200Z,34.032,-116.324,-0.791,2.65,mc,0,86.6,NA,0.195,ci,ci2047790,2016-02-10T07:03:11.011Z,"12km S of Joshua Tree, California",earthquake,NA,1.29,NA,39,reviewed,ci,ci
+1992-04-23T10:09:27.200Z,34.011,-116.323,0.171,2.67,mc,0,82.3,NA,0.179,ci,ci3123507,2016-02-10T10:39:34.457Z,"14km S of Joshua Tree, California",earthquake,NA,0.719,NA,52,reviewed,ci,ci
+1992-04-23T10:09:43.350Z,34.027,-116.33,-0.109,2.97,mc,0,60.9,NA,0.21,ci,ci3123359,2016-02-09T23:52:52.092Z,"12km S of Joshua Tree, California",earthquake,NA,0.463,NA,38,reviewed,ci,ci
+1992-04-23T10:13:09.480Z,33.993,-116.291,2.799,3.19,mc,0,65.4,NA,0.178,ci,ci2047792,2016-02-10T21:16:08.146Z,"16km S of Joshua Tree, California",earthquake,NA,0.282,NA,30,reviewed,ci,ci
+1992-04-23T10:13:54.320Z,34.013,-116.328,4.701,2.94,mc,0,78.2,NA,0.196,ci,ci3123552,2016-02-10T07:03:12.389Z,"14km S of Joshua Tree, California",earthquake,NA,0.495,NA,41,reviewed,ci,ci
+1992-04-23T10:16:40.160Z,33.997,-116.322,-0.789,2.68,mc,0,80.5,NA,0.189,ci,ci3123697,2016-02-10T14:06:39.240Z,"15km S of Joshua Tree, California",earthquake,NA,0.872,NA,35,reviewed,ci,ci
+1992-04-23T10:16:48.130Z,33.937,-116.377,3.939,2.6,mc,0,83.2,NA,0.274,ci,ci3123709,2016-02-10T07:03:13.614Z,"12km ESE of Desert Hot Springs, California",earthquake,NA,0.203,NA,21,reviewed,ci,ci
+1992-04-23T10:16:57.940Z,34.034,-116.321,2.249,2.89,mc,0,92.4,0.1091,0.12,ci,ci3123642,2016-02-10T03:30:41.815Z,"11km S of Joshua Tree, California",earthquake,NA,1.73,NA,12,reviewed,ci,ci
+1992-04-23T10:18:08.020Z,33.987,-116.228,1.654,3.23,mc,0,68.4,NA,0.177,ci,ci2047793,2016-02-10T07:03:14.989Z,"18km SSE of Joshua Tree, California",earthquake,NA,0.289,NA,36,reviewed,ci,ci
+1992-04-23T10:19:09.120Z,33.947,-116.325,2.669,2.85,mc,0,84.3,NA,0.18,ci,ci3123624,2016-02-10T17:37:33.913Z,"15km NNE of Thousand Palms, California",earthquake,NA,0.284,NA,39,reviewed,ci,ci
+1992-04-23T10:20:13.670Z,33.971,-116.316,-0.341,2.79,mc,0,69.8,NA,0.178,ci,ci3123626,2016-02-09T23:52:53.424Z,"17km E of Desert Hot Springs, California",earthquake,NA,0.427,NA,59,reviewed,ci,ci
+1992-04-23T10:23:35.950Z,34.021,-116.325,0.561,2.61,mc,0,63.1,NA,0.194,ci,ci3123715,2016-02-10T10:39:35.783Z,"13km S of Joshua Tree, California",earthquake,NA,0.357,NA,54,reviewed,ci,ci
+1992-04-23T10:26:16.810Z,34.025,-116.321,-0.499,2.77,mc,0,69.1,NA,0.152,ci,ci2047794,2016-02-10T21:16:09.705Z,"12km S of Joshua Tree, California",earthquake,NA,0.634,NA,70,reviewed,ci,ci
+1992-04-23T10:30:23.540Z,34.019,-116.328,0.241,2.83,mc,0,83.8,NA,0.236,ci,ci2047795,2016-02-10T17:37:35.251Z,"13km S of Joshua Tree, California",earthquake,NA,0.54,NA,62,reviewed,ci,ci
+1992-04-23T10:31:39.330Z,34.025,-116.321,10.821,2.99,mc,0,91.4,0.1012,0.166,ci,ci3122757,2016-02-10T21:16:11.189Z,"12km S of Joshua Tree, California",earthquake,NA,1.893,NA,9,reviewed,ci,ci
+1992-04-23T10:46:00.760Z,33.951,-116.343,2.599,2.69,mc,0,67.4,NA,0.155,ci,ci3120184,2016-02-10T14:06:44.678Z,"15km E of Desert Hot Springs, California",earthquake,NA,0.314,NA,59,reviewed,ci,ci
+1992-04-23T10:46:08.650Z,33.955,-116.322,5.179,2.93,mc,0,85.6,NA,0.149,ci,ci3120201,2016-02-09T23:53:03.116Z,"16km NNE of Thousand Palms, California",earthquake,NA,1.063,NA,58,reviewed,ci,ci
+1992-04-23T10:47:55.250Z,33.975,-116.296,2.759,2.52,mc,0,80.2,0.08092,0.159,ci,ci3124049,2016-02-09T20:05:19.351Z,"18km S of Joshua Tree, California",earthquake,NA,0.385,NA,11,reviewed,ci,ci
+1992-04-23T10:50:37.210Z,34.046,-116.332,-0.251,2.62,mc,0,73.2,NA,0.194,ci,ci2047797,2016-02-10T14:06:47.203Z,"10km S of Joshua Tree, California",earthquake,NA,0.472,NA,58,reviewed,ci,ci
+1992-04-23T10:53:03.130Z,33.983,-116.26,4.164,2.65,mc,0,82.5,0.07164,0.155,ci,ci3122722,2016-02-09T23:53:05.766Z,"18km SSE of Joshua Tree, California",earthquake,NA,0.35,NA,65,reviewed,ci,ci
+1992-04-23T10:53:22.580Z,33.984,-116.321,-0.491,2.83,mc,0,83.8,NA,0.21,ci,ci3122723,2016-02-09T23:53:07.147Z,"17km S of Joshua Tree, California",earthquake,NA,1.207,NA,41,reviewed,ci,ci
+1992-04-23T10:56:28.930Z,33.986,-116.225,2.154,3.15,mc,0,68.5,NA,0.169,ci,ci3120196,2016-02-10T03:30:51.380Z,"18km SSE of Joshua Tree, California",earthquake,NA,0.251,NA,63,reviewed,ci,ci
+1992-04-23T11:00:41.890Z,33.943,-116.289,2.899,2.9,mc,0,75.2,0.07766,0.277,ci,ci3120322,2016-02-10T14:06:48.519Z,"17km NE of Thousand Palms, California",earthquake,NA,0.649,NA,76,reviewed,ci,ci
+1992-04-23T11:00:57.350Z,33.954,-116.32,6.879,3.19,mc,0,62.5,NA,0.164,ci,ci3120323,2016-02-09T20:05:21.132Z,"16km NNE of Thousand Palms, California",earthquake,NA,0.728,NA,74,reviewed,ci,ci
+1992-04-23T11:03:03.810Z,34.033,-116.236,6.754,2.92,mc,0,84.9,NA,0.15,ci,ci3120325,2016-02-09T23:53:09.794Z,"13km SSE of Joshua Tree, California",earthquake,NA,3.691,NA,76,reviewed,ci,ci
+1992-04-23T11:03:16.250Z,33.943,-116.321,5.262,3.09,mc,0,68,NA,0.158,ci,ci3120326,2016-02-10T17:37:42.210Z,"15km NNE of Thousand Palms, California",earthquake,NA,7.76,NA,72,reviewed,ci,ci
+1992-04-23T11:11:45.120Z,33.981,-116.331,10.149,2.93,mc,0,75.7,NA,0.137,ci,ci3120426,2016-02-10T14:06:52.515Z,"16km E of Desert Hot Springs, California",earthquake,NA,0.805,NA,75,reviewed,ci,ci
+1992-04-23T11:11:52.140Z,33.969,-116.323,-0.112,3.28,mc,0,131.4,NA,0.175,ci,ci3120427,2016-02-09T23:53:13.563Z,"16km E of Desert Hot Springs, California",earthquake,NA,0.783,NA,64,reviewed,ci,ci
+1992-04-23T11:12:06.790Z,33.983,-116.229,-0.836,3.56,mc,0,107.9,NA,0.19,ci,ci3120428,2016-02-09T23:53:14.926Z,"19km SSE of Joshua Tree, California",earthquake,NA,0.635,NA,55,reviewed,ci,ci
+1992-04-23T11:27:22.660Z,34.021,-116.33,-0.639,2.59,mc,0,79.9,NA,0.165,ci,ci2047805,2016-02-10T10:39:44.956Z,"13km S of Joshua Tree, California",earthquake,NA,0.483,NA,62,reviewed,ci,ci
+1992-04-23T11:28:06.570Z,33.957,-116.31,5.096,2.51,mc,0,164.8,NA,0.106,ci,ci3119534,2016-02-10T03:30:56.940Z,"17km NNE of Thousand Palms, California",earthquake,NA,1.72,NA,5,reviewed,ci,ci
+1992-04-23T11:31:06.860Z,33.965,-116.326,-0.671,2.9,mc,0,62.6,NA,0.18,ci,ci3120435,2016-02-10T03:30:58.296Z,"16km E of Desert Hot Springs, California",earthquake,NA,0.358,NA,63,reviewed,ci,ci
+1992-04-23T11:32:33.220Z,33.971,-116.322,0.139,2.98,mc,0,78.8,0.06029,0.192,ci,ci3122460,2016-02-10T17:37:47.382Z,"17km E of Desert Hot Springs, California",earthquake,NA,2.272,NA,7,reviewed,ci,ci
+1992-04-23T11:35:16.110Z,33.953,-116.313,8.809,2.64,mc,0,62.8,NA,0.145,ci,ci3120450,2016-02-09T20:05:31.526Z,"16km NNE of Thousand Palms, California",earthquake,NA,0.476,NA,58,reviewed,ci,ci
+1992-04-23T11:38:53.930Z,33.984,-116.286,2.529,3.62,mc,0,65.3,NA,0.187,ci,ci3120570,2016-02-10T10:39:46.320Z,"17km S of Joshua Tree, California",earthquake,NA,0.209,NA,72,reviewed,ci,ci
+1992-04-23T11:43:07.670Z,33.963,-116.364,-0.481,3.24,mc,0,60.9,NA,0.185,ci,ci3120582,2016-02-10T21:16:21.223Z,"13km E of Desert Hot Springs, California",earthquake,NA,0.34,NA,75,reviewed,ci,ci
+1992-04-23T11:46:43.530Z,33.987,-116.289,0.309,2.6,mc,0,65.2,NA,0.184,ci,ci2047813,2016-02-10T07:03:31.897Z,"17km S of Joshua Tree, California",earthquake,NA,0.458,NA,53,reviewed,ci,ci
+1992-04-23T11:49:07.400Z,34.036,-116.324,-0.251,2.53,mc,0,91.4,NA,0.127,ci,ci3119707,2016-02-10T07:03:33.194Z,"11km S of Joshua Tree, California",earthquake,NA,2.702,NA,13,reviewed,ci,ci
+1992-04-23T11:52:22.110Z,33.977,-116.335,1.139,2.99,mc,0,73.2,NA,0.171,ci,ci3120587,2016-02-10T17:37:50.019Z,"16km E of Desert Hot Springs, California",earthquake,NA,0.23,NA,67,reviewed,ci,ci
+1992-04-23T11:52:43.130Z,33.977,-116.284,3.373,2.91,mc,0,108.5,0.09072,0.181,ci,ci3120588,2016-02-10T10:39:51.304Z,"18km S of Joshua Tree, California",earthquake,NA,0.804,NA,10,reviewed,ci,ci
+1992-04-23T11:53:52.550Z,33.954,-116.319,6.539,2.54,mc,0,62.6,NA,0.164,ci,ci3122437,2016-02-10T21:16:26.400Z,"16km NNE of Thousand Palms, California",earthquake,NA,0.883,NA,54,reviewed,ci,ci
+1992-04-23T11:54:08.300Z,33.987,-116.285,2.819,2.86,mc,0,100.6,0.09054,0.157,ci,ci3122453,2016-02-10T21:16:27.818Z,"17km S of Joshua Tree, California",earthquake,NA,0.475,NA,19,reviewed,ci,ci
+1992-04-23T11:58:10.870Z,34.031,-116.319,2.249,2.58,mc,0,88.8,NA,0.169,ci,ci3121780,2016-02-10T21:16:29.194Z,"12km S of Joshua Tree, California",earthquake,NA,0.506,NA,44,reviewed,ci,ci
+1992-04-23T11:58:17.410Z,33.987,-116.286,1.929,2.78,mc,0,80.9,NA,0.207,ci,ci3121792,2016-02-09T23:53:29.218Z,"17km S of Joshua Tree, California",earthquake,NA,0.372,NA,56,reviewed,ci,ci
+1992-04-23T11:58:40.570Z,34.026,-116.327,0.771,2.98,mc,0,83.1,NA,0.195,ci,ci3121782,2016-02-10T07:03:35.776Z,"12km S of Joshua Tree, California",earthquake,NA,0.375,NA,52,reviewed,ci,ci
+1992-04-23T11:59:44.500Z,33.991,-116.285,2.881,2.67,mc,0,91.7,0.09285,0.18,ci,ci3121813,2016-02-10T14:07:03.189Z,"16km S of Joshua Tree, California",earthquake,NA,2.194,NA,8,reviewed,ci,ci
+1992-04-23T12:00:14.810Z,33.953,-116.321,2.973,2.89,mc,0,138.3,0.05322,0.065,ci,ci3124457,2016-02-10T10:39:52.511Z,"16km NNE of Thousand Palms, California",earthquake,NA,0.684,NA,24,reviewed,ci,ci
+1992-04-23T12:00:29.610Z,33.968,-116.318,0.179,2.8,mc,0,79,NA,0.16,ci,ci3121784,2016-02-10T10:39:54.115Z,"17km E of Desert Hot Springs, California",earthquake,NA,0.653,NA,59,reviewed,ci,ci
+1992-04-23T12:00:35.580Z,34.016,-116.329,6.671,2.93,mc,0,62.8,NA,0.166,ci,ci3121823,2016-02-09T20:05:38.000Z,"13km S of Joshua Tree, California",earthquake,NA,2.058,NA,57,reviewed,ci,ci
+1992-04-23T12:16:46.550Z,33.956,-116.313,-0.691,3.61,mc,0,62.9,NA,0.177,ci,ci3121787,2016-02-10T21:16:32.129Z,"17km NNE of Thousand Palms, California",earthquake,NA,0.354,NA,62,reviewed,ci,ci
+1992-04-23T12:18:22.970Z,33.962,-116.316,1.709,2.8,mc,0,77,NA,0.14,ci,ci3121789,2016-02-10T21:16:33.579Z,"17km E of Desert Hot Springs, California",earthquake,NA,0.625,NA,34,reviewed,ci,ci
+1992-04-23T12:18:34.730Z,33.955,-116.311,1.259,2.83,mc,0,66,NA,0.147,ci,ci3122074,2016-02-10T10:40:01.704Z,"17km NNE of Thousand Palms, California",earthquake,NA,0.445,NA,43,reviewed,ci,ci
+1992-04-23T12:21:32.370Z,33.947,-116.309,-0.537,3.48,mc,0,72.5,NA,0.212,ci,ci3122069,2016-02-10T14:07:09.154Z,"16km NNE of Thousand Palms, California",earthquake,NA,0.64,NA,59,reviewed,ci,ci
+1992-04-23T12:22:08.660Z,33.955,-116.304,1.499,3.43,mc,0,77.8,0.06735,0.177,ci,ci3122070,2016-02-10T07:03:38.781Z,"17km NNE of Thousand Palms, California",earthquake,NA,0.623,NA,5,reviewed,ci,ci
+1992-04-23T12:30:53.460Z,33.964,-116.324,5.299,3.03,mc,0,62.7,NA,0.181,ci,ci2047827,2016-02-10T10:40:03.080Z,"16km E of Desert Hot Springs, California",earthquake,NA,0.942,NA,86,reviewed,ci,ci
+1992-04-23T12:35:17.080Z,33.947,-116.32,7.589,3.4,mc,0,61.8,NA,0.21,ci,ci2047828,2016-02-10T07:03:42.694Z,"16km NNE of Thousand Palms, California",earthquake,NA,0.367,NA,23,reviewed,ci,ci
+1992-04-23T12:40:17.970Z,34.014,-116.328,2.251,2.69,mc,0,87.3,NA,0.18,ci,ci3125168,2016-02-10T17:37:58.899Z,"14km S of Joshua Tree, California",earthquake,NA,0.791,NA,13,reviewed,ci,ci
+1992-04-23T12:45:36.030Z,33.973,-116.296,-0.161,2.67,mc,0,89.2,NA,0.205,ci,ci2047829,2016-02-10T10:40:07.304Z,"18km S of Joshua Tree, California",earthquake,NA,0.764,NA,27,reviewed,ci,ci
+1992-04-23T12:45:48.860Z,33.975,-116.334,1.719,2.93,mc,0,72.7,NA,0.203,ci,ci3017288,2016-02-10T17:38:00.151Z,"16km E of Desert Hot Springs, California",earthquake,NA,0.364,NA,46,reviewed,ci,ci
+1992-04-23T12:46:58.810Z,33.994,-116.288,2.943,2.6,mh,0,81,NA,0.188,ci,ci3017850,2016-02-10T07:03:47.091Z,"16km S of Joshua Tree, California",earthquake,NA,0.265,NA,0,reviewed,ci,ci
+1992-04-23T12:47:37.140Z,33.97,-116.279,4.254,2.85,mc,0,94.7,0.07766,0.159,ci,ci3125147,2016-02-10T17:38:01.850Z,"19km S of Joshua Tree, California",earthquake,NA,0.441,NA,36,reviewed,ci,ci
+1992-04-23T12:47:42.550Z,34.011,-116.329,8.319,2.81,mc,0,82.8,NA,0.163,ci,ci3125199,2016-02-09T20:05:45.809Z,"14km S of Joshua Tree, California",earthquake,NA,1.618,NA,41,reviewed,ci,ci
+1992-04-23T12:52:56.020Z,34.023,-116.332,5.861,3.03,mc,0,61.2,NA,0.177,ci,ci3122086,2016-02-10T17:38:03.227Z,"12km S of Joshua Tree, California",earthquake,NA,1.78,NA,75,reviewed,ci,ci
+1992-04-23T13:15:43.160Z,34.004,-116.324,-0.049,2.75,mc,0,64.1,NA,0.217,ci,ci2047836,2016-02-10T07:03:51.007Z,"15km S of Joshua Tree, California",earthquake,NA,0.375,NA,49,reviewed,ci,ci
+1992-04-23T13:16:17.740Z,33.992,-116.284,2.469,2.58,mc,0,81.3,NA,0.194,ci,ci3120048,2016-02-09T23:53:42.208Z,"16km S of Joshua Tree, California",earthquake,NA,0.308,NA,35,reviewed,ci,ci
+1992-04-23T13:22:34.980Z,33.987,-116.288,3.009,2.97,mc,0,65.3,NA,0.176,ci,ci3122098,2016-02-10T10:40:10.126Z,"17km S of Joshua Tree, California",earthquake,NA,0.234,NA,56,reviewed,ci,ci
+1992-04-23T13:24:44.280Z,33.917,-116.462,1.266,2.51,mc,0,93.3,0.06939,0.143,ci,ci3131733,2016-02-10T07:03:52.225Z,"6km SE of Desert Hot Springs, California",earthquake,NA,1.395,NA,4,reviewed,ci,ci
+1992-04-23T13:25:32.750Z,33.961,-116.365,-0.691,2.97,mc,0,70.6,NA,0.195,ci,ci2047841,2016-02-09T23:53:47.391Z,"13km E of Desert Hot Springs, California",earthquake,NA,0.485,NA,63,reviewed,ci,ci
+1992-04-23T13:32:00.530Z,34.04,-116.344,0.039,2.68,mc,0,89.7,NA,0.203,ci,ci2047843,2016-02-10T17:38:09.440Z,"11km SSW of Joshua Tree, California",earthquake,NA,0.437,NA,43,reviewed,ci,ci
+1992-04-23T13:33:12.760Z,33.988,-116.326,0.878,2.58,mc,0,157.8,NA,0.123,ci,ci3120398,2016-02-09T20:05:54.691Z,"16km S of Joshua Tree, California",earthquake,NA,0.97,NA,43,reviewed,ci,ci
+1992-04-23T13:33:15.200Z,33.95,-116.319,7.269,2.51,mc,0,62.4,NA,0.194,ci,ci2047844,2016-02-10T03:31:17.671Z,"16km NNE of Thousand Palms, California",earthquake,NA,0.492,NA,43,reviewed,ci,ci
+1992-04-23T13:35:03.930Z,33.942,-116.31,0.471,3.08,mc,0,73,NA,0.177,ci,ci3017315,2016-02-09T20:05:56.002Z,"16km NNE of Thousand Palms, California",earthquake,NA,0.328,NA,14,reviewed,ci,ci
+1992-04-23T13:35:57.460Z,33.942,-116.312,0.503,4.14,mc,0,62.4,NA,0.2,ci,ci3017852,2016-02-10T17:38:10.823Z,"15km NNE of Thousand Palms, California",earthquake,NA,0.206,NA,63,reviewed,ci,ci
+1992-04-23T13:37:05.340Z,33.954,-116.305,1.781,3.49,mc,0,104.8,0.06629,0.082,ci,ci3017865,2016-02-10T10:40:12.604Z,"17km NNE of Thousand Palms, California",earthquake,NA,0.46,NA,30,reviewed,ci,ci
+1992-04-23T13:42:52.040Z,33.956,-116.34,2.369,2.64,mc,0,66.2,NA,0.196,ci,ci2047846,2016-02-10T17:38:12.114Z,"15km E of Desert Hot Springs, California",earthquake,NA,0.314,NA,16,reviewed,ci,ci
+1992-04-23T13:47:37.980Z,33.961,-116.31,1.731,2.76,mc,0,145.7,0.0645,0.138,ci,ci3126581,2016-02-10T14:07:28.185Z,"17km NNE of Thousand Palms, California",earthquake,NA,0.58,NA,51,reviewed,ci,ci
+1992-04-23T13:47:55.400Z,33.949,-116.308,-0.561,3.05,mc,0,62.9,NA,0.224,ci,ci2047847,2016-02-10T07:03:58.577Z,"16km NNE of Thousand Palms, California",earthquake,NA,0.405,NA,64,reviewed,ci,ci
+1992-04-23T13:59:11.250Z,33.959,-116.319,5.159,2.69,mc,0,62.8,NA,0.167,ci,ci2047849,2016-02-10T03:31:20.221Z,"17km NNE of Thousand Palms, California",earthquake,NA,1.349,NA,32,reviewed,ci,ci
+1992-04-23T14:01:05.650Z,34.007,-116.329,-0.399,2.88,mc,0,63.8,NA,0.202,ci,ci3122114,2016-02-09T23:53:54.642Z,"14km S of Joshua Tree, California",earthquake,NA,0.528,NA,53,reviewed,ci,ci
+1992-04-23T14:04:37.540Z,33.98,-116.328,6.043,2.57,mc,0,92.5,NA,0.168,ci,ci3120432,2016-02-10T14:07:34.832Z,"16km E of Desert Hot Springs, California",earthquake,NA,3.327,NA,10,reviewed,ci,ci
+1992-04-23T14:04:48.960Z,33.99,-116.238,2.054,2.61,mc,0,68.3,NA,0.162,ci,ci2047853,2016-02-10T03:31:22.712Z,"18km SSE of Joshua Tree, California",earthquake,NA,0.642,NA,8,reviewed,ci,ci
+1992-04-23T14:09:33.200Z,33.984,-116.221,0.274,2.58,mc,0,68.6,NA,0.214,ci,ci2047855,2016-02-10T21:16:48.260Z,"19km SSE of Joshua Tree, California",earthquake,NA,0.352,NA,26,reviewed,ci,ci
+1992-04-23T14:11:59.520Z,33.897,-116.293,4.831,3.13,mc,0,33,NA,0.19,ci,ci2047857,2016-02-09T23:53:57.353Z,"12km NE of Thousand Palms, California",earthquake,NA,6.438,NA,47,reviewed,ci,ci
+1992-04-23T14:16:11.030Z,33.981,-116.227,0.614,2.85,mc,0,68.2,NA,0.205,ci,ci2047858,2016-02-09T23:53:58.747Z,"19km SSE of Joshua Tree, California",earthquake,NA,0.34,NA,49,reviewed,ci,ci
+1992-04-23T14:27:30.420Z,33.96,-116.309,-0.021,3.17,mc,0,63.2,NA,0.194,ci,ci2047860,2016-02-10T03:31:27.560Z,"17km NNE of Thousand Palms, California",earthquake,NA,0.332,NA,41,reviewed,ci,ci
+1992-04-23T14:31:39.440Z,33.967,-116.315,-0.691,2.83,mc,0,63.2,NA,0.244,ci,ci2047861,2016-02-10T03:31:30.253Z,"17km E of Desert Hot Springs, California",earthquake,NA,0.547,NA,50,reviewed,ci,ci
+1992-04-23T14:43:58.050Z,34.038,-116.345,0.549,3.33,mc,0,69.9,NA,0.178,ci,ci3131011,2016-02-10T07:04:03.785Z,"11km SSW of Joshua Tree, California",earthquake,NA,0.315,NA,64,reviewed,ci,ci
+1992-04-23T14:45:37.000Z,34.041,-116.35,2.979,2.9,mc,0,95.7,0.1069,0.164,ci,ci3131012,2016-02-10T14:07:37.234Z,"11km SSW of Joshua Tree, California",earthquake,NA,0.44,NA,11,reviewed,ci,ci
+1992-04-23T14:49:16.250Z,33.939,-116.317,3.721,3.01,mc,0,134.1,NA,0.148,ci,ci3017338,2016-02-10T21:16:49.485Z,"15km NNE of Thousand Palms, California",earthquake,NA,0.219,NA,30,reviewed,ci,ci
+1992-04-23T14:49:22.080Z,33.983,-116.229,-0.491,3.3,mc,0,91.4,NA,0.184,ci,ci3131024,2016-02-10T21:16:50.820Z,"19km SSE of Joshua Tree, California",earthquake,NA,0.69,NA,13,reviewed,ci,ci
+1992-04-23T14:53:09.840Z,33.978,-116.235,0.694,3.45,mc,0,67.6,NA,0.187,ci,ci3122327,2016-02-10T21:16:52.414Z,"19km SSE of Joshua Tree, California",earthquake,NA,0.246,NA,61,reviewed,ci,ci
+1992-04-23T14:53:44.230Z,33.985,-116.225,1.654,3.48,mc,0,111.3,NA,0.174,ci,ci3122328,2016-02-10T10:40:21.216Z,"18km SSE of Joshua Tree, California",earthquake,NA,0.47,NA,15,reviewed,ci,ci
+1992-04-23T14:55:01.030Z,33.984,-116.229,0.074,2.97,mc,0,68.2,NA,0.186,ci,ci3122330,2016-02-09T20:06:06.191Z,"18km SSE of Joshua Tree, California",earthquake,NA,0.403,NA,42,reviewed,ci,ci
+1992-04-23T15:11:33.800Z,34.085,-116.301,10,2.9,md,NA,NA,NA,0.4,us,usp000568n,2014-11-07T00:50:29.066Z,"5 km SSE of Joshua Tree, California",earthquake,NA,NA,NA,NA,reviewed,us,pas
+1992-04-23T15:28:57.190Z,33.9968333,-116.3401667,5.407,2.55,mc,21,64,NA,0.25,ci,ci3017708,2016-04-01T23:00:31.023Z,"15km ENE of Desert Hot Springs, CA",earthquake,0.56,31.61,NA,31,reviewed,ci,ci
+1992-04-23T15:36:09.460Z,33.9411667,-116.3693333,4.611,2.5,mh,16,110,NA,0.17,ci,ci3017709,2016-02-10T21:16:53.631Z,"12km E of Desert Hot Springs, California",earthquake,0.84,0.37,NA,0,reviewed,ci,ci
+1992-04-23T15:36:13.990Z,34.0111667,-116.3316667,-0.501,2.82,mc,24,78,NA,0.22,ci,ci3018284,2016-04-02T05:28:50.146Z,"14km S of Joshua Tree, CA",earthquake,0.53,1.15,NA,7,reviewed,ci,ci
+1992-04-23T15:36:50.390Z,34.019,-116.326,2.389,2.7,mc,0,83.9,NA,0.193,ci,ci3018287,2016-02-10T21:16:54.967Z,"13km S of Joshua Tree, California",earthquake,NA,0.611,NA,6,reviewed,ci,ci
+1992-04-23T15:38:46.010Z,34.0121667,-116.3258333,2.529,2.61,mc,20,95,NA,0.23,ci,ci3017711,2016-04-02T11:57:05.546Z,"14km S of Joshua Tree, CA",earthquake,0.47,0.87,NA,44,reviewed,ci,ci
+1992-04-23T15:39:10.200Z,33.995,-116.322,11.029,2.5,mc,0,123.5,NA,0.09,ci,ci3017859,2016-02-09T20:06:07.444Z,"16km S of Joshua Tree, California",earthquake,NA,1.96,NA,6,reviewed,ci,ci
+1992-04-23T15:49:11.770Z,33.978,-116.324,9.699,2.87,mc,0,72.5,NA,0.183,ci,ci3017712,2016-02-09T20:06:08.895Z,"16km E of Desert Hot Springs, California",earthquake,NA,0.502,NA,15,reviewed,ci,ci
+1992-04-23T15:50:29.110Z,33.993,-116.292,2.389,2.59,mc,0,69,0.09332,0.182,ci,ci3017863,2016-02-09T23:54:01.419Z,"16km S of Joshua Tree, California",earthquake,NA,0.417,NA,52,reviewed,ci,ci
+1992-04-23T15:57:38.250Z,34.025,-116.33,2.719,2.81,mc,0,87.9,NA,0.163,ci,ci3017713,2016-02-10T21:16:57.585Z,"12km S of Joshua Tree, California",earthquake,NA,0.48,NA,59,reviewed,ci,ci
+1992-04-23T16:09:47.210Z,33.968,-116.367,0.956,2.55,mc,0,133,NA,0.168,ci,ci3017719,2016-02-10T10:40:23.980Z,"12km E of Desert Hot Springs, California",earthquake,NA,0.428,NA,20,reviewed,ci,ci
+1992-04-23T16:43:15.000Z,33.983,-116.333,6,3.1,ml,NA,NA,NA,NA,us,usp000568v,2014-11-07T00:50:29.126Z,"10 km N of Sky Valley, California",earthquake,NA,NA,NA,NA,reviewed,pas,gs$
+1992-04-23T16:44:36.090Z,33.9638333,-116.3296667,2.439,2.59,mc,14,77,NA,0.19,ci,ci3018024,2016-04-01T19:46:46.463Z,"16km E of Desert Hot Springs, CA",earthquake,0.43,0.73,NA,31,reviewed,ci,ci
+1992-04-23T16:45:21.690Z,33.9858333,-116.3406667,7.429,2.87,mc,25,78,NA,0.18,ci,ci3017729,2016-04-01T19:45:52.620Z,"15km E of Desert Hot Springs, CA",earthquake,0.57,1.44,NA,48,reviewed,ci,ci
+1992-04-23T16:55:39.430Z,33.952,-116.368,10,2.9,md,NA,NA,NA,0.7,us,usp000568x,2014-11-07T00:50:29.138Z,"7 km NNW of Sky Valley, California",earthquake,NA,NA,NA,NA,reviewed,us,pas
+1992-04-23T17:45:06.220Z,33.997,-116.299,10,2.7,ml,NA,NA,NA,0.9,us,usp0005690,2014-11-07T00:50:29.148Z,"12 km NNE of Sky Valley, California",earthquake,NA,NA,NA,NA,reviewed,us,gs/
+1992-04-23T18:01:48.420Z,34.0225,-116.333,-0.591,3.13,mc,38,61,NA,0.23,ci,ci3017771,2016-04-01T23:00:33.122Z,"13km S of Joshua Tree, CA",earthquake,0.44,1.03,NA,84,reviewed,ci,ci
+1992-04-23T18:04:14.970Z,33.994,-116.1896667,1.703,2.5,mh,22,101,NA,0.14,ci,ci3018273,2016-04-01T19:43:38.612Z,"19km SE of Joshua Tree, CA",earthquake,0.43,0.83,NA,0,reviewed,ci,ci
+1992-04-23T18:04:53.720Z,34.1688333,-116.3331667,4.899,2.82,mc,28,78,NA,0.19,ci,ci3017772,2016-04-02T02:16:45.067Z,"4km NNW of Joshua Tree, CA",earthquake,0.55,15.61,NA,63,reviewed,ci,ci
+1992-04-23T18:05:00.160Z,33.9823333,-116.3186667,2.314,2.5,mh,8,217,0.06934,0.13,ci,ci12177207,2016-02-10T07:04:06.974Z,"17km S of Joshua Tree, California",earthquake,1.62,0.98,NA,0,reviewed,ci,ci
+1992-04-23T18:06:40.720Z,33.9846667,-116.2505,1.633,3.72,mc,62,68,NA,0.38,ci,ci3017773,2016-04-02T08:40:45.202Z,"18km SSE of Joshua Tree, CA",earthquake,0.6,1.48,NA,96,reviewed,ci,ci
+1992-04-23T18:09:33.290Z,34.0313333,-116.3138333,3.243,2.52,mc,15,88,NA,0.2,ci,ci3017774,2016-04-01T19:45:53.948Z,"12km S of Joshua Tree, CA",earthquake,0.6,0.88,NA,30,reviewed,ci,ci
+1992-04-23T18:20:14.120Z,33.994,-116.402,10,3.9,ml,NA,NA,NA,0.8,us,usp0005696,2014-11-07T00:50:29.163Z,"8 km NNE of Desert Edge, California",earthquake,NA,NA,NA,NA,reviewed,us,gs/
+1992-04-23T18:54:15.320Z,33.907,-116.266,10,2.6,md,NA,NA,NA,0.1,us,usp0005698,2014-11-07T00:50:29.166Z,"8 km ENE of Sky Valley, California",earthquake,NA,NA,NA,NA,reviewed,us,pas
+1992-04-23T18:56:03.020Z,33.991,-116.284,2.789,4.24,mc,0,65.6,NA,0.262,ci,ci3027819,2016-02-10T07:04:08.568Z,"16km S of Joshua Tree, California",earthquake,NA,0.198,NA,89,reviewed,ci,ci
+1992-04-23T18:56:45.660Z,34.0075,-116.2868333,-0.583,2.5,mh,7,117,0.1058,0.21,ci,ci12177211,2016-02-10T10:40:28.523Z,"14km S of Joshua Tree, California",earthquake,0.73,5.11,NA,0,reviewed,ci,ci
+1992-04-23T18:58:36.330Z,33.9893333,-116.2585,1.474,2.61,mc,38,67,NA,0.19,ci,ci3027994,2016-04-01T22:58:59.143Z,"17km SSE of Joshua Tree, CA",earthquake,0.4,0.69,NA,35,reviewed,ci,ci
+1992-04-23T19:09:01.090Z,33.946,-116.376,10,2.8,md,NA,NA,NA,0.6,us,usp000569a,2014-11-07T00:50:29.170Z,"6 km ENE of Desert Edge, California",earthquake,NA,NA,NA,NA,reviewed,us,pas
+1992-04-23T19:33:40.000Z,34.137,-116.338,6,3.4,md,NA,NA,NA,NA,us,usp000569b,2014-11-07T00:50:29.172Z,"2 km W of Joshua Tree, California",earthquake,NA,NA,NA,NA,reviewed,pas,pas
+1992-04-23T19:50:06.000Z,33.945,-116.337,6,3.3,md,NA,NA,NA,NA,us,usp000569e,2014-11-07T00:50:29.189Z,"6 km NNE of Sky Valley, California",earthquake,NA,NA,NA,NA,reviewed,pas,pas
+1992-04-23T20:04:24.070Z,34.031,-116.38,10,3,ml,NA,NA,NA,0.5,us,usp000569g,2014-11-07T00:50:29.193Z,"10 km SSE of Yucca Valley, California",earthquake,NA,NA,NA,NA,reviewed,us,gs/
+1992-04-23T20:48:17.720Z,34.039,-116.3263333,1.859,2.7,mc,13,92,NA,0.15,ci,ci3017970,2016-04-02T18:15:20.524Z,"11km S of Joshua Tree, CA",earthquake,0.57,0.87,NA,25,reviewed,ci,ci
+1992-04-23T21:05:27.180Z,34.036,-116.346,1.769,2.5,mc,0,81.1,NA,0.208,ci,ci3017786,2016-02-10T10:40:31.076Z,"11km SSW of Joshua Tree, California",earthquake,NA,0.576,NA,17,reviewed,ci,ci
+1992-04-23T21:06:29.570Z,34.022,-116.319,6.196,2.65,mc,0,164.9,NA,0.147,ci,ci3017787,2016-02-10T07:04:09.832Z,"12km S of Joshua Tree, California",earthquake,NA,3.588,NA,28,reviewed,ci,ci
+1992-04-23T21:13:10.640Z,33.984,-116.265,4.116,2.94,mc,0,66.7,NA,0.163,ci,ci3017791,2016-02-10T10:40:32.484Z,"17km SSE of Joshua Tree, California",earthquake,NA,0.721,NA,69,reviewed,ci,ci
+1992-04-23T21:26:00.090Z,33.9608333,-116.3131667,1.149,2.56,mc,24,71,NA,0.21,ci,ci3017801,2016-04-02T15:06:47.912Z,"17km NNE of Thousand Palms, CA",earthquake,0.42,0.78,NA,29,reviewed,ci,ci
+1992-04-23T21:47:17.290Z,34.027,-116.333,2.339,2.84,mc,0,80.4,NA,0.183,ci,ci3017809,2016-02-10T14:07:43.654Z,"12km S of Joshua Tree, California",earthquake,NA,0.499,NA,67,reviewed,ci,ci
+1992-04-23T21:47:39.930Z,33.991,-116.35,5.329,2.69,mc,0,89.9,0.05992,0.186,ci,ci3018123,2016-02-10T21:17:08.188Z,"14km ENE of Desert Hot Springs, California",earthquake,NA,1.378,NA,9,reviewed,ci,ci
+1992-04-23T21:52:43.470Z,33.967,-116.312,0.369,2.52,mc,0,71,NA,0.154,ci,ci3017812,2016-02-10T03:31:42.757Z,"18km E of Desert Hot Springs, California",earthquake,NA,0.609,NA,41,reviewed,ci,ci
+1992-04-23T22:25:04.090Z,34.035,-116.326,8.899,2.77,mc,0,80.9,NA,0.157,ci,ci3017823,2016-02-10T10:40:33.779Z,"11km S of Joshua Tree, California",earthquake,NA,1.46,NA,51,reviewed,ci,ci
+1992-04-23T22:29:47.100Z,34.0288333,-116.3263333,3.349,3.19,mc,45,80,NA,0.21,ci,ci3017824,2016-04-02T18:15:13.505Z,"12km S of Joshua Tree, CA",earthquake,0.43,1.2,NA,83,reviewed,ci,ci
+1992-04-23T22:42:52.640Z,34.073,-116.365,0.149,2.65,mc,0,91.7,NA,0.192,ci,ci3017831,2016-02-09T23:54:13.898Z,"8km SE of Yucca Valley, California",earthquake,NA,0.487,NA,48,reviewed,ci,ci
+1992-04-23T22:55:56.290Z,33.963,-116.394,10,3.8,md,NA,NA,NA,0.9,us,usp000569p,2014-11-07T00:50:29.201Z,"6 km NE of Desert Edge, California",earthquake,NA,NA,NA,NA,reviewed,us,pas
+1992-04-23T23:22:30.580Z,33.9908333,-116.3321667,5.469,3.09,mc,47,64,NA,0.22,ci,ci3017842,2016-04-02T02:16:56.263Z,"16km ENE of Desert Hot Springs, CA",earthquake,0.42,1.31,NA,79,reviewed,ci,ci
+1992-04-23T23:27:37.960Z,33.967,-116.276,5.031,2.89,mc,0,65.1,NA,0.167,ci,ci3017843,2016-02-09T20:06:22.456Z,"19km S of Joshua Tree, California",earthquake,NA,19.806,NA,54,reviewed,ci,ci
+1992-04-23T23:29:14.200Z,33.975,-116.269,6.083,2.9,mc,0,65.8,NA,0.171,ci,ci3017844,2016-02-10T07:04:17.547Z,"18km SSE of Joshua Tree, California",earthquake,NA,3.501,NA,56,reviewed,ci,ci
+1992-04-23T23:29:47.400Z,33.956,-116.383,2.879,2.8,mc,0,84.7,NA,0.133,ci,ci3018156,2016-02-09T23:54:16.557Z,"11km E of Desert Hot Springs, California",earthquake,NA,0.203,NA,24,reviewed,ci,ci
+1992-04-23T23:52:40.000Z,33.978,-116.262,6,3.9,ml,NA,NA,NA,NA,us,usp000569w,2014-11-07T00:50:29.215Z,"12 km NE of Sky Valley, California",earthquake,NA,NA,NA,NA,reviewed,pas,gs$
+1992-04-24T00:05:06.830Z,33.963,-116.323,7.859,2.79,mc,0,68.9,NA,0.157,ci,ci3017854,2016-02-10T07:04:21.371Z,"16km E of Desert Hot Springs, California",earthquake,NA,0.669,NA,36,reviewed,ci,ci
+1992-04-24T00:10:05.360Z,33.9473333,-116.3488333,3.651,2.62,mc,25,131,NA,0.19,ci,ci3017857,2016-04-01T19:46:09.035Z,"14km E of Desert Hot Springs, CA",earthquake,0.52,0.57,NA,33,reviewed,ci,ci
+1992-04-24T00:58:35.630Z,33.9478333,-116.328,2.505,2.5,mc,30,64,NA,0.24,ci,ci3017871,2016-04-02T15:06:56.998Z,"15km NNE of Thousand Palms, CA",earthquake,0.5,1.12,NA,43,reviewed,ci,ci
+1992-04-24T01:03:29.930Z,34.02,-116.295,10,3.2,md,NA,NA,NA,0.5,us,usp00056a2,2014-11-07T00:50:29.236Z,"12 km S of Joshua Tree, California",earthquake,NA,NA,NA,NA,reviewed,us,pas
+1992-04-24T01:08:28.040Z,34.0376667,-116.3326667,0.169,2.66,mc,29,68,NA,0.25,ci,ci3017874,2016-04-02T18:15:17.362Z,"11km S of Joshua Tree, CA",earthquake,0.53,1.2,NA,47,reviewed,ci,ci
+1992-04-24T01:10:52.430Z,34.0208333,-116.3356667,3.821,2.93,mc,47,61,NA,0.2,ci,ci2048032,2016-04-02T18:13:40.851Z,"13km S of Joshua Tree, CA",earthquake,0.37,0.96,NA,19,reviewed,ci,ci
+1992-04-24T01:11:49.050Z,33.9806667,-116.2233333,-0.701,2.75,mc,34,94,NA,0.17,ci,ci2104097,2016-04-01T19:44:14.200Z,"19km SSE of Joshua Tree, CA",earthquake,0.42,0.89,NA,60,reviewed,ci,ci
+1992-04-24T01:15:51.220Z,34.047,-116.335,1.909,3.11,mc,0,97.5,NA,0.167,ci,ci2048033,2016-02-10T03:31:52.801Z,"10km SSW of Joshua Tree, California",earthquake,NA,0.288,NA,14,reviewed,ci,ci
+1992-04-24T01:20:18.280Z,34.045,-116.338,-0.271,2.78,mc,0,96.8,NA,0.15,ci,ci2048035,2016-02-10T21:17:25.010Z,"10km SSW of Joshua Tree, California",earthquake,NA,0.363,NA,14,reviewed,ci,ci
+1992-04-24T01:37:34.820Z,34.0211667,-116.3311667,-0.589,2.62,mc,49,68,NA,0.28,ci,ci2048038,2016-04-02T08:39:35.064Z,"13km S of Joshua Tree, CA",earthquake,0.42,1.06,NA,53,reviewed,ci,ci
+1992-04-24T01:44:47.650Z,33.97,-116.282,3.263,2.57,mc,0,64.9,NA,0.184,ci,ci3017895,2016-02-10T10:40:41.417Z,"18km S of Joshua Tree, California",earthquake,NA,0.232,NA,38,reviewed,ci,ci
+1992-04-24T01:58:20.290Z,34.0355,-116.3371667,0.031,2.82,mc,52,68,NA,0.25,ci,ci2048044,2016-04-02T02:15:45.798Z,"11km SSW of Joshua Tree, CA",earthquake,0.41,0.93,NA,66,reviewed,ci,ci
+1992-04-24T02:31:23.820Z,33.993,-116.254,2.554,2.66,mc,0,67.3,NA,0.171,ci,ci2048055,2016-02-10T10:40:46.973Z,"17km SSE of Joshua Tree, California",earthquake,NA,0.218,NA,56,reviewed,ci,ci
+1992-04-24T02:40:15.560Z,33.9478333,-116.3388333,-0.071,2.84,mc,49,66,NA,0.21,ci,ci2048058,2016-04-02T02:15:47.179Z,"15km NNE of Thousand Palms, CA",earthquake,0.36,0.67,NA,68,reviewed,ci,ci
+1992-04-24T03:00:13.280Z,33.942,-116.322,5.629,3.4,mc,0,59.1,NA,0.188,ci,ci2048064,2016-02-10T14:07:54.815Z,"15km NNE of Thousand Palms, California",earthquake,NA,0.74,NA,102,reviewed,ci,ci
+1992-04-24T03:22:36.360Z,33.9426667,-116.321,4.111,2.66,mc,15,163,NA,0.16,ci,ci3017928,2016-04-02T02:16:59.353Z,"15km NNE of Thousand Palms, CA",earthquake,0.69,0.73,NA,32,reviewed,ci,ci
+1992-04-24T03:29:59.580Z,34.027,-116.329,-0.539,3.6,mc,0,69.2,NA,0.191,ci,ci3097348,2016-02-10T07:04:27.865Z,"12km S of Joshua Tree, California",earthquake,NA,0.243,NA,86,reviewed,ci,ci
+1992-04-24T03:30:36.570Z,34.032,-116.328,1.659,2.5,mh,0,90.4,NA,0.182,ci,ci3097353,2016-04-01T22:59:43.113Z,"12km S of Joshua Tree, CA",earthquake,NA,0.389,NA,0,reviewed,ci,ci
+1992-04-24T03:31:16.160Z,33.975,-116.267,4.634,2.7,mc,0,65.9,NA,0.193,ci,ci3097347,2016-02-10T03:31:59.405Z,"18km SSE of Joshua Tree, California",earthquake,NA,0.402,NA,29,reviewed,ci,ci
+1992-04-24T04:00:19.160Z,33.9856667,-116.2913333,2.733,2.51,mc,34,66,NA,0.22,ci,ci3017954,2016-04-01T19:46:11.658Z,"17km S of Joshua Tree, CA",earthquake,0.43,0.8,NA,35,reviewed,ci,ci
+1992-04-24T04:29:36.960Z,34.019,-116.26,10,2.6,ml,NA,NA,NA,0.2,us,usp00056ac,2014-11-07T00:50:29.276Z,"13 km SSE of Joshua Tree, California",earthquake,NA,NA,NA,NA,reviewed,us,gs$
+1992-04-24T04:37:59.190Z,33.97,-116.316,1.479,2.56,mc,0,70,NA,0.171,ci,ci3017962,2016-02-10T21:17:42.044Z,"17km E of Desert Hot Springs, California",earthquake,NA,0.456,NA,31,reviewed,ci,ci
+1992-04-24T05:43:50.700Z,34.011,-116.329,0.469,2.54,mc,0,80,NA,0.175,ci,ci3017981,2016-02-10T07:04:34.863Z,"14km S of Joshua Tree, California",earthquake,NA,0.546,NA,42,reviewed,ci,ci
+1992-04-24T05:47:41.780Z,34.027,-116.331,2.211,3.17,mc,0,85,NA,0.182,ci,ci2048103,2016-02-10T14:07:59.690Z,"12km S of Joshua Tree, California",earthquake,NA,0.203,NA,36,reviewed,ci,ci
+1992-04-24T06:14:39.900Z,33.958,-116.341,5.809,2.7,mc,0,68.8,NA,0.186,ci,ci2048106,2016-02-10T10:41:00.674Z,"15km E of Desert Hot Springs, California",earthquake,NA,0.513,NA,56,reviewed,ci,ci
+1992-04-24T06:19:12.010Z,34.027,-116.316,4.681,3.07,mc,0,80.2,NA,0.179,ci,ci3097588,2016-02-10T03:32:05.807Z,"12km S of Joshua Tree, California",earthquake,NA,3.477,NA,88,reviewed,ci,ci
+1992-04-24T07:13:40.000Z,33.998,-116.347,6,3.3,md,NA,NA,NA,NA,us,usp00056ap,2014-11-07T00:50:29.360Z,"11 km NE of Desert Edge, California",earthquake,NA,NA,NA,NA,reviewed,pas,pas
+1992-04-24T07:32:57.000Z,33.932,-116.318,6,3.6,md,NA,NA,NA,NA,us,usp00056aq,2014-11-07T00:50:29.369Z,"5 km NE of Sky Valley, California",earthquake,NA,NA,NA,NA,reviewed,pas,pas
+1992-04-24T08:02:16.710Z,34.0045,-116.3281667,7.201,2.98,mc,33,66,NA,0.17,ci,ci2048126,2016-04-01T19:44:43.190Z,"14km S of Joshua Tree, CA",earthquake,0.43,1.58,NA,22,reviewed,ci,ci
+1992-04-24T08:03:19.940Z,33.951,-116.307,1.809,2.87,mc,0,72.7,NA,0.183,ci,ci3097519,2016-02-10T07:04:42.301Z,"16km NNE of Thousand Palms, California",earthquake,NA,0.187,NA,15,reviewed,ci,ci
+1992-04-24T08:11:34.010Z,33.9495,-116.3251667,1.909,2.52,mc,27,65,NA,0.2,ci,ci3018027,2016-04-01T19:46:48.439Z,"16km NNE of Thousand Palms, CA",earthquake,0.51,0.79,NA,28,reviewed,ci,ci
+1992-04-24T08:47:18.820Z,33.95,-116.342,5.879,2.5,mh,0,80.9,NA,0.166,ci,ci3018302,2016-04-01T19:43:57.505Z,"15km E of Desert Hot Springs, CA",earthquake,NA,0.632,NA,0,reviewed,ci,ci
+1992-04-24T09:22:05.230Z,33.874,-116.294,-0.357,3.03,mc,0,60.3,NA,0.153,ci,ci3018049,2016-02-10T03:32:16.511Z,"11km NE of Thousand Palms, California",earthquake,NA,0.534,NA,79,reviewed,ci,ci
+1992-04-24T09:42:38.200Z,34.023,-116.332,0.779,3.18,mc,0,61.1,NA,0.202,ci,ci3018054,2016-02-10T10:41:07.198Z,"12km S of Joshua Tree, California",earthquake,NA,0.43,NA,82,reviewed,ci,ci
+1992-04-24T10:52:40.430Z,34.03,-116.346,-0.011,2.56,mc,0,84.4,NA,0.167,ci,ci3018071,2016-02-09T23:54:38.490Z,"12km SSW of Joshua Tree, California",earthquake,NA,0.819,NA,49,reviewed,ci,ci
+1992-04-24T11:23:45.220Z,34.021,-116.356,0.441,2.52,mc,0,56.4,NA,0.185,ci,ci3097604,2016-02-10T17:38:54.151Z,"12km SE of Yucca Valley, California",earthquake,NA,0.25,NA,54,reviewed,ci,ci
+1992-04-24T11:24:48.710Z,33.946,-116.359,6.389,3.39,mc,0,66.8,NA,0.228,ci,ci3097605,2016-02-10T14:08:15.289Z,"13km E of Desert Hot Springs, California",earthquake,NA,0.491,NA,82,reviewed,ci,ci
+1992-04-24T11:26:32.040Z,33.9428333,-116.3106667,0.899,2.54,mc,24,71,NA,0.12,ci,ci3097606,2016-04-02T08:40:05.584Z,"16km NNE of Thousand Palms, CA",earthquake,0.42,0.65,NA,32,reviewed,ci,ci
+1992-04-24T12:03:18.200Z,33.937,-116.297,-0.547,2.59,mc,0,75.3,NA,0.175,ci,ci3018678,2016-02-09T23:54:42.728Z,"16km NNE of Thousand Palms, California",earthquake,NA,0.764,NA,34,reviewed,ci,ci
+1992-04-24T12:36:05.740Z,33.946,-116.379,10,4.2,mb,NA,NA,NA,0.9,us,usp00056b3,2014-11-07T00:50:29.589Z,"6 km ENE of Desert Edge, California",earthquake,NA,NA,NA,5,reviewed,us,us
+1992-04-24T12:40:34.330Z,33.987,-116.293,5.133,2.62,mc,0,74.1,NA,0.158,ci,ci3018094,2016-02-10T17:38:56.923Z,"16km S of Joshua Tree, California",earthquake,NA,10.147,NA,40,reviewed,ci,ci
+1992-04-24T12:51:01.070Z,33.971,-116.3338333,1.809,2.71,mc,27,70,NA,0.2,ci,ci3018097,2016-04-02T11:57:51.130Z,"16km E of Desert Hot Springs, CA",earthquake,0.47,0.82,NA,40,reviewed,ci,ci
+1992-04-24T12:56:38.870Z,34.028,-116.325,2.629,2.58,mc,0,76.7,NA,0.189,ci,ci3018099,2016-02-09T20:07:20.678Z,"12km S of Joshua Tree, California",earthquake,NA,0.498,NA,29,reviewed,ci,ci
+1992-04-24T13:13:14.440Z,34.032,-116.331,0.459,2.96,mc,0,85.4,NA,0.175,ci,ci3018103,2016-02-10T07:05:07.698Z,"12km S of Joshua Tree, California",earthquake,NA,0.469,NA,75,reviewed,ci,ci
+1992-04-24T13:16:37.880Z,33.942,-116.309,1.061,2.61,mc,0,135.7,NA,0.164,ci,ci3018104,2016-02-10T14:08:19.138Z,"16km NNE of Thousand Palms, California",earthquake,NA,0.516,NA,51,reviewed,ci,ci
+1992-04-24T13:17:03.890Z,33.9326667,-116.3203333,0.351,2.77,mc,20,147,NA,0.19,ci,ci3018426,2016-04-02T05:30:23.132Z,"14km NNE of Thousand Palms, CA",earthquake,0.63,1.05,NA,34,reviewed,ci,ci
+1992-04-24T13:32:32.530Z,34.039,-116.325,-0.791,2.63,mc,0,68.6,NA,0.231,ci,ci3018111,2016-02-10T14:08:25.797Z,"11km S of Joshua Tree, California",earthquake,NA,0.454,NA,51,reviewed,ci,ci
+1992-04-24T13:45:56.660Z,33.904,-116.309,3.321,2.63,mc,0,61,NA,0.214,ci,ci3018118,2016-02-10T14:08:29.657Z,"12km NE of Thousand Palms, California",earthquake,NA,0.169,NA,46,reviewed,ci,ci
+1992-04-24T14:19:15.590Z,33.9361667,-116.3103333,0.451,2.53,mc,18,134,NA,0.12,ci,ci3018126,2016-04-01T19:46:56.663Z,"15km NNE of Thousand Palms, CA",earthquake,0.53,0.86,NA,37,reviewed,ci,ci
+1992-04-24T14:20:47.620Z,33.931,-116.364,4.559,2.95,mc,0,60,NA,0.205,ci,ci3018128,2016-02-10T10:41:24.642Z,"13km N of Thousand Palms, California",earthquake,NA,0.136,NA,63,reviewed,ci,ci
+1992-04-24T15:00:41.760Z,33.931,-116.3118333,0.949,2.96,mc,62,54,NA,0.26,ci,ci2048205,2016-04-02T05:29:50.959Z,"14km NNE of Thousand Palms, CA",earthquake,0.39,0.74,NA,71,reviewed,ci,ci
+1992-04-24T15:03:53.970Z,34.007,-116.323,0.961,2.64,mc,0,80.9,NA,0.159,ci,ci2048206,2016-02-10T14:08:35.369Z,"14km S of Joshua Tree, California",earthquake,NA,0.282,NA,55,reviewed,ci,ci
+1992-04-24T15:38:56.340Z,33.9891667,-116.2868333,5.155,2.57,mc,21,71,NA,0.16,ci,ci3018150,2016-04-01T19:43:33.199Z,"16km S of Joshua Tree, CA",earthquake,0.45,16.8,NA,44,reviewed,ci,ci
+1992-04-24T15:46:27.260Z,34.0006667,-116.332,8.519,2.52,mc,31,76,NA,0.2,ci,ci3018151,2016-04-02T18:12:36.886Z,"15km S of Joshua Tree, CA",earthquake,0.45,0.9,NA,41,reviewed,ci,ci
+1992-04-24T15:52:18.720Z,33.9628333,-116.301,0.833,2.5,mc,31,65,NA,0.25,ci,ci3018155,2016-04-02T05:28:26.594Z,"18km NNE of Thousand Palms, CA",earthquake,0.48,0.96,NA,34,reviewed,ci,ci
+1992-04-24T15:56:10.270Z,33.9385,-116.315,1.579,3.09,mc,39,67,NA,0.17,ci,ci3098453,2016-04-02T11:56:28.568Z,"15km NNE of Thousand Palms, CA",earthquake,0.41,0.68,NA,53,reviewed,ci,ci
+1992-04-24T16:01:05.560Z,34.122,-116.27,0.209,3.16,mc,0,47.2,NA,0.18,ci,ci2048228,2016-02-10T21:18:22.780Z,"4km ESE of Joshua Tree, California",earthquake,NA,0.249,NA,54,reviewed,ci,ci
+1992-04-24T16:17:00.130Z,33.866,-116.291,-0.689,3.57,mc,0,49.6,NA,0.213,ci,ci3098455,2016-02-09T23:54:57.293Z,"10km ENE of Thousand Palms, California",earthquake,NA,0.258,NA,101,reviewed,ci,ci
+1992-04-24T16:19:20.120Z,33.8681667,-116.2833333,-0.699,2.5,mc,29,48,NA,0.21,ci,ci3098456,2016-04-02T02:16:19.854Z,"11km ENE of Thousand Palms, CA",earthquake,0.45,1.1,NA,30,reviewed,ci,ci
+1992-04-24T16:23:30.440Z,33.9585,-116.3878333,2.389,2.56,mc,22,69,NA,0.2,ci,ci3018172,2016-04-02T08:38:27.404Z,"10km E of Desert Hot Springs, CA",earthquake,0.5,0.76,NA,19,reviewed,ci,ci
+1992-04-24T16:29:41.380Z,33.971,-116.299,2.873,2.63,mc,0,66.7,NA,0.202,ci,ci3018173,2016-02-10T07:05:31.969Z,"18km S of Joshua Tree, California",earthquake,NA,0.328,NA,28,reviewed,ci,ci
+1992-04-24T16:34:54.570Z,34.0315,-116.3248333,10.189,2.71,mc,30,69,NA,0.19,ci,ci3018176,2016-04-02T05:28:27.953Z,"12km S of Joshua Tree, CA",earthquake,0.44,0.84,NA,35,reviewed,ci,ci
+1992-04-24T16:57:08.160Z,33.8671667,-116.2913333,-0.097,2.64,mc,23,76,NA,0.13,ci,ci3018180,2016-04-02T18:12:40.795Z,"10km ENE of Thousand Palms, CA",earthquake,0.43,0.89,NA,39,reviewed,ci,ci
+1992-04-24T18:26:15.810Z,33.9636667,-116.3056667,-0.571,2.78,mc,34,81,NA,0.21,ci,ci3098457,2016-04-01T19:45:11.152Z,"18km NNE of Thousand Palms, CA",earthquake,0.43,0.84,NA,53,reviewed,ci,ci
+1992-04-24T18:58:28.520Z,33.954,-116.318,-0.381,2.51,mc,0,62.6,NA,0.197,ci,ci3018229,2016-02-09T20:07:41.266Z,"16km NNE of Thousand Palms, California",earthquake,NA,0.435,NA,38,reviewed,ci,ci
+1992-04-24T19:12:54.680Z,34.0333333,-116.3413333,0.501,2.5,mh,29,91,NA,0.18,ci,ci12177463,2016-02-09T20:07:46.548Z,"12km SSW of Joshua Tree, California",earthquake,0.48,0.9,NA,0,reviewed,ci,ci
+1992-04-24T19:12:57.200Z,33.9596667,-116.2926667,1.363,3.18,mc,24,75,NA,0.2,ci,ci3098464,2016-04-02T05:29:57.759Z,"18km NNE of Thousand Palms, CA",earthquake,0.54,0.92,NA,57,reviewed,ci,ci
+1992-04-24T19:17:42.780Z,34.0455,-116.3256667,2.729,2.6,mc,33,88,NA,0.19,ci,ci3098466,2016-04-01T22:59:48.825Z,"10km S of Joshua Tree, CA",earthquake,0.43,0.87,NA,52,reviewed,ci,ci
+1992-04-24T19:18:25.540Z,33.927,-116.303,-0.691,3.15,mc,0,63.1,NA,0.186,ci,ci3098465,2016-02-09T20:07:48.399Z,"14km NE of Thousand Palms, California",earthquake,NA,0.323,NA,70,reviewed,ci,ci
+1992-04-24T19:31:00.310Z,34.023,-116.315,5.136,2.9,mc,0,85.5,NA,0.159,ci,ci3018767,2016-02-10T07:05:43.533Z,"12km S of Joshua Tree, California",earthquake,NA,65.108,NA,62,reviewed,ci,ci
+1992-04-24T19:31:52.230Z,34.024,-116.3336667,-0.334,2.61,mc,15,162,NA,0.15,ci,ci3018238,2016-04-01T22:58:12.619Z,"12km S of Joshua Tree, CA",earthquake,0.61,1.07,NA,30,reviewed,ci,ci
+1992-04-24T19:50:09.670Z,33.937,-116.304,-0.451,2.59,mc,0,68.2,NA,0.171,ci,ci3099075,2016-02-10T17:39:25.529Z,"15km NNE of Thousand Palms, California",earthquake,NA,0.326,NA,37,reviewed,ci,ci
+1992-04-24T19:57:31.050Z,33.944,-116.313,2.299,3.55,mc,0,60.7,NA,0.197,ci,ci2048286,2016-02-10T07:05:46.196Z,"16km NNE of Thousand Palms, California",earthquake,NA,0.159,NA,103,reviewed,ci,ci
+1992-04-24T20:25:15.850Z,33.9455,-116.3125,3.413,2.54,mc,21,63,NA,0.2,ci,ci3018254,2016-04-02T05:28:31.981Z,"16km NNE of Thousand Palms, CA",earthquake,0.56,0.73,NA,45,reviewed,ci,ci
+1992-04-24T20:39:41.030Z,34.029,-116.311,5.975,2.66,mc,0,87.1,NA,0.195,ci,ci3099090,2016-02-10T14:09:02.693Z,"12km S of Joshua Tree, California",earthquake,NA,3.17,NA,72,reviewed,ci,ci
+1992-04-24T20:39:55.100Z,33.937,-116.292,-0.691,2.94,mc,0,60.5,NA,0.22,ci,ci3099079,2016-02-10T07:05:50.132Z,"16km NE of Thousand Palms, California",earthquake,NA,0.319,NA,73,reviewed,ci,ci
+1992-04-24T20:42:18.820Z,33.951,-116.357,6.919,3.34,mc,0,67.9,NA,0.16,ci,ci3099080,2016-02-10T21:18:51.969Z,"13km E of Desert Hot Springs, California",earthquake,NA,0.472,NA,98,reviewed,ci,ci
+1992-04-24T21:09:50.920Z,33.9716667,-116.3016667,1.053,3.23,mc,29,68,NA,0.2,ci,ci3018282,2016-04-02T11:55:21.073Z,"18km S of Joshua Tree, CA",earthquake,0.42,0.77,NA,79,reviewed,ci,ci
+1992-04-24T21:31:36.460Z,33.945,-116.361,7.399,2.69,mc,0,66.8,NA,0.167,ci,ci3018808,2016-02-10T14:09:07.738Z,"13km E of Desert Hot Springs, California",earthquake,NA,0.471,NA,47,reviewed,ci,ci
+1992-04-24T22:37:02.650Z,33.994,-116.2858333,2.233,2.57,mc,24,71,NA,0.2,ci,ci3018317,2016-04-01T22:58:37.202Z,"16km S of Joshua Tree, CA",earthquake,0.49,0.85,NA,42,reviewed,ci,ci
+1992-04-24T22:43:54.750Z,33.9753333,-116.2843333,-0.395,2.78,mc,28,101,NA,0.19,ci,ci3018318,2016-04-02T11:55:28.496Z,"18km S of Joshua Tree, CA",earthquake,0.45,0.93,NA,55,reviewed,ci,ci
+1992-04-24T22:48:09.770Z,33.996,-116.278,2.718,2.62,mc,0,71.7,NA,0.2,ci,ci3018321,2016-02-10T03:33:13.654Z,"16km SSE of Joshua Tree, California",earthquake,NA,0.395,NA,44,reviewed,ci,ci
+1992-04-24T23:26:36.850Z,33.9361667,-116.3018333,-0.691,2.69,mc,29,60,NA,0.2,ci,ci3072913,2016-04-02T08:39:24.934Z,"15km NNE of Thousand Palms, CA",earthquake,0.41,0.95,NA,14,reviewed,ci,ci
+1992-04-24T23:27:19.680Z,34.002,-116.303,4.575,3.28,mc,0,36.8,NA,0.21,ci,ci2048330,2016-02-10T21:19:07.512Z,"15km S of Joshua Tree, California",earthquake,NA,0.201,NA,101,reviewed,ci,ci
+1992-04-25T00:39:34.830Z,33.952,-116.3725,2.719,2.52,mc,45,43,NA,0.26,ci,ci2048340,2016-04-02T18:14:33.647Z,"12km E of Desert Hot Springs, CA",earthquake,0.34,0.38,NA,50,reviewed,ci,ci
+1992-04-25T01:16:40.330Z,33.9833333,-116.2651667,5.425,2.72,mc,29,66,NA,0.19,ci,ci3018377,2016-04-02T18:13:17.722Z,"17km SSE of Joshua Tree, CA",earthquake,0.36,3.73,NA,50,reviewed,ci,ci
+1992-04-25T01:27:38.560Z,33.9748333,-116.2693333,4.805,2.69,mc,48,50,NA,0.28,ci,ci3018380,2016-04-01T22:58:43.960Z,"18km SSE of Joshua Tree, CA",earthquake,0.43,0.74,NA,56,reviewed,ci,ci
+1992-04-25T02:13:42.750Z,33.93,-116.311,0.119,3.47,mc,0,63.8,NA,0.14,ci,ci2048360,2016-02-10T14:09:27.572Z,"14km NNE of Thousand Palms, California",earthquake,NA,0.345,NA,41,reviewed,ci,ci
+1992-04-25T02:14:27.080Z,33.931,-116.308,-0.701,3.18,mc,0,64.8,NA,0.117,ci,ci3027843,2016-02-10T14:09:28.857Z,"14km NNE of Thousand Palms, California",earthquake,NA,0.9,NA,40,reviewed,ci,ci
+1992-04-25T02:20:24.660Z,33.9658333,-116.2913333,0.089,2.75,mc,54,76,NA,0.23,ci,ci2048361,2016-04-02T18:14:34.993Z,"19km NNE of Thousand Palms, CA",earthquake,0.4,0.69,NA,55,reviewed,ci,ci
+1992-04-25T02:27:24.520Z,33.9305,-116.3121667,0.615,2.51,mc,24,135,NA,0.19,ci,ci3018399,2016-04-02T11:55:38.251Z,"14km NNE of Thousand Palms, CA",earthquake,0.59,0.84,NA,23,reviewed,ci,ci
+1992-04-25T03:01:37.320Z,33.9681667,-116.2868333,-0.471,2.66,mc,44,77,NA,0.19,ci,ci2048367,2016-04-01T19:45:24.923Z,"19km S of Joshua Tree, CA",earthquake,0.34,0.66,NA,58,reviewed,ci,ci
+1992-04-25T03:29:48.280Z,33.9676667,-116.2738333,7.771,2.76,mc,35,65,NA,0.24,ci,ci3018414,2016-04-01T19:45:35.182Z,"19km S of Joshua Tree, CA",earthquake,0.58,1.19,NA,62,reviewed,ci,ci
+1992-04-25T04:21:59.250Z,34.0188333,-116.3236667,4.77,2.56,mc,39,78,NA,0.24,ci,ci3018424,2016-04-02T02:16:36.940Z,"13km S of Joshua Tree, CA",earthquake,0.4,0.53,NA,53,reviewed,ci,ci
+1992-04-25T04:40:52.650Z,34.0501667,-116.2996667,-0.94,3.15,mc,74,65,NA,0.27,ci,ci2048385,2016-04-02T11:56:43.578Z,"10km S of Joshua Tree, CA",earthquake,0.35,0.82,NA,92,reviewed,ci,ci
+1992-04-25T05:32:12.380Z,34.024,-116.3091667,2.464,2.8,mc,44,78,NA,0.21,ci,ci2048393,2016-04-02T02:16:30.797Z,"12km S of Joshua Tree, CA",earthquake,0.38,0.57,NA,74,reviewed,ci,ci
+1992-04-25T05:40:02.810Z,33.8626667,-116.288,-0.661,3.75,mc,75,45,NA,0.28,ci,ci2048397,2016-04-01T19:45:30.427Z,"11km ENE of Thousand Palms, CA",earthquake,0.38,0.83,NA,45,reviewed,ci,ci
+1992-04-25T06:05:59.960Z,33.9825,-116.286,-0.166,2.56,mc,60,40,NA,0.24,ci,ci2048401,2016-04-02T11:56:45.061Z,"17km S of Joshua Tree, CA",earthquake,0.37,0.67,NA,56,reviewed,ci,ci
+1992-04-25T06:21:46.120Z,33.996,-116.336,-0.946,2.55,mc,49,67,NA,0.22,ci,ci3100083,2016-04-02T11:57:08.497Z,"16km S of Joshua Tree, CA",earthquake,0.33,0.74,NA,20,reviewed,ci,ci
+1992-04-25T06:25:03.420Z,34.041,-116.273,10,2.7,ml,NA,NA,NA,1.2,us,usp00056ct,2014-11-07T00:50:29.806Z,"11 km SSE of Joshua Tree, California",earthquake,NA,NA,NA,NA,reviewed,us,gs$
+1992-04-25T06:26:52.940Z,33.85,-116.42,10,2.6,md,NA,NA,NA,0.9,us,usp00056cu,2014-11-07T00:50:29.808Z,"4 km NW of Thousand Palms, California",earthquake,NA,NA,NA,NA,reviewed,us,pas
+1992-04-25T07:04:56.860Z,33.8806667,-116.2876667,0.069,2.6,mc,68,38,NA,0.24,ci,ci2048414,2016-04-02T11:57:29.708Z,"12km NE of Thousand Palms, CA",earthquake,0.33,0.71,NA,50,reviewed,ci,ci
+1992-04-25T08:04:56.990Z,34.0563333,-116.3348333,0.152,2.53,mc,29,90,NA,0.18,ci,ci3018451,2016-04-02T08:40:29.513Z,"9km SSW of Joshua Tree, CA",earthquake,0.38,0.89,NA,46,reviewed,ci,ci
+1992-04-25T08:19:47.410Z,33.948,-116.3815,-0.841,2.99,mc,67,58,NA,0.23,ci,ci2048429,2016-04-01T19:46:29.932Z,"11km E of Desert Hot Springs, CA",earthquake,0.37,0.72,NA,20,reviewed,ci,ci
+1992-04-25T08:25:08.150Z,34.005,-116.325,-0.25,2.57,mc,43,76,NA,0.25,ci,ci3018461,2016-04-02T11:56:49.302Z,"14km S of Joshua Tree, CA",earthquake,0.37,0.73,NA,44,reviewed,ci,ci
+1992-04-25T08:30:49.890Z,33.9925,-116.272,3.115,2.5,mh,12,68,0.0877,0.12,ci,ci12177707,2016-02-09T20:08:48.593Z,"16km SSE of Joshua Tree, California",earthquake,0.43,0.69,NA,0,reviewed,ci,ci
+1992-04-25T08:31:02.930Z,34.0403333,-116.3146667,8.71,3,mh,4,170,0.07046,0.03,ci,ci12177711,2016-02-10T14:09:51.451Z,"10km S of Joshua Tree, California",earthquake,0.65,1.38,NA,0,reviewed,ci,ci
+1992-04-25T09:20:28.730Z,34.0531667,-116.3023333,0.735,2.92,mc,51,70,NA,0.23,ci,ci2048448,2016-04-02T11:57:31.136Z,"9km S of Joshua Tree, CA",earthquake,0.37,0.61,NA,38,reviewed,ci,ci
+1992-04-25T09:29:19.400Z,33.9771667,-116.2795,-0.96,2.91,mc,77,37,NA,0.3,ci,ci2048449,2016-04-02T18:15:37.011Z,"18km S of Joshua Tree, CA",earthquake,0.43,0.86,NA,80,reviewed,ci,ci
+1992-04-25T09:34:41.580Z,33.982,-116.2716667,1.54,3.94,mc,140,39,NA,0.45,ci,ci2048451,2016-04-01T19:46:31.608Z,"17km SSE of Joshua Tree, CA",earthquake,0.43,0.81,NA,65,reviewed,ci,ci
+1992-04-25T09:35:30.340Z,33.984,-116.283,0.794,2.5,mh,0,89.2,0.08749,0.202,ci,ci3027809,2016-04-02T08:39:18.898Z,"17km S of Joshua Tree, CA",earthquake,NA,0.401,NA,0,reviewed,ci,ci
+1992-04-25T10:01:38.950Z,33.9786667,-116.2793333,0.885,3.19,mc,54,63,NA,0.35,ci,ci3018495,2016-04-01T19:45:45.748Z,"18km S of Joshua Tree, CA",earthquake,0.54,1.01,NA,89,reviewed,ci,ci
+1992-04-25T10:35:18.030Z,33.8806667,-116.2945,-0.165,2.57,mc,35,51,NA,0.2,ci,ci3100100,2016-04-01T19:46:01.574Z,"11km NE of Thousand Palms, CA",earthquake,0.39,0.83,NA,46,reviewed,ci,ci
+1992-04-25T10:56:33.130Z,33.9458333,-116.3215,1.875,2.62,mc,47,61,NA,0.26,ci,ci2048468,2016-04-02T05:31:26.434Z,"15km NNE of Thousand Palms, CA",earthquake,0.45,0.66,NA,51,reviewed,ci,ci
+1992-04-25T11:56:05.170Z,34.0353333,-116.3068333,-0.17,3.01,mc,68,66,NA,0.28,ci,ci3101040,2016-04-02T02:16:49.106Z,"11km S of Joshua Tree, CA",earthquake,0.41,0.87,NA,56,reviewed,ci,ci
+1992-04-25T13:28:59.930Z,33.941,-116.3123333,2.375,2.81,mc,64,60,NA,0.24,ci,ci2048497,2016-04-02T15:07:18.810Z,"15km NNE of Thousand Palms, CA",earthquake,0.38,0.53,NA,71,reviewed,ci,ci
+1992-04-25T13:38:15.860Z,33.8775,-116.2933333,1.175,2.97,mc,59,38,NA,0.22,ci,ci2048499,2016-04-01T19:46:37.745Z,"11km NE of Thousand Palms, CA",earthquake,0.32,0.6,NA,82,reviewed,ci,ci
+1992-04-25T13:58:51.760Z,34.1593333,-116.3345,1.08,2.98,mc,59,50,NA,0.22,ci,ci2048502,2016-04-02T02:17:28.011Z,"3km NW of Joshua Tree, CA",earthquake,0.34,0.79,NA,46,reviewed,ci,ci
+1992-04-25T14:09:02.930Z,33.9863333,-116.2825,1.506,2.53,mc,29,69,NA,0.2,ci,ci3018553,2016-04-02T11:56:53.425Z,"17km S of Joshua Tree, CA",earthquake,0.42,0.71,NA,32,reviewed,ci,ci
+1992-04-25T16:04:23.800Z,34.0405,-116.335,1.12,2.67,mc,51,69,NA,0.25,ci,ci2048524,2016-04-01T19:46:39.301Z,"11km S of Joshua Tree, CA",earthquake,0.4,0.68,NA,63,reviewed,ci,ci
+1992-04-25T18:08:45.430Z,33.9933333,-116.2721667,3.93,2.5,mh,11,111,0.08604,0.11,ci,ci12177871,2016-02-10T10:43:04.186Z,"16km SSE of Joshua Tree, California",earthquake,0.43,0.54,NA,0,reviewed,ci,ci
+1992-04-25T19:11:50.680Z,34.0501667,-116.3165,-0.91,2.5,mc,47,60,NA,0.18,ci,ci2048566,2016-04-02T02:17:31.878Z,"9km S of Joshua Tree, CA",earthquake,0.34,0.74,NA,47,reviewed,ci,ci
+1992-04-25T19:12:27.140Z,34.0446667,-116.3203333,-0.961,2.56,mc,44,69,NA,0.18,ci,ci3101782,2016-04-02T11:57:13.633Z,"10km S of Joshua Tree, CA",earthquake,0.44,0.82,NA,43,reviewed,ci,ci
+1992-04-25T19:39:24.460Z,33.954,-116.3505,3.882,3.54,mc,134,62,NA,0.4,ci,ci2048575,2016-04-02T11:57:45.375Z,"14km E of Desert Hot Springs, CA",earthquake,0.38,0.5,NA,110,reviewed,ci,ci
+1992-04-25T21:31:25.240Z,33.8863333,-116.2945,1.628,2.5,mc,29,64,NA,0.2,ci,ci3018706,2016-04-02T15:05:59.423Z,"12km NE of Thousand Palms, CA",earthquake,0.39,0.73,NA,35,reviewed,ci,ci
+1992-04-25T22:04:17.270Z,33.9861667,-116.2595,-0.74,2.66,mc,47,49,NA,0.28,ci,ci3018719,2016-04-02T15:06:02.054Z,"17km SSE of Joshua Tree, CA",earthquake,0.42,0.86,NA,49,reviewed,ci,ci
+1992-04-25T22:37:48.790Z,33.9625,-116.3283333,7.601,2.5,mc,31,47,NA,0.22,ci,ci3018732,2016-04-02T15:07:03.264Z,"16km E of Desert Hot Springs, CA",earthquake,0.41,0.7,NA,8,reviewed,ci,ci
+1992-04-25T23:07:59.030Z,33.958,-116.308,2.361,2.5,mc,0,75.4,NA,0.186,ci,ci3018743,2016-02-10T03:34:25.970Z,"17km NNE of Thousand Palms, California",earthquake,NA,0.263,NA,32,reviewed,ci,ci
+1992-04-26T00:19:45.980Z,34.1661667,-116.3415,0.059,2.86,mc,35,78,NA,0.17,ci,ci3018763,2016-04-02T05:31:17.577Z,"4km NW of Joshua Tree, CA",earthquake,0.35,0.77,NA,66,reviewed,ci,ci
+1992-04-26T00:42:24.850Z,33.976,-116.288,-0.468,2.81,mc,0,64.9,NA,0.162,ci,ci2048631,2016-02-10T17:40:57.987Z,"18km S of Joshua Tree, California",earthquake,NA,0.348,NA,11,reviewed,ci,ci
+1992-04-26T00:43:40.970Z,34.032,-116.323,-0.458,2.55,mc,0,75.4,NA,0.257,ci,ci3101783,2016-02-09T20:09:48.900Z,"12km S of Joshua Tree, California",earthquake,NA,0.489,NA,50,reviewed,ci,ci
+1992-04-26T01:17:30.250Z,33.96,-116.324,8.742,2.84,mc,0,68.2,NA,0.151,ci,ci3018781,2016-02-09T20:09:50.598Z,"16km E of Desert Hot Springs, California",earthquake,NA,0.391,NA,63,reviewed,ci,ci
+1992-04-26T02:20:35.520Z,33.955,-116.341,4.829,2.57,mc,0,61.6,NA,0.191,ci,ci2048658,2016-02-09T23:57:12.501Z,"15km E of Desert Hot Springs, California",earthquake,NA,0.733,NA,54,reviewed,ci,ci
+1992-04-26T02:51:12.690Z,33.991,-116.285,4.35,2.59,mc,0,56.5,NA,0.177,ci,ci3018811,2016-02-10T17:41:07.340Z,"16km S of Joshua Tree, California",earthquake,NA,0.245,NA,54,reviewed,ci,ci
+1992-04-26T03:07:58.180Z,33.993,-116.332,7.964,3.63,mc,0,51.5,NA,0.241,ci,ci3018817,2016-02-10T17:41:08.790Z,"16km S of Joshua Tree, California",earthquake,NA,0.632,NA,96,reviewed,ci,ci
+1992-04-26T03:37:51.930Z,33.975,-116.233,0.286,2.58,mc,0,59.7,NA,0.192,ci,ci3018821,2016-02-09T23:57:20.788Z,"19km SSE of Joshua Tree, California",earthquake,NA,0.668,NA,39,reviewed,ci,ci
+1992-04-26T04:49:47.540Z,33.961,-116.312,-0.876,2.85,mc,0,67.4,NA,0.188,ci,ci3101963,2016-02-10T10:43:37.008Z,"17km NNE of Thousand Palms, California",earthquake,NA,0.447,NA,51,reviewed,ci,ci
+1992-04-26T05:54:18.240Z,33.9551667,-116.3061667,0.634,3.82,mc,131,33,NA,0.4,ci,ci2048685,2016-04-02T11:56:58.231Z,"17km NNE of Thousand Palms, CA",earthquake,0.41,0.72,NA,60,reviewed,ci,ci
+1992-04-26T06:00:50.780Z,33.947,-116.308,-0.684,3.18,mc,0,62.6,NA,0.208,ci,ci2048687,2016-02-10T10:43:39.941Z,"16km NNE of Thousand Palms, California",earthquake,NA,0.383,NA,26,reviewed,ci,ci
+1992-04-26T06:02:12.180Z,33.962,-116.315,-0.671,2.85,mc,0,63.1,NA,0.176,ci,ci3102051,2016-02-10T03:34:51.742Z,"17km E of Desert Hot Springs, California",earthquake,NA,0.391,NA,62,reviewed,ci,ci
+1992-04-26T06:21:56.780Z,33.997,-116.323,4.37,2.67,mc,0,75.8,NA,0.188,ci,ci3018859,2016-02-10T21:20:38.460Z,"15km S of Joshua Tree, California",earthquake,NA,0.275,NA,58,reviewed,ci,ci
+1992-04-26T06:26:08.120Z,33.9475,-116.301,2.293,4.47,mc,155,37,NA,0.4,ci,ci2048693,2016-04-02T11:57:00.233Z,"16km NNE of Thousand Palms, CA",earthquake,0.39,0.69,NA,101,reviewed,ci,ci
+1992-04-26T06:26:37.950Z,33.941,-116.304,-0.501,3.5,mh,0,103.1,NA,0.284,ci,ci3027276,2016-04-02T02:15:32.158Z,"16km NNE of Thousand Palms, CA",earthquake,NA,1.151,NA,0,reviewed,ci,ci
+1992-04-26T06:27:32.590Z,33.945,-116.3,2.469,3,mh,0,73.6,NA,0.137,ci,ci3027290,2016-04-01T19:44:21.330Z,"16km NNE of Thousand Palms, CA",earthquake,NA,0.314,NA,0,reviewed,ci,ci
+1992-04-26T06:27:49.240Z,33.937,-116.296,4.238,3,mh,0,131.3,NA,0.137,ci,ci3027299,2016-04-02T05:29:20.383Z,"16km NE of Thousand Palms, CA",earthquake,NA,0.27,NA,0,reviewed,ci,ci
+1992-04-26T06:28:31.900Z,33.944,-116.309,-0.691,2.96,mc,0,71,NA,0.18,ci,ci3027305,2016-02-10T14:11:02.544Z,"16km NNE of Thousand Palms, California",earthquake,NA,0.432,NA,23,reviewed,ci,ci
+1992-04-26T06:29:38.680Z,33.961,-116.315,-0.541,2.56,mc,0,77.3,NA,0.157,ci,ci3027310,2016-02-09T20:10:01.043Z,"17km NNE of Thousand Palms, California",earthquake,NA,0.905,NA,14,reviewed,ci,ci
+1992-04-26T06:30:26.550Z,33.946,-116.36,6.512,2.54,mc,0,61.1,NA,0.138,ci,ci2048694,2016-02-10T14:11:03.812Z,"13km E of Desert Hot Springs, California",earthquake,NA,0.528,NA,37,reviewed,ci,ci
+1992-04-26T06:32:25.490Z,33.916,-116.345,0.475,2.54,mc,0,93.3,NA,0.129,ci,ci3102062,2016-02-10T10:43:42.762Z,"12km NNE of Thousand Palms, California",earthquake,NA,12.825,NA,5,reviewed,ci,ci
+1992-04-26T06:46:24.840Z,33.956,-116.315,-0.825,2.59,mc,0,71.1,NA,0.157,ci,ci2048697,2016-02-10T03:34:54.250Z,"17km NNE of Thousand Palms, California",earthquake,NA,0.521,NA,20,reviewed,ci,ci
+1992-04-26T06:47:41.310Z,33.936,-116.313,0.299,2.89,mc,0,56.2,NA,0.183,ci,ci2048699,2016-02-10T03:34:56.111Z,"15km NNE of Thousand Palms, California",earthquake,NA,0.329,NA,53,reviewed,ci,ci
+1992-04-26T06:59:28.710Z,33.972,-116.269,4.399,2.85,mc,0,65.6,NA,0.183,ci,ci2048702,2016-02-10T17:41:20.753Z,"18km SSE of Joshua Tree, California",earthquake,NA,0.231,NA,58,reviewed,ci,ci
+1992-04-26T07:04:17.350Z,33.957,-116.306,1.793,2.5,mc,0,65.8,NA,0.16,ci,ci2048703,2016-02-10T03:34:57.356Z,"17km NNE of Thousand Palms, California",earthquake,NA,0.328,NA,22,reviewed,ci,ci
+1992-04-26T07:06:35.800Z,33.955,-116.303,1.319,2.69,mc,0,63.3,NA,0.185,ci,ci2048704,2016-02-09T23:57:35.579Z,"17km NNE of Thousand Palms, California",earthquake,NA,0.234,NA,45,reviewed,ci,ci
+1992-04-26T07:11:33.070Z,33.965,-116.313,0.329,2.51,mc,0,71,NA,0.19,ci,ci2048705,2016-02-10T07:07:58.096Z,"17km E of Desert Hot Springs, California",earthquake,NA,0.339,NA,30,reviewed,ci,ci
+1992-04-26T07:14:50.640Z,34.032,-116.325,2.319,2.57,mc,0,84.2,NA,0.191,ci,ci3102356,2016-02-10T03:34:58.727Z,"12km S of Joshua Tree, California",earthquake,NA,0.315,NA,60,reviewed,ci,ci
+1992-04-26T07:15:08.670Z,33.932,-116.298,-0.652,2.93,mc,0,60.1,NA,0.222,ci,ci2048706,2016-02-10T10:43:45.790Z,"15km NE of Thousand Palms, California",earthquake,NA,0.468,NA,63,reviewed,ci,ci
+1992-04-26T07:20:33.400Z,33.975,-116.268,4.519,2.53,mc,0,65.8,NA,0.167,ci,ci2048708,2016-02-10T21:20:43.346Z,"18km SSE of Joshua Tree, California",earthquake,NA,0.16,NA,51,reviewed,ci,ci
+1992-04-26T07:39:37.210Z,33.952,-116.288,0.129,2.62,mc,0,63.9,NA,0.186,ci,ci2048710,2016-02-09T23:57:36.930Z,"18km NNE of Thousand Palms, California",earthquake,NA,0.304,NA,52,reviewed,ci,ci
+1992-04-26T08:17:30.930Z,34.039,-116.32,6.729,2.58,mc,0,61.3,NA,0.172,ci,ci2048716,2016-02-10T21:20:44.879Z,"11km S of Joshua Tree, California",earthquake,NA,1.418,NA,49,reviewed,ci,ci
+1992-04-26T08:25:22.790Z,33.935,-116.357,3.192,2.97,mc,0,54.2,NA,0.203,ci,ci2048718,2016-02-10T17:41:24.619Z,"13km NNE of Thousand Palms, California",earthquake,NA,0.089,NA,78,reviewed,ci,ci
+1992-04-26T08:41:26.770Z,33.95,-116.38,1.622,2.79,mc,0,58.4,NA,0.162,ci,ci2048720,2016-02-10T14:11:08.048Z,"11km E of Desert Hot Springs, California",earthquake,NA,0.142,NA,22,reviewed,ci,ci
+1992-04-26T09:01:09.390Z,33.992,-116.285,3.034,2.55,mc,0,65.6,NA,0.175,ci,ci2048726,2016-02-10T07:08:03.288Z,"16km S of Joshua Tree, California",earthquake,NA,0.178,NA,52,reviewed,ci,ci
+1992-04-26T09:06:31.330Z,33.976,-116.264,2.824,2.55,mc,0,66,NA,0.194,ci,ci2048727,2016-02-10T03:35:05.939Z,"18km SSE of Joshua Tree, California",earthquake,NA,0.23,NA,60,reviewed,ci,ci
+1992-04-26T09:49:53.810Z,33.969,-116.28,4.049,3.42,mc,0,64.9,NA,0.242,ci,ci2048739,2016-02-09T23:57:47.542Z,"19km S of Joshua Tree, California",earthquake,NA,0.141,NA,110,reviewed,ci,ci
+1992-04-26T09:55:45.640Z,33.943,-116.359,5.922,3.7,mc,0,57.2,NA,0.23,ci,ci2048740,2016-02-09T20:10:35.485Z,"13km E of Desert Hot Springs, California",earthquake,NA,0.392,NA,114,reviewed,ci,ci
+1992-04-26T10:41:36.610Z,33.973,-116.266,4.223,2.59,mc,0,65.8,NA,0.195,ci,ci2048745,2016-02-09T23:57:49.056Z,"18km SSE of Joshua Tree, California",earthquake,NA,0.185,NA,57,reviewed,ci,ci
+1992-04-26T15:59:53.120Z,33.95,-116.361,4.267,2.76,mc,0,158.4,NA,0.172,ci,ci3019235,2016-02-10T21:21:02.187Z,"13km E of Desert Hot Springs, California",earthquake,NA,0.311,NA,71,reviewed,ci,ci
+1992-04-26T16:00:07.420Z,34.061,-116.332,-1.276,2.82,mc,0,103.3,NA,0.127,ci,ci3019240,2016-02-10T14:11:27.817Z,"8km SSW of Joshua Tree, California",earthquake,NA,6.842,NA,30,reviewed,ci,ci
+1992-04-26T17:14:13.250Z,34.001,-116.32,4.195,3.33,mc,0,76,NA,0.195,ci,ci2048830,2016-02-10T17:41:50.341Z,"15km S of Joshua Tree, California",earthquake,NA,0.223,NA,105,reviewed,ci,ci
+1992-04-26T17:21:38.010Z,34.049,-116.335,-0.301,4.42,mc,0,55.8,NA,0.254,ci,ci2048832,2016-02-10T03:35:28.216Z,"10km SSW of Joshua Tree, California",earthquake,NA,0.242,NA,107,reviewed,ci,ci
+1992-04-26T17:25:49.280Z,33.856,-116.277,-0.365,2.51,mc,0,49.4,NA,0.168,ci,ci2048833,2016-02-10T17:41:51.588Z,"11km ENE of Thousand Palms, California",earthquake,NA,0.441,NA,16,reviewed,ci,ci
+1992-04-26T17:27:44.320Z,34.054,-116.341,-0.261,2.69,mc,0,53.6,NA,0.157,ci,ci2048834,2016-02-10T10:44:06.011Z,"9km SSW of Joshua Tree, California",earthquake,NA,0.298,NA,34,reviewed,ci,ci
+1992-04-26T17:28:39.430Z,34.041,-116.34,0.159,2.84,mc,0,70.1,NA,0.172,ci,ci3019270,2016-02-10T14:11:34.677Z,"11km SSW of Joshua Tree, California",earthquake,NA,0.263,NA,33,reviewed,ci,ci
+1992-04-26T17:39:44.620Z,34.055,-116.34,-0.015,2.82,mc,0,89.9,NA,0.129,ci,ci2048836,2016-02-10T21:21:05.587Z,"9km SSW of Joshua Tree, California",earthquake,NA,0.407,NA,50,reviewed,ci,ci
+1992-04-26T17:48:44.740Z,33.853,-116.27,0.483,3.24,mc,0,52.9,NA,0.202,ci,ci2048837,2016-02-10T17:41:54.416Z,"12km ENE of Thousand Palms, California",earthquake,NA,0.23,NA,51,reviewed,ci,ci
+1992-04-26T18:04:18.900Z,34.051,-116.339,0.265,3.41,mc,0,54.7,NA,0.192,ci,ci2048839,2016-02-10T07:08:24.214Z,"10km SSW of Joshua Tree, California",earthquake,NA,0.263,NA,101,reviewed,ci,ci
+1992-04-26T18:17:04.990Z,33.95,-116.317,-0.651,2.87,mc,0,65.3,NA,0.208,ci,ci2048843,2016-02-10T21:21:08.881Z,"16km NNE of Thousand Palms, California",earthquake,NA,0.41,NA,50,reviewed,ci,ci
+1992-04-26T19:28:26.610Z,34.007,-116.34,3.105,2.9,mc,0,61.7,NA,0.19,ci,ci2048851,2016-02-09T23:58:14.921Z,"14km S of Joshua Tree, California",earthquake,NA,0.219,NA,81,reviewed,ci,ci
+1992-04-26T20:06:10.090Z,33.973,-116.273,2.381,3.04,mc,0,65.7,NA,0.16,ci,ci2048860,2016-02-10T03:35:30.983Z,"18km SSE of Joshua Tree, California",earthquake,NA,0.239,NA,81,reviewed,ci,ci
+1992-04-26T20:41:27.360Z,34.026,-116.323,2.705,2.6,mc,0,62.8,NA,0.193,ci,ci2048868,2016-02-10T17:42:03.608Z,"12km S of Joshua Tree, California",earthquake,NA,0.204,NA,57,reviewed,ci,ci
+1992-04-26T23:28:28.030Z,34.035,-116.325,-0.191,2.52,mc,0,91.5,NA,0.136,ci,ci2048894,2016-02-10T07:08:33.364Z,"11km S of Joshua Tree, California",earthquake,NA,0.446,NA,47,reviewed,ci,ci
+1992-04-26T23:32:06.490Z,34.029,-116.321,2.761,2.6,mc,0,88.4,NA,0.179,ci,ci2048896,2016-02-10T17:42:09.926Z,"12km S of Joshua Tree, California",earthquake,NA,0.237,NA,50,reviewed,ci,ci
+1992-04-27T00:00:20.580Z,34.033,-116.317,-0.529,2.88,mc,0,87.2,NA,0.118,ci,ci2048902,2016-02-10T07:08:34.721Z,"11km S of Joshua Tree, California",earthquake,NA,0.405,NA,50,reviewed,ci,ci
+1992-04-27T00:36:23.080Z,34.061,-116.343,-0.449,2.98,mc,0,51.6,NA,0.169,ci,ci2048906,2016-02-10T14:11:49.136Z,"9km SSW of Joshua Tree, California",earthquake,NA,0.351,NA,38,reviewed,ci,ci
+1992-04-27T02:05:14.990Z,33.981,-116.294,4.983,2.76,mc,0,90.3,NA,0.278,ci,ci3019462,2016-02-09T20:11:29.382Z,"17km S of Joshua Tree, California",earthquake,NA,12.137,NA,65,reviewed,ci,ci
+1992-04-27T02:10:41.500Z,34.052,-116.316,-0.791,2.59,mc,0,59.7,NA,0.195,ci,ci2048923,2016-02-10T10:44:18.584Z,"9km S of Joshua Tree, California",earthquake,NA,0.686,NA,60,reviewed,ci,ci
+1992-04-27T03:11:19.290Z,33.933,-116.302,-0.858,4.35,mc,0,55.1,NA,0.203,ci,ci2048937,2016-02-10T14:11:59.645Z,"15km NNE of Thousand Palms, California",earthquake,NA,0.321,NA,92,reviewed,ci,ci
+1992-04-27T03:12:35.490Z,33.942,-116.302,1.822,3,mh,0,71.5,NA,0.104,ci,ci3019003,2016-04-02T15:04:56.996Z,"16km NNE of Thousand Palms, CA",earthquake,NA,0.685,NA,0,reviewed,ci,ci
+1992-04-27T03:13:24.600Z,33.934,-116.297,0.468,2.77,mc,0,67.9,NA,0.094,ci,ci3019004,2016-02-10T14:12:00.916Z,"15km NE of Thousand Palms, California",earthquake,NA,0.868,NA,16,reviewed,ci,ci
+1992-04-27T03:15:28.800Z,33.939,-116.304,0.209,2.7,mc,0,69.5,NA,0.147,ci,ci3019539,2016-02-10T07:08:42.506Z,"15km NNE of Thousand Palms, California",earthquake,NA,0.652,NA,50,reviewed,ci,ci
+1992-04-27T03:16:39.140Z,33.94,-116.304,1.009,2.5,mc,0,70.2,NA,0.159,ci,ci2048939,2016-02-10T03:35:50.475Z,"16km NNE of Thousand Palms, California",earthquake,NA,0.466,NA,23,reviewed,ci,ci
+1992-04-27T03:19:27.910Z,33.928,-116.316,0.432,2.69,mc,0,51.9,NA,0.157,ci,ci2048942,2016-02-10T03:35:53.102Z,"14km NNE of Thousand Palms, California",earthquake,NA,0.252,NA,28,reviewed,ci,ci
+1992-04-27T03:24:44.390Z,33.942,-116.295,-0.818,2.62,mc,0,73.5,NA,0.164,ci,ci2048943,2016-02-10T03:35:54.499Z,"16km NNE of Thousand Palms, California",earthquake,NA,0.549,NA,27,reviewed,ci,ci
+1992-04-27T03:49:14.210Z,33.933,-116.302,-0.691,2.5,mh,0,66.7,NA,0.153,ci,ci2048946,2021-02-18T19:04:41.730Z,"15km NNE of Thousand Palms, CA",earthquake,NA,0.578,NA,0,reviewed,ci,ci
+1992-04-27T03:49:26.990Z,33.922,-116.302,-0.858,3.76,mc,0,60.9,NA,0.158,ci,ci3019556,2021-03-09T23:59:29.013Z,"14km NE of Thousand Palms, California",earthquake,NA,0.818,NA,50,reviewed,ci,ci
+1992-04-27T03:52:12.310Z,33.967,-116.322,6.812,3.43,mc,0,62.9,NA,0.196,ci,ci2048947,2016-02-10T14:12:02.368Z,"17km E of Desert Hot Springs, California",earthquake,NA,0.387,NA,101,reviewed,ci,ci
+1992-04-27T04:40:14.220Z,34.035,-116.31,-1.126,2.55,mc,0,72.3,NA,0.143,ci,ci2048956,2016-02-09T23:58:45.303Z,"11km S of Joshua Tree, California",earthquake,NA,0.461,NA,51,reviewed,ci,ci
+1992-04-27T05:07:28.420Z,33.95,-116.321,2.672,2.52,mc,0,70,NA,0.121,ci,ci2048965,2016-02-10T07:08:45.126Z,"16km NNE of Thousand Palms, California",earthquake,NA,0.178,NA,13,reviewed,ci,ci
+1992-04-27T05:33:26.560Z,34.009,-116.32,2.282,2.62,mc,0,77.8,NA,0.189,ci,ci2048970,2016-02-10T07:08:50.240Z,"14km S of Joshua Tree, California",earthquake,NA,0.198,NA,60,reviewed,ci,ci
+1992-04-27T06:18:08.370Z,33.97,-116.299,-0.758,2.5,mc,0,86.7,NA,0.185,ci,ci3019628,2016-02-10T10:44:26.226Z,"18km S of Joshua Tree, California",earthquake,NA,0.318,NA,48,reviewed,ci,ci
+1992-04-27T07:18:23.420Z,33.954,-116.323,1.475,2.51,mc,0,62.4,NA,0.234,ci,ci2048983,2016-02-10T17:42:28.483Z,"16km NNE of Thousand Palms, California",earthquake,NA,0.149,NA,55,reviewed,ci,ci
+1992-04-27T08:08:35.030Z,34.035,-116.313,0.266,2.67,mc,0,78.4,NA,0.149,ci,ci3019739,2016-02-10T07:08:54.986Z,"11km S of Joshua Tree, California",earthquake,NA,0.391,NA,68,reviewed,ci,ci
+1992-04-27T08:12:59.170Z,34.031,-116.327,7.986,2.5,mc,0,60.9,NA,0.21,ci,ci2048994,2016-02-09T20:12:01.257Z,"12km S of Joshua Tree, California",earthquake,NA,0.815,NA,9,reviewed,ci,ci
+1992-04-27T08:13:35.570Z,34.073,-116.326,-0.712,3.29,mc,0,72.2,NA,0.186,ci,ci3019752,2016-02-10T07:08:56.541Z,"7km S of Joshua Tree, California",earthquake,NA,0.309,NA,33,reviewed,ci,ci
+1992-04-27T08:29:07.800Z,33.943,-116.292,-0.621,3.28,mc,0,74.8,NA,0.176,ci,ci2048998,2016-02-10T03:36:05.592Z,"16km NNE of Thousand Palms, California",earthquake,NA,0.371,NA,73,reviewed,ci,ci
+1992-04-27T08:53:32.920Z,34.052,-116.316,0.043,2.69,mc,0,88.5,NA,0.165,ci,ci2049002,2016-02-10T10:44:31.604Z,"9km S of Joshua Tree, California",earthquake,NA,0.35,NA,73,reviewed,ci,ci
+1992-04-27T09:15:44.330Z,34.009,-116.328,6.176,2.96,mc,0,79.1,NA,0.176,ci,ci2049008,2016-02-10T07:09:02.183Z,"14km S of Joshua Tree, California",earthquake,NA,2.052,NA,53,reviewed,ci,ci
+1992-04-27T09:43:55.790Z,34.075,-116.322,-0.897,2.81,mc,0,93.3,NA,0.154,ci,ci2049015,2016-02-10T17:42:39.797Z,"7km S of Joshua Tree, California",earthquake,NA,0.683,NA,79,reviewed,ci,ci
+1992-04-27T12:52:22.370Z,34.038,-116.309,-0.138,2.65,mc,0,88.8,NA,0.165,ci,ci2049047,2016-02-09T20:12:10.618Z,"11km S of Joshua Tree, California",earthquake,NA,0.374,NA,62,reviewed,ci,ci
+1992-04-27T13:21:10.400Z,33.944,-116.341,2.605,3.06,mc,0,58.8,NA,0.172,ci,ci2049051,2016-02-10T14:12:20.219Z,"14km NNE of Thousand Palms, California",earthquake,NA,0.135,NA,89,reviewed,ci,ci
+1992-04-27T13:28:19.160Z,33.936,-116.307,0.195,3.5,mh,0,56.8,NA,0.211,ci,ci2049052,2016-04-02T08:41:10.971Z,"15km NNE of Thousand Palms, CA",earthquake,NA,0.228,NA,0,reviewed,ci,ci
+1992-04-27T13:28:40.690Z,33.933,-116.316,-0.79,3.79,mc,0,100.1,NA,0.168,ci,ci3019986,2016-02-10T17:42:53.556Z,"14km NNE of Thousand Palms, California",earthquake,NA,0.855,NA,20,reviewed,ci,ci
+1992-04-27T13:29:36.740Z,33.936,-116.308,1.915,2.82,mc,0,67,NA,0.152,ci,ci3019990,2016-02-10T21:21:54.215Z,"15km NNE of Thousand Palms, California",earthquake,NA,0.298,NA,5,reviewed,ci,ci
+1992-04-27T13:30:54.800Z,33.936,-116.305,0.075,2.9,mh,0,61.5,NA,0.172,ci,ci3019992,2016-04-02T18:15:54.182Z,"15km NNE of Thousand Palms, CA",earthquake,NA,0.327,NA,0,reviewed,ci,ci
+1992-04-27T14:40:33.170Z,34.047,-116.342,0.281,2.62,mc,0,73.3,NA,0.164,ci,ci2049065,2016-02-10T10:44:53.430Z,"10km SSW of Joshua Tree, California",earthquake,NA,0.348,NA,12,reviewed,ci,ci
+1992-04-27T15:25:15.550Z,33.982,-116.272,2.262,2.5,mc,0,79.7,NA,0.174,ci,ci2049074,2016-02-10T10:44:56.419Z,"17km SSE of Joshua Tree, California",earthquake,NA,0.199,NA,47,reviewed,ci,ci
+1992-04-27T16:45:01.180Z,34.035,-116.309,-0.858,2.56,mc,0,69.6,NA,0.231,ci,ci2049083,2016-02-10T03:36:27.575Z,"11km S of Joshua Tree, California",earthquake,NA,0.693,NA,45,reviewed,ci,ci
+1992-04-27T17:28:05.020Z,34.03,-116.309,2.082,2.53,mc,0,87.2,NA,0.175,ci,ci2049096,2016-02-10T21:22:02.573Z,"12km S of Joshua Tree, California",earthquake,NA,0.364,NA,46,reviewed,ci,ci
+1992-04-27T17:39:28.620Z,33.942,-116.357,3.322,2.54,mc,0,65.9,NA,0.091,ci,ci2049098,2016-02-09T23:59:20.678Z,"14km E of Desert Hot Springs, California",earthquake,NA,0.148,NA,45,reviewed,ci,ci
+1992-04-27T18:12:05.800Z,33.986,-116.264,-0.778,2.75,mc,0,43.9,NA,0.156,ci,ci2049107,2016-02-09T20:12:24.372Z,"17km SSE of Joshua Tree, California",earthquake,NA,0.412,NA,56,reviewed,ci,ci
+1992-04-27T18:19:26.900Z,33.971,-116.279,2.062,3.01,mc,0,86.8,NA,0.203,ci,ci2049109,2016-02-10T21:22:04.428Z,"18km S of Joshua Tree, California",earthquake,NA,0.265,NA,77,reviewed,ci,ci
+1992-04-27T20:39:38.120Z,33.97,-116.28,2.025,2.55,mc,0,44,NA,0.196,ci,ci3020377,2016-02-10T17:43:12.225Z,"19km S of Joshua Tree, California",earthquake,NA,0.189,NA,45,reviewed,ci,ci
+1992-04-27T20:56:29.550Z,33.934,-116.311,-0.867,2.72,mc,0,56.2,NA,0.181,ci,ci3020409,2016-02-09T23:59:28.804Z,"15km NNE of Thousand Palms, California",earthquake,NA,0.32,NA,58,reviewed,ci,ci
+1992-04-27T23:53:59.440Z,33.8766667,-116.2826667,0.436,2.52,mc,35,41,NA,0.17,ci,ci2049180,2016-04-02T15:05:03.501Z,"12km ENE of Thousand Palms, CA",earthquake,0.29,0.76,NA,47,reviewed,ci,ci
+1992-04-28T00:09:25.220Z,34.027,-116.299,1.542,2.67,mc,0,84.8,NA,0.176,ci,ci2049184,2016-02-09T23:59:43.368Z,"12km S of Joshua Tree, California",earthquake,NA,0.292,NA,54,reviewed,ci,ci
+1992-04-28T02:16:54.400Z,33.949,-116.309,-0.438,2.65,mc,0,137.7,NA,0.118,ci,ci3020569,2016-02-10T21:22:26.696Z,"16km NNE of Thousand Palms, California",earthquake,NA,0.922,NA,50,reviewed,ci,ci
+1992-04-28T02:39:15.410Z,33.966,-116.296,1.283,2.65,mc,0,74.5,NA,0.165,ci,ci2049212,2016-02-10T10:45:24.656Z,"18km NNE of Thousand Palms, California",earthquake,NA,0.29,NA,55,reviewed,ci,ci
+1992-04-28T03:18:28.320Z,33.945,-116.344,2.663,2.82,mc,0,66,NA,0.154,ci,ci2049220,2016-02-10T07:09:37.396Z,"14km NNE of Thousand Palms, California",earthquake,NA,0.167,NA,74,reviewed,ci,ci
+1992-04-28T07:32:44.450Z,33.939,-116.309,0.193,3.13,mc,0,39.5,NA,0.241,ci,ci2049255,2016-02-10T03:37:12.543Z,"15km NNE of Thousand Palms, California",earthquake,NA,0.221,NA,94,reviewed,ci,ci
+1992-04-28T08:01:18.220Z,34,-116.335,1.119,2.67,mc,0,36.9,NA,0.203,ci,ci2049260,2016-02-10T07:09:52.012Z,"15km S of Joshua Tree, California",earthquake,NA,0.219,NA,60,reviewed,ci,ci
+1992-04-28T08:15:42.300Z,33.997,-116.282,2.65,2.96,mc,0,39.8,NA,0.189,ci,ci2049263,2016-02-10T17:43:44.802Z,"16km S of Joshua Tree, California",earthquake,NA,0.174,NA,51,reviewed,ci,ci
+1992-04-28T10:33:52.920Z,33.996,-116.336,2.809,3.08,mc,0,67,NA,0.189,ci,ci2049280,2016-02-10T03:37:17.197Z,"16km S of Joshua Tree, California",earthquake,NA,0.219,NA,89,reviewed,ci,ci
+1992-04-28T11:13:20.080Z,33.94,-116.301,0.043,3.97,mc,0,41.2,NA,0.228,ci,ci2049288,2016-02-10T07:09:58.913Z,"16km NNE of Thousand Palms, California",earthquake,NA,0.217,NA,70,reviewed,ci,ci
+1992-04-28T11:22:44.860Z,33.939,-116.295,-0.877,2.94,mc,0,61.2,NA,0.167,ci,ci2049289,2016-02-10T17:43:55.409Z,"16km NNE of Thousand Palms, California",earthquake,NA,0.506,NA,56,reviewed,ci,ci
+1992-04-28T11:24:04.970Z,33.944,-116.29,0.655,2.54,mc,0,62.7,NA,0.124,ci,ci3028427,2016-02-10T03:37:19.588Z,"17km NE of Thousand Palms, California",earthquake,NA,1.074,NA,32,reviewed,ci,ci
+1992-04-28T11:27:23.390Z,33.943,-116.296,-0.795,2.52,mc,0,62,NA,0.213,ci,ci2049290,2016-02-10T17:43:57.120Z,"16km NNE of Thousand Palms, California",earthquake,NA,0.598,NA,24,reviewed,ci,ci
+1992-04-28T11:32:14.360Z,34.034,-116.298,-0.144,3.17,mc,0,37,NA,0.203,ci,ci2049292,2016-02-10T10:45:45.134Z,"11km S of Joshua Tree, California",earthquake,NA,0.355,NA,32,reviewed,ci,ci
+1992-04-28T11:32:55.310Z,34.038,-116.294,2.076,2.95,mc,0,87.8,NA,0.19,ci,ci3020729,2016-02-10T10:45:46.437Z,"11km S of Joshua Tree, California",earthquake,NA,0.601,NA,14,reviewed,ci,ci
+1992-04-28T11:33:08.460Z,34.043,-116.2928333,0.915,2.5,mh,7,89,NA,0.1,ci,ci3020730,2016-04-02T08:38:48.098Z,"10km S of Joshua Tree, CA",earthquake,0.52,10.87,NA,0,reviewed,ci,ci
+1992-04-28T11:33:26.630Z,33.938,-116.298,-0.877,4.09,mc,0,40.7,NA,0.2,ci,ci3020731,2016-02-10T10:45:49.959Z,"16km NNE of Thousand Palms, California",earthquake,NA,0.369,NA,75,reviewed,ci,ci
+1992-04-28T11:57:37.550Z,34.035,-116.301,-0.894,2.5,mc,0,80.1,NA,0.216,ci,ci2049298,2016-02-10T03:37:23.320Z,"11km S of Joshua Tree, California",earthquake,NA,0.357,NA,33,reviewed,ci,ci
+1992-04-28T13:03:39.130Z,33.932,-116.3,-0.867,2.7,mc,0,37.6,NA,0.192,ci,ci2049308,2016-02-10T21:22:48.461Z,"15km NE of Thousand Palms, California",earthquake,NA,0.522,NA,21,reviewed,ci,ci
+1992-04-28T13:41:36.710Z,34.034,-116.302,-0.051,2.61,mc,0,87.9,NA,0.208,ci,ci2049313,2016-02-10T00:00:10.824Z,"11km S of Joshua Tree, California",earthquake,NA,0.332,NA,59,reviewed,ci,ci
+1992-04-28T14:19:38.200Z,33.979,-116.325,7.349,2.6,mc,0,72.9,NA,0.175,ci,ci2049319,2016-02-10T14:13:00.883Z,"16km E of Desert Hot Springs, California",earthquake,NA,0.505,NA,57,reviewed,ci,ci
+1992-04-28T14:24:50.220Z,33.987,-116.244,0.573,2.6,mc,0,63.8,NA,0.168,ci,ci3028428,2016-02-10T17:44:02.799Z,"18km SSE of Joshua Tree, California",earthquake,NA,0.382,NA,45,reviewed,ci,ci
+1992-04-28T14:27:00.280Z,33.949,-116.297,-0.437,3.88,mc,0,44.3,NA,0.209,ci,ci2049321,2016-02-10T07:10:04.014Z,"17km NNE of Thousand Palms, California",earthquake,NA,0.242,NA,59,reviewed,ci,ci
+1992-04-28T14:27:32.390Z,33.951,-116.298,2.125,2.7,mh,0,63.8,NA,0.156,ci,ci3026440,2016-04-02T05:29:17.801Z,"17km NNE of Thousand Palms, CA",earthquake,NA,0.371,NA,0,reviewed,ci,ci
+1992-04-28T14:32:46.360Z,33.948,-116.298,-0.763,3.1,mc,0,63.4,NA,0.179,ci,ci2049322,2016-02-10T03:37:29.700Z,"17km NNE of Thousand Palms, California",earthquake,NA,0.41,NA,41,reviewed,ci,ci
+1992-04-28T14:41:15.130Z,33.951,-116.298,-0.127,2.5,mc,0,63.8,NA,0.153,ci,ci2049324,2016-02-10T10:46:04.146Z,"17km NNE of Thousand Palms, California",earthquake,NA,0.496,NA,31,reviewed,ci,ci
+1992-04-28T14:41:52.350Z,33.991,-116.219,1.34,2.56,mc,0,86,NA,0.138,ci,ci3028514,2016-02-10T07:10:09.793Z,"18km SSE of Joshua Tree, California",earthquake,NA,0.358,NA,30,reviewed,ci,ci
+1992-04-28T14:49:32.080Z,33.983,-116.31,-0.449,2.93,mc,0,79,0.07537,0.236,ci,ci3019544,2016-02-10T00:00:14.945Z,"17km S of Joshua Tree, California",earthquake,NA,1.137,NA,6,reviewed,ci,ci
+1992-04-28T15:25:16.430Z,33.96,-116.325,3.523,3.52,mc,0,40,NA,0.217,ci,ci2049333,2016-02-09T20:13:35.106Z,"16km E of Desert Hot Springs, California",earthquake,NA,0.125,NA,96,reviewed,ci,ci
+1992-04-28T15:56:52.580Z,33.975,-116.306,1.025,2.5,mc,0,77.9,NA,0.168,ci,ci3028519,2016-02-10T00:00:21.636Z,"18km S of Joshua Tree, California",earthquake,NA,1.238,NA,15,reviewed,ci,ci
+1992-04-28T18:18:38.510Z,33.972,-116.292,-0.58,2.51,mc,0,42.3,NA,0.193,ci,ci3072261,2016-02-10T10:46:15.768Z,"18km S of Joshua Tree, California",earthquake,NA,0.345,NA,49,reviewed,ci,ci
+1992-04-28T19:16:59.910Z,33.982,-116.285,0.743,2.53,mc,0,43.8,NA,0.166,ci,ci2049389,2016-02-10T10:46:21.068Z,"17km S of Joshua Tree, California",earthquake,NA,0.278,NA,22,reviewed,ci,ci
+1992-04-28T19:36:14.000Z,33.977,-116.271,-0.75,3.62,mc,0,44.2,NA,0.197,ci,ci2049391,2016-02-10T03:37:37.738Z,"18km SSE of Joshua Tree, California",earthquake,NA,0.303,NA,47,reviewed,ci,ci
+1992-04-28T19:37:39.000Z,33.979,-116.269,-0.877,2.94,mc,0,44.2,NA,0.185,ci,ci3026465,2016-02-10T21:23:09.753Z,"18km SSE of Joshua Tree, California",earthquake,NA,0.3,NA,63,reviewed,ci,ci
+1992-04-28T19:43:20.600Z,33.993,-116.279,-0.087,2.7,mc,0,55.6,NA,0.205,ci,ci2049393,2016-02-10T00:00:52.020Z,"16km SSE of Joshua Tree, California",earthquake,NA,0.276,NA,48,reviewed,ci,ci
+1992-04-28T19:55:13.920Z,33.978,-116.274,-0.877,2.53,mc,0,43.6,NA,0.212,ci,ci2049395,2016-02-10T03:37:39.014Z,"18km SSE of Joshua Tree, California",earthquake,NA,0.37,NA,35,reviewed,ci,ci
+1992-04-28T19:56:29.090Z,33.976,-116.271,0.113,2.85,mc,0,44.2,NA,0.204,ci,ci2049396,2016-02-10T00:00:56.026Z,"18km SSE of Joshua Tree, California",earthquake,NA,0.216,NA,60,reviewed,ci,ci
+1992-04-28T21:56:21.090Z,34.0131667,-116.3086667,-0.673,2.56,mc,36,81,NA,0.28,ci,ci2049417,2016-04-02T08:38:53.297Z,"14km S of Joshua Tree, CA",earthquake,0.48,1.05,NA,54,reviewed,ci,ci
+1992-04-28T23:50:12.000Z,33.959,-116.284,-0.927,2.57,mc,0,62.3,NA,0.161,ci,ci2049438,2016-02-10T14:13:21.896Z,"18km NNE of Thousand Palms, California",earthquake,NA,0.426,NA,50,reviewed,ci,ci
+1992-04-29T01:58:28.350Z,33.961,-116.321,7.848,2.57,mc,0,40.3,NA,0.18,ci,ci2049455,2016-02-10T03:37:50.638Z,"17km E of Desert Hot Springs, California",earthquake,NA,0.353,NA,49,reviewed,ci,ci
+1992-04-29T02:34:47.690Z,33.976,-116.242,-1.107,2.99,mc,0,48.4,NA,0.168,ci,ci3118551,2016-02-09T20:14:05.742Z,"19km SSE of Joshua Tree, California",earthquake,NA,0.303,NA,57,reviewed,ci,ci
+1992-04-29T03:11:56.470Z,33.994,-116.278,2.995,2.66,mc,0,40.8,NA,0.196,ci,ci2049466,2016-02-09T20:14:07.627Z,"16km SSE of Joshua Tree, California",earthquake,NA,0.162,NA,53,reviewed,ci,ci
+1992-04-29T03:13:52.920Z,33.979,-116.272,0.665,3,mc,0,62.7,NA,0.175,ci,ci3118562,2016-02-10T14:13:29.310Z,"18km SSE of Joshua Tree, California",earthquake,NA,0.226,NA,59,reviewed,ci,ci
+1992-04-29T03:57:11.930Z,33.953,-116.378,-0.637,2.54,mc,0,68,NA,0.19,ci,ci2049483,2016-02-10T07:10:43.081Z,"11km E of Desert Hot Springs, California",earthquake,NA,0.401,NA,43,reviewed,ci,ci
+1992-04-29T05:03:14.770Z,33.952,-116.37,2.188,2.56,mc,0,68.6,NA,0.217,ci,ci2049498,2016-02-09T20:14:18.284Z,"12km E of Desert Hot Springs, California",earthquake,NA,0.193,NA,30,reviewed,ci,ci
+1992-04-29T05:10:31.070Z,34.042,-116.326,0.379,2.68,mc,0,88.4,NA,0.178,ci,ci2049499,2016-02-10T00:01:15.591Z,"10km S of Joshua Tree, California",earthquake,NA,0.349,NA,18,reviewed,ci,ci
+1992-04-29T05:22:38.160Z,34.048,-116.328,0.009,2.54,mc,0,89.5,NA,0.182,ci,ci2049501,2016-02-10T03:37:57.447Z,"10km S of Joshua Tree, California",earthquake,NA,0.344,NA,22,reviewed,ci,ci
+1992-04-29T06:21:37.560Z,33.918,-116.332,2.273,2.61,mc,0,31.6,NA,0.195,ci,ci2049512,2016-02-10T17:44:35.377Z,"12km NNE of Thousand Palms, California",earthquake,NA,0.149,NA,61,reviewed,ci,ci
+1992-04-29T06:59:34.120Z,34.077,-116.317,-0.802,2.84,mc,0,44,NA,0.195,ci,ci3118572,2016-02-09T20:14:22.822Z,"6km S of Joshua Tree, California",earthquake,NA,0.348,NA,63,reviewed,ci,ci
+1992-04-29T07:06:19.820Z,33.964,-116.301,-0.207,2.56,mc,0,42.2,NA,0.222,ci,ci2049523,2016-02-10T07:10:50.467Z,"18km NNE of Thousand Palms, California",earthquake,NA,0.334,NA,51,reviewed,ci,ci
+1992-04-29T07:36:27.570Z,34.075,-116.32,-1.052,2.91,mc,0,72.3,NA,0.168,ci,ci3118871,2016-02-10T10:46:42.129Z,"7km S of Joshua Tree, California",earthquake,NA,0.356,NA,59,reviewed,ci,ci
+1992-04-29T08:22:44.440Z,33.949,-116.347,6.083,2.69,mc,0,66.9,NA,0.164,ci,ci3118875,2016-02-09T20:14:28.589Z,"14km E of Desert Hot Springs, California",earthquake,NA,0.586,NA,47,reviewed,ci,ci
+1992-04-29T08:28:10.420Z,33.921,-116.324,-0.647,2.76,mc,0,59.9,NA,0.17,ci,ci3118886,2016-02-10T00:01:21.064Z,"13km NNE of Thousand Palms, California",earthquake,NA,0.403,NA,61,reviewed,ci,ci
+1992-04-29T09:59:07.110Z,33.991,-116.26,0.299,2.58,mc,0,43.7,NA,0.189,ci,ci2049555,2016-02-10T17:44:45.640Z,"17km SSE of Joshua Tree, California",earthquake,NA,0.225,NA,58,reviewed,ci,ci
+1992-04-29T11:18:20.340Z,34.063,-116.276,12.581,2.57,mc,0,113.8,NA,0.23,ci,ci2049568,2016-02-10T17:45:05.456Z,"9km SSE of Joshua Tree, California",earthquake,NA,1.331,NA,49,reviewed,ci,ci
+1992-04-29T12:36:37.250Z,34.002,-116.309,2.615,2.75,mc,0,77.9,NA,0.133,ci,ci2049582,2016-02-09T20:14:41.962Z,"15km S of Joshua Tree, California",earthquake,NA,0.321,NA,64,reviewed,ci,ci
+1992-04-29T13:01:50.400Z,33.993,-116.314,4.089,2.69,mc,0,75.8,NA,0.176,ci,ci2049585,2016-02-10T07:11:02.623Z,"16km S of Joshua Tree, California",earthquake,NA,0.218,NA,67,reviewed,ci,ci
+1992-04-29T13:10:46.180Z,33.944,-116.303,0.353,3.05,mc,0,72.4,NA,0.143,ci,ci2049586,2016-02-10T00:01:26.302Z,"16km NNE of Thousand Palms, California",earthquake,NA,0.346,NA,87,reviewed,ci,ci
+1992-04-29T13:59:26.500Z,33.958,-116.293,0.795,2.94,mc,0,63.9,NA,0.118,ci,ci2049595,2016-02-10T03:38:17.054Z,"18km NNE of Thousand Palms, California",earthquake,NA,0.385,NA,74,reviewed,ci,ci
+1992-04-29T14:24:28.000Z,34.024,-116.315,4.469,2.6,mc,0,86,NA,0.112,ci,ci2049600,2016-02-10T10:46:53.336Z,"12km S of Joshua Tree, California",earthquake,NA,0.274,NA,53,reviewed,ci,ci
+1992-04-29T18:01:43.160Z,34.023,-116.26,-0.876,2.53,mc,0,80.7,NA,0.158,ci,ci2049639,2016-02-10T10:47:02.287Z,"13km SSE of Joshua Tree, California",earthquake,NA,0.742,NA,46,reviewed,ci,ci
+1992-04-29T18:32:40.560Z,33.985,-116.263,2.504,3.07,mc,0,82,NA,0.148,ci,ci2049642,2016-02-10T03:38:20.885Z,"17km SSE of Joshua Tree, California",earthquake,NA,0.239,NA,81,reviewed,ci,ci
+1992-04-29T19:46:14.320Z,34,-116.317,3.316,2.65,mc,0,41.3,NA,0.199,ci,ci3021057,2016-02-10T03:38:24.691Z,"15km S of Joshua Tree, California",earthquake,NA,0.191,NA,57,reviewed,ci,ci
+1992-04-29T22:05:10.100Z,33.979,-116.296,-0.667,2.5,mc,0,41,NA,0.189,ci,ci2049682,2016-02-10T00:01:38.809Z,"17km S of Joshua Tree, California",earthquake,NA,0.527,NA,44,reviewed,ci,ci
+1992-04-30T10:43:33.960Z,33.969,-116.286,2.584,2.69,mc,0,64.7,NA,0.163,ci,ci2049804,2016-02-10T17:45:48.027Z,"19km S of Joshua Tree, California",earthquake,NA,0.2,NA,61,reviewed,ci,ci
+1992-04-30T12:54:00.940Z,33.84,-116.264,0.034,2.55,mc,0,55.2,NA,0.208,ci,ci2049826,2016-02-10T00:02:07.675Z,"12km E of Thousand Palms, California",earthquake,NA,0.354,NA,39,reviewed,ci,ci
+1992-04-30T13:32:44.120Z,33.946,-116.316,4.208,3.15,mc,0,61.6,NA,0.185,ci,ci2049830,2016-02-09T20:15:49.155Z,"16km NNE of Thousand Palms, California",earthquake,NA,0.144,NA,90,reviewed,ci,ci
+1992-04-30T15:25:02.440Z,34.04,-116.311,-0.897,2.67,mc,0,38.6,NA,0.191,ci,ci2049853,2016-02-10T07:11:48.242Z,"10km S of Joshua Tree, California",earthquake,NA,0.41,NA,56,reviewed,ci,ci
+1992-04-30T15:38:39.470Z,34.04,-116.312,-0.887,2.59,mc,0,38.9,NA,0.182,ci,ci2049855,2016-02-09T20:16:10.580Z,"10km S of Joshua Tree, California",earthquake,NA,0.569,NA,48,reviewed,ci,ci
+1992-04-30T15:55:36.950Z,33.933,-116.366,3.275,2.92,mc,0,53.3,NA,0.201,ci,ci2049857,2016-02-10T17:45:56.488Z,"13km N of Thousand Palms, California",earthquake,NA,0.111,NA,73,reviewed,ci,ci
+1992-04-30T16:33:27.900Z,34.066,-116.317,1.115,2.7,mc,0,56.1,NA,0.201,ci,ci2049863,2016-02-10T21:24:51.067Z,"8km S of Joshua Tree, California",earthquake,NA,0.399,NA,67,reviewed,ci,ci
+1992-04-30T18:08:12.210Z,33.947,-116.315,4.118,2.6,mc,0,64.6,NA,0.186,ci,ci2049877,2016-02-10T07:11:50.848Z,"16km NNE of Thousand Palms, California",earthquake,NA,0.145,NA,54,reviewed,ci,ci
+1992-04-30T20:15:51.130Z,33.992,-116.281,4.094,2.71,mc,0,40.8,NA,0.203,ci,ci2049896,2016-02-10T10:47:44.126Z,"16km S of Joshua Tree, California",earthquake,NA,0.206,NA,58,reviewed,ci,ci
+1992-04-30T20:27:57.630Z,34.032,-116.319,8.223,2.51,mc,0,42.4,NA,0.18,ci,ci2049897,2016-02-10T14:14:28.547Z,"11km S of Joshua Tree, California",earthquake,NA,0.803,NA,47,reviewed,ci,ci
+1992-04-30T20:36:32.540Z,33.958,-116.295,-0.657,3.1,mc,0,63.8,NA,0.17,ci,ci2049899,2016-02-10T10:47:45.498Z,"18km NNE of Thousand Palms, California",earthquake,NA,0.31,NA,82,reviewed,ci,ci
+1992-04-30T21:21:14.510Z,34.067,-116.317,-0.66,2.58,mc,0,43.6,NA,0.192,ci,ci2049903,2016-02-09T20:16:21.968Z,"8km S of Joshua Tree, California",earthquake,NA,0.32,NA,54,reviewed,ci,ci
+1992-04-30T22:11:50.530Z,34.034,-116.328,3.433,2.65,mc,0,91.2,NA,0.212,ci,ci2049917,2016-02-10T10:47:46.789Z,"11km S of Joshua Tree, California",earthquake,NA,0.274,NA,50,reviewed,ci,ci
+1992-04-30T22:43:04.420Z,34.034,-116.318,-0.262,3.02,mc,0,72.3,NA,0.154,ci,ci2049922,2016-02-10T00:02:19.614Z,"11km S of Joshua Tree, California",earthquake,NA,0.391,NA,75,reviewed,ci,ci
+1992-05-01T05:07:27.410Z,34,-116.328,-0.087,2.64,mc,0,77.4,NA,0.182,ci,ci2049978,2016-02-10T17:46:16.463Z,"15km S of Joshua Tree, California",earthquake,NA,0.46,NA,55,reviewed,ci,ci
+1992-05-01T05:14:09.890Z,34.026,-116.321,2.645,2.76,mc,0,80.2,NA,0.242,ci,ci3021121,2016-02-10T17:46:17.804Z,"12km S of Joshua Tree, California",earthquake,NA,0.378,NA,73,reviewed,ci,ci
+1992-05-01T06:03:27.420Z,34.035,-116.321,4.603,3.41,mc,0,38.3,NA,0.199,ci,ci2049987,2016-02-09T20:16:40.656Z,"11km S of Joshua Tree, California",earthquake,NA,13.279,NA,107,reviewed,ci,ci
+1992-05-01T06:14:09.310Z,34.071,-116.317,-0.96,2.84,mc,0,90.9,NA,0.153,ci,ci2049988,2016-02-10T17:46:18.981Z,"7km S of Joshua Tree, California",earthquake,NA,0.651,NA,70,reviewed,ci,ci
+1992-05-01T07:06:39.350Z,34.036,-116.309,2.583,2.54,mc,0,88.4,NA,0.183,ci,ci2049992,2016-02-10T17:46:21.526Z,"11km S of Joshua Tree, California",earthquake,NA,0.249,NA,55,reviewed,ci,ci
+1992-05-01T08:19:08.280Z,33.979,-116.315,0.626,3,mc,0,70.9,NA,0.201,ci,ci2050002,2016-02-09T20:16:44.442Z,"17km S of Joshua Tree, California",earthquake,NA,0.294,NA,85,reviewed,ci,ci
+1992-05-01T09:06:49.790Z,33.989,-116.272,1.324,2.57,mc,0,69.1,NA,0.175,ci,ci2050006,2016-02-10T00:02:31.090Z,"17km SSE of Joshua Tree, California",earthquake,NA,0.245,NA,56,reviewed,ci,ci
+1992-05-01T11:29:53.190Z,33.97,-116.269,-1.336,2.72,mc,0,64.3,NA,0.202,ci,ci2050020,2016-02-10T17:46:26.402Z,"19km SSE of Joshua Tree, California",earthquake,NA,0.527,NA,58,reviewed,ci,ci
+1992-05-01T13:38:42.040Z,33.938,-116.315,4.208,3.97,mc,0,38.3,NA,0.178,ci,ci2050038,2016-02-10T00:02:36.373Z,"15km NNE of Thousand Palms, California",earthquake,NA,0.155,NA,70,reviewed,ci,ci
+1992-05-01T23:59:09.560Z,34.011,-116.339,0.926,2.75,mc,0,42,NA,0.212,ci,ci2050128,2016-02-10T07:12:33.475Z,"14km S of Joshua Tree, California",earthquake,NA,0.227,NA,68,reviewed,ci,ci
+1992-05-02T01:28:59.460Z,33.974,-116.29,0.123,2.56,mc,0,68.1,NA,0.164,ci,ci2050143,2016-02-10T17:46:52.492Z,"18km S of Joshua Tree, California",earthquake,NA,0.385,NA,53,reviewed,ci,ci
+1992-05-02T02:18:31.290Z,34.039,-116.313,-0.695,2.74,ml,0,69.9,NA,0.184,ci,ci2050146,2016-02-10T14:15:06.794Z,"11km S of Joshua Tree, California",earthquake,NA,0.337,NA,10,reviewed,ci,ci
+1992-05-02T09:42:04.180Z,33.955,-116.341,4.158,2.66,mc,0,39,NA,0.223,ci,ci2050221,2016-02-10T21:26:16.333Z,"15km E of Desert Hot Springs, California",earthquake,NA,0.136,NA,63,reviewed,ci,ci
+1992-05-02T12:46:41.420Z,33.989,-116.287,3.031,4.18,ml,0,65.4,NA,0.199,ci,ci2050243,2016-02-10T07:12:55.843Z,"16km S of Joshua Tree, California",earthquake,NA,0.177,NA,23,reviewed,ci,ci
+1992-05-02T12:46:53.290Z,33.9943333,-116.277,6.904,4.1,mh,7,80,0.06914,0.14,ci,ci12178263,2016-02-10T17:47:06.454Z,"16km SSE of Joshua Tree, California",earthquake,0.49,1.58,NA,0,reviewed,ci,ci
+1992-05-02T13:07:48.540Z,34.03,-116.315,0.618,2.7,ml,0,69.4,NA,0.19,ci,ci2050246,2016-02-10T14:15:29.196Z,"12km S of Joshua Tree, California",earthquake,NA,0.314,NA,6,reviewed,ci,ci
+1992-05-02T13:29:54.500Z,33.995,-116.283,2.601,3.1,ml,0,40.1,NA,0.205,ci,ci2050247,2016-02-10T17:47:07.826Z,"16km S of Joshua Tree, California",earthquake,NA,0.211,NA,6,reviewed,ci,ci
+1992-05-02T13:41:59.370Z,33.995,-116.28,4.011,3.23,ml,0,40.6,NA,0.189,ci,ci2050248,2016-02-10T07:12:57.261Z,"16km S of Joshua Tree, California",earthquake,NA,0.258,NA,24,reviewed,ci,ci
+1992-05-02T14:22:06.040Z,34.069,-116.314,0.412,2.53,mc,0,94.8,NA,0.159,ci,ci2050252,2016-02-10T17:47:09.470Z,"7km S of Joshua Tree, California",earthquake,NA,0.495,NA,53,reviewed,ci,ci
+1992-05-02T14:46:05.870Z,34.065,-116.316,0.232,2.65,mc,0,92.3,NA,0.157,ci,ci2050257,2016-02-10T17:47:11.263Z,"8km S of Joshua Tree, California",earthquake,NA,0.429,NA,60,reviewed,ci,ci
+1992-05-02T19:10:23.740Z,33.991,-116.286,2.721,3.6,ml,0,75.5,NA,0.271,ci,ci2050291,2016-02-10T17:47:21.230Z,"16km S of Joshua Tree, California",earthquake,NA,0.179,NA,26,reviewed,ci,ci
+1992-05-02T21:39:30.430Z,33.999,-116.284,2.431,2.52,mc,0,73.6,NA,0.189,ci,ci2050313,2016-02-10T17:47:27.833Z,"15km S of Joshua Tree, California",earthquake,NA,0.376,NA,53,reviewed,ci,ci
+1992-05-02T23:08:46.210Z,34.039,-116.232,7.293,2.7,mc,0,72.1,NA,0.162,ci,ci2050327,2016-02-10T10:48:37.299Z,"13km SE of Joshua Tree, California",earthquake,NA,1.366,NA,61,reviewed,ci,ci
+1992-05-03T00:08:24.590Z,33.97,-116.242,-1.141,2.75,mc,0,51.7,NA,0.165,ci,ci2050338,2016-02-10T17:47:36.642Z,"20km SSE of Joshua Tree, California",earthquake,NA,0.48,NA,55,reviewed,ci,ci
+1992-05-03T00:37:09.880Z,33.94,-116.303,0.021,3.31,ml,0,41,NA,0.196,ci,ci2050343,2016-02-10T10:48:43.690Z,"16km NNE of Thousand Palms, California",earthquake,NA,0.309,NA,17,reviewed,ci,ci
+1992-05-03T00:37:49.910Z,33.936,-116.309,2.131,2.54,mc,0,128.8,NA,0.17,ci,ci3021422,2016-02-10T21:26:42.957Z,"15km NNE of Thousand Palms, California",earthquake,NA,0.748,NA,6,reviewed,ci,ci
+1992-05-03T05:42:11.560Z,34.031,-116.311,0.547,2.65,mc,0,69.4,NA,0.189,ci,ci2050385,2016-02-10T17:47:43.047Z,"12km S of Joshua Tree, California",earthquake,NA,0.328,NA,67,reviewed,ci,ci
+1992-05-03T08:13:53.570Z,33.943,-116.377,0.452,2.89,ml,0,33.7,NA,0.168,ci,ci2050402,2016-02-10T03:40:35.350Z,"12km E of Desert Hot Springs, California",earthquake,NA,0.164,NA,12,reviewed,ci,ci
+1992-05-03T09:18:28.040Z,34.05,-116.336,-0.053,2.7,ml,0,73.4,NA,0.168,ci,ci2050408,2016-02-10T10:48:51.471Z,"10km SSW of Joshua Tree, California",earthquake,NA,0.425,NA,13,reviewed,ci,ci
+1992-05-03T19:09:47.030Z,33.989,-116.319,9.487,2.51,mc,0,75.2,NA,0.163,ci,ci2050491,2016-02-10T21:27:11.714Z,"16km S of Joshua Tree, California",earthquake,NA,0.548,NA,52,reviewed,ci,ci
+1992-05-03T21:21:27.300Z,33.996,-116.298,2.576,2.74,mc,0,71,NA,0.219,ci,ci2050508,2016-02-10T10:49:05.212Z,"16km S of Joshua Tree, California",earthquake,NA,0.172,NA,72,reviewed,ci,ci
+1992-05-04T01:16:02.560Z,33.939,-116.341,5.156,4.19,ml,0,56.7,NA,0.209,ci,ci2050538,2016-02-10T00:04:01.426Z,"14km NNE of Thousand Palms, California",earthquake,NA,0.548,NA,22,reviewed,ci,ci
+1992-05-04T01:16:13.940Z,33.9361667,-116.3395,7.506,3,mh,7,131,0.02225,0.06,ci,ci12178271,2016-02-10T10:49:12.517Z,"14km NNE of Thousand Palms, California",earthquake,0.73,0.93,NA,0,reviewed,ci,ci
+1992-05-04T07:24:14.090Z,34.062,-116.319,-1.123,3.18,ml,0,39.4,NA,0.179,ci,ci2050583,2016-02-10T03:40:59.840Z,"8km S of Joshua Tree, California",earthquake,NA,0.332,NA,21,reviewed,ci,ci
+1992-05-04T13:49:51.670Z,34.006,-116.321,0.105,2.92,mc,0,77.5,NA,0.198,ci,ci2050631,2016-02-09T20:19:36.766Z,"14km S of Joshua Tree, California",earthquake,NA,0.317,NA,81,reviewed,ci,ci
+1992-05-04T16:19:49.720Z,33.941,-116.304,11.766,4.98,ml,0,41.2,NA,0.22,ci,ci2050647,2016-02-10T07:14:04.658Z,"16km NNE of Thousand Palms, California",earthquake,NA,0.226,NA,18,reviewed,ci,ci
+1992-05-04T16:27:27.310Z,33.946,-116.307,10.856,2.6,ml,0,63.7,NA,0.145,ci,ci2050649,2016-02-10T03:41:10.455Z,"16km NNE of Thousand Palms, California",earthquake,NA,0.493,NA,3,reviewed,ci,ci
+1992-05-04T16:38:44.320Z,33.955,-116.307,9.666,2.54,mc,0,65.6,NA,0.14,ci,ci2050652,2016-02-10T10:49:29.179Z,"17km NNE of Thousand Palms, California",earthquake,NA,0.627,NA,24,reviewed,ci,ci
+1992-05-04T16:47:22.090Z,33.937,-116.308,8.496,3.03,ml,0,39,NA,0.194,ci,ci2050653,2016-02-09T20:19:41.051Z,"15km NNE of Thousand Palms, California",earthquake,NA,0.435,NA,3,reviewed,ci,ci
+1992-05-04T17:48:03.710Z,33.945,-116.304,9.306,2.82,ml,0,42.8,NA,0.183,ci,ci2050661,2016-02-10T10:49:31.779Z,"16km NNE of Thousand Palms, California",earthquake,NA,0.381,NA,3,reviewed,ci,ci
+1992-05-05T00:55:30.170Z,34.002,-116.336,0.435,3.31,ml,0,53.8,NA,0.205,ci,ci2050724,2016-02-10T17:48:42.387Z,"15km S of Joshua Tree, California",earthquake,NA,0.21,NA,25,reviewed,ci,ci
+1992-05-05T01:06:44.770Z,34.01,-116.319,0.315,3.1,ml,0,36,NA,0.198,ci,ci2050725,2016-02-09T20:19:50.671Z,"14km S of Joshua Tree, California",earthquake,NA,0.315,NA,5,reviewed,ci,ci
+1992-05-05T02:25:31.970Z,33.937,-116.306,8.246,2.55,mc,0,61.8,NA,0.193,ci,ci2050736,2016-02-10T21:27:55.170Z,"15km NNE of Thousand Palms, California",earthquake,NA,0.456,NA,59,reviewed,ci,ci
+1992-05-05T12:23:44.700Z,33.998,-116.284,2.221,2.6,mc,0,45.9,NA,0.183,ci,ci2050804,2016-02-10T17:48:52.095Z,"15km S of Joshua Tree, California",earthquake,NA,0.223,NA,69,reviewed,ci,ci
+1992-05-05T12:37:48.140Z,34.002,-116.28,4.034,2.64,ml,0,46.6,NA,0.176,ci,ci2050808,2016-02-10T07:14:27.621Z,"15km SSE of Joshua Tree, California",earthquake,NA,0.396,NA,5,reviewed,ci,ci
+1992-05-05T13:45:13.680Z,34.032,-116.319,-1.035,2.71,mc,0,69.5,NA,0.173,ci,ci2050812,2016-02-10T03:41:38.558Z,"11km S of Joshua Tree, California",earthquake,NA,0.453,NA,62,reviewed,ci,ci
+1992-05-05T23:06:31.320Z,33.972,-116.292,-0.795,2.72,mc,0,67.7,NA,0.173,ci,ci2050887,2016-02-10T03:41:51.389Z,"18km S of Joshua Tree, California",earthquake,NA,0.464,NA,55,reviewed,ci,ci
+1992-05-05T23:18:06.350Z,34.069,-116.374,-1.035,2.74,mc,0,103,NA,0.176,ci,ci2050890,2016-02-09T20:20:34.977Z,"7km SE of Yucca Valley, California",earthquake,NA,0.447,NA,57,reviewed,ci,ci
+1992-05-06T01:40:21.380Z,34.032,-116.314,2.185,3.25,mc,0,38.2,NA,0.203,ci,ci2050929,2016-02-10T07:14:43.084Z,"11km S of Joshua Tree, California",earthquake,NA,0.219,NA,92,reviewed,ci,ci
+1992-05-06T02:38:43.350Z,33.943,-116.314,6.206,4.83,ml,0,28.2,NA,0.226,ci,ci2050937,2016-02-10T07:14:44.728Z,"15km NNE of Thousand Palms, California",earthquake,NA,0.507,NA,18,reviewed,ci,ci
+1992-05-06T02:39:23.450Z,33.9466667,-116.3228333,7.491,2.5,mh,5,163,0.03013,0.05,ci,ci12178287,2016-02-10T07:14:46.063Z,"15km NNE of Thousand Palms, California",earthquake,0.98,1.38,NA,0,reviewed,ci,ci
+1992-05-06T03:20:08.960Z,33.951,-116.32,3.356,3.1,ml,0,30.3,NA,0.206,ci,ci2050942,2016-02-09T20:20:47.247Z,"16km NNE of Thousand Palms, California",earthquake,NA,0.167,NA,5,reviewed,ci,ci
+1992-05-06T05:10:43.910Z,33.94,-116.315,5.716,3.51,ml,0,41.2,NA,0.213,ci,ci2050956,2016-02-10T07:14:47.538Z,"15km NNE of Thousand Palms, California",earthquake,NA,0.763,NA,4,reviewed,ci,ci
+1992-05-06T16:31:43.370Z,33.933,-116.316,4.366,3.23,mc,0,61.8,NA,0.181,ci,ci2051024,2016-02-10T21:28:39.044Z,"14km NNE of Thousand Palms, California",earthquake,NA,0.139,NA,95,reviewed,ci,ci
+1992-05-06T17:41:19.220Z,33.947,-116.315,4.426,3.58,ml,0,38.1,NA,0.188,ci,ci2051032,2016-02-10T17:49:27.039Z,"16km NNE of Thousand Palms, California",earthquake,NA,0.218,NA,21,reviewed,ci,ci
+1992-05-06T19:34:56.080Z,34.015,-116.329,1.815,2.57,mc,0,80.7,NA,0.186,ci,ci2051048,2016-02-10T10:50:27.356Z,"13km S of Joshua Tree, California",earthquake,NA,0.394,NA,52,reviewed,ci,ci
+1992-05-06T22:20:22.610Z,34.057,-116.324,-0.748,2.53,mc,0,100.7,NA,0.124,ci,ci2051078,2016-02-10T21:28:42.761Z,"9km S of Joshua Tree, California",earthquake,NA,0.979,NA,45,reviewed,ci,ci
+1992-05-07T02:34:54.120Z,34.028,-116.309,-0.658,3.42,ml,0,38,NA,0.216,ci,ci2051110,2016-02-10T21:28:52.732Z,"12km S of Joshua Tree, California",earthquake,NA,0.329,NA,22,reviewed,ci,ci
+1992-05-07T03:06:15.440Z,34.032,-116.31,-0.518,2.52,mc,0,80.6,NA,0.186,ci,ci2051113,2016-02-10T00:05:19.968Z,"11km S of Joshua Tree, California",earthquake,NA,0.47,NA,11,reviewed,ci,ci
+1992-05-07T03:06:59.290Z,34.03,-116.31,-0.698,2.79,ml,0,38.2,NA,0.188,ci,ci3023973,2016-02-10T07:15:13.119Z,"12km S of Joshua Tree, California",earthquake,NA,0.344,NA,17,reviewed,ci,ci
+1992-05-07T03:28:18.530Z,33.952,-116.329,-0.338,2.53,mc,0,66.7,NA,0.176,ci,ci2051114,2016-02-10T17:49:32.737Z,"16km NNE of Thousand Palms, California",earthquake,NA,0.393,NA,51,reviewed,ci,ci
+1992-05-07T04:13:24.520Z,34.032,-116.311,0.462,2.5,mc,0,87.5,NA,0.167,ci,ci2051119,2016-02-10T07:15:14.617Z,"11km S of Joshua Tree, California",earthquake,NA,0.386,NA,53,reviewed,ci,ci
+1992-05-07T10:48:08.020Z,33.994,-116.254,-0.206,2.9,mc,0,32.1,NA,0.204,ci,ci2051155,2016-02-10T03:42:22.802Z,"17km SSE of Joshua Tree, California",earthquake,NA,0.317,NA,82,reviewed,ci,ci
+1992-05-07T12:24:30.200Z,33.969,-116.354,0.643,3.35,ml,0,34.6,NA,0.199,ci,ci2051165,2016-02-10T03:42:26.596Z,"14km E of Desert Hot Springs, California",earthquake,NA,0.301,NA,4,reviewed,ci,ci
+1992-05-07T15:40:45.760Z,34.028,-116.312,-1.038,2.86,mc,0,38.1,NA,0.202,ci,ci2051195,2016-02-10T10:50:49.761Z,"12km S of Joshua Tree, California",earthquake,NA,0.438,NA,72,reviewed,ci,ci
+1992-05-07T20:40:16.970Z,34.048,-116.32,2.125,2.57,mc,0,96,NA,0.17,ci,ci2051229,2016-02-10T00:05:37.019Z,"10km S of Joshua Tree, California",earthquake,NA,0.391,NA,45,reviewed,ci,ci
+1992-05-08T00:04:49.840Z,34.036,-116.355,0.465,2.54,mc,0,94,NA,0.16,ci,ci2051256,2016-02-10T03:42:34.656Z,"11km SE of Yucca Valley, California",earthquake,NA,0.408,NA,52,reviewed,ci,ci
+1992-05-08T07:21:18.990Z,33.947,-116.315,4.966,2.87,mc,0,64.4,NA,0.158,ci,ci2051303,2016-02-10T07:15:41.954Z,"16km NNE of Thousand Palms, California",earthquake,NA,2.519,NA,79,reviewed,ci,ci
+1992-05-08T07:27:18.220Z,33.964,-116.339,0.356,2.67,mc,0,70.1,NA,0.175,ci,ci2051305,2016-02-09T20:22:09.521Z,"15km E of Desert Hot Springs, California",earthquake,NA,0.38,NA,61,reviewed,ci,ci
+1992-05-08T15:10:59.060Z,34.043,-116.329,0.575,3.03,ml,0,38.5,NA,0.228,ci,ci2051341,2016-02-10T10:51:12.682Z,"10km S of Joshua Tree, California",earthquake,NA,0.279,NA,6,reviewed,ci,ci
+1992-05-08T16:14:41.670Z,34.068,-116.321,-1.176,2.54,mc,0,74.4,NA,0.2,ci,ci2051349,2016-02-09T20:22:23.960Z,"8km S of Joshua Tree, California",earthquake,NA,0.354,NA,45,reviewed,ci,ci
+1992-05-09T00:17:49.110Z,33.994,-116.19,-1.486,2.59,mc,0,50.3,NA,0.182,ci,ci2051416,2016-02-09T20:22:40.885Z,"19km SE of Joshua Tree, California",earthquake,NA,0.331,NA,47,reviewed,ci,ci
+1992-05-09T00:41:28.140Z,34.031,-116.295,-0.023,2.65,mc,0,42,NA,0.189,ci,ci2051417,2016-02-10T10:51:21.828Z,"12km S of Joshua Tree, California",earthquake,NA,0.322,NA,53,reviewed,ci,ci
+1992-05-09T03:35:32.480Z,33.999,-116.284,2.131,2.82,ml,0,36.2,NA,0.202,ci,ci2051439,2016-02-10T21:29:31.710Z,"15km S of Joshua Tree, California",earthquake,NA,0.229,NA,6,reviewed,ci,ci
+1992-05-09T04:18:54.080Z,34.013,-116.321,3.725,2.58,mc,0,78.9,NA,0.248,ci,ci2051442,2016-02-10T21:29:33.217Z,"14km S of Joshua Tree, California",earthquake,NA,0.162,NA,51,reviewed,ci,ci
+1992-05-09T16:45:19.860Z,33.977,-116.263,3.866,2.7,mc,0,39.8,NA,0.205,ci,ci2051504,2016-02-10T00:06:34.659Z,"18km SSE of Joshua Tree, California",earthquake,NA,0.171,NA,59,reviewed,ci,ci
+1992-05-09T17:45:58.490Z,34.012,-116.323,0.095,2.57,mc,0,79.1,NA,0.206,ci,ci2051510,2016-02-10T14:18:32.913Z,"14km S of Joshua Tree, California",earthquake,NA,0.242,NA,56,reviewed,ci,ci
+1992-05-09T19:32:47.320Z,33.979,-116.262,3.836,3.13,ml,0,47.7,NA,0.224,ci,ci2051520,2016-02-10T14:18:34.322Z,"18km SSE of Joshua Tree, California",earthquake,NA,0.17,NA,5,reviewed,ci,ci
+1992-05-09T20:20:15.360Z,34.066,-116.317,-0.105,2.52,mc,0,102.4,NA,0.176,ci,ci2051523,2016-02-09T20:23:03.719Z,"8km S of Joshua Tree, California",earthquake,NA,0.575,NA,44,reviewed,ci,ci
+1992-05-09T22:33:00.060Z,33.978,-116.26,3.856,2.78,ml,0,32.2,NA,0.2,ci,ci2051539,2016-02-10T21:29:48.632Z,"18km SSE of Joshua Tree, California",earthquake,NA,0.201,NA,4,reviewed,ci,ci
+1992-05-10T02:00:10.170Z,33.979,-116.258,4.226,2.58,mc,0,39.8,NA,0.196,ci,ci2051556,2016-02-10T03:43:19.804Z,"18km SSE of Joshua Tree, California",earthquake,NA,0.294,NA,57,reviewed,ci,ci
+1992-05-10T02:26:26.550Z,33.978,-116.259,3.826,3.14,ml,0,32.3,NA,0.209,ci,ci2051558,2016-02-10T21:29:51.350Z,"18km SSE of Joshua Tree, California",earthquake,NA,0.184,NA,20,reviewed,ci,ci
+1992-05-10T06:02:22.640Z,33.943,-116.392,5.551,2.51,mc,0,34.7,NA,0.207,ci,ci2051579,2016-02-09T20:23:16.896Z,"10km E of Desert Hot Springs, California",earthquake,NA,0.328,NA,59,reviewed,ci,ci
+1992-05-10T07:44:20.700Z,33.991,-116.28,1.781,2.57,ml,0,32.4,NA,0.202,ci,ci2051593,2016-02-10T10:51:48.078Z,"16km S of Joshua Tree, California",earthquake,NA,0.221,NA,4,reviewed,ci,ci
+1992-05-10T16:54:11.070Z,33.948,-116.309,6.846,2.66,mc,0,64.2,NA,0.169,ci,ci2051652,2016-02-10T17:51:10.657Z,"16km NNE of Thousand Palms, California",earthquake,NA,0.726,NA,61,reviewed,ci,ci
+1992-05-10T17:51:05.280Z,33.93,-116.315,4.229,3.02,ml,0,31.6,NA,0.177,ci,ci2051659,2016-02-10T07:16:38.762Z,"14km NNE of Thousand Palms, California",earthquake,NA,0.137,NA,17,reviewed,ci,ci
+1992-05-10T17:59:38.770Z,34.007,-116.322,5.505,2.65,mc,0,41.6,NA,0.182,ci,ci2051660,2016-02-10T17:51:13.413Z,"14km S of Joshua Tree, California",earthquake,NA,2.224,NA,58,reviewed,ci,ci
+1992-05-11T00:56:16.800Z,33.976,-116.261,3.966,2.79,ml,0,47.7,NA,0.207,ci,ci2051705,2016-02-10T10:52:03.655Z,"18km SSE of Joshua Tree, California",earthquake,NA,0.176,NA,6,reviewed,ci,ci
+1992-05-11T05:02:48.460Z,34.052,-116.306,-0.26,2.6,mc,0,51.8,NA,0.173,ci,ci2051730,2016-02-10T07:16:52.628Z,"9km S of Joshua Tree, California",earthquake,NA,0.294,NA,31,reviewed,ci,ci
+1992-05-11T12:30:53.980Z,33.9,-116.273,0.18,2.5,mc,0,52.7,NA,0.196,ci,ci2051766,2016-02-10T03:44:02.295Z,"14km NE of Thousand Palms, California",earthquake,NA,0.37,NA,49,reviewed,ci,ci
+1992-05-11T21:02:29.520Z,33.942,-116.305,0.936,2.52,mc,0,62.6,NA,0.186,ci,ci2051833,2016-02-10T21:30:37.988Z,"16km NNE of Thousand Palms, California",earthquake,NA,0.248,NA,50,reviewed,ci,ci
+1992-05-12T02:31:11.010Z,33.981,-116.26,5.845,4.38,ml,0,32.2,NA,0.22,ci,ci2051863,2016-02-10T14:19:30.606Z,"18km SSE of Joshua Tree, California",earthquake,NA,0.887,NA,6,reviewed,ci,ci
+1992-05-12T02:31:27.940Z,33.979,-116.259,-1.051,4.44,ml,0,116.2,0.05026,0.275,ci,ci3024922,2016-02-10T00:07:43.037Z,"18km SSE of Joshua Tree, California",earthquake,NA,1.096,NA,17,reviewed,ci,ci
+1992-05-12T02:32:52.540Z,33.985,-116.258,3.802,3.9,ml,0,65.9,NA,0.218,ci,ci3024923,2016-02-10T07:17:09.360Z,"17km SSE of Joshua Tree, California",earthquake,NA,0.255,NA,6,reviewed,ci,ci
+1992-05-12T02:59:21.840Z,33.979,-116.258,3.716,3.36,ml,0,32.3,NA,0.219,ci,ci2051868,2016-02-10T07:17:12.508Z,"18km SSE of Joshua Tree, California",earthquake,NA,0.215,NA,8,reviewed,ci,ci
+1992-05-12T02:59:59.640Z,33.975,-116.261,5.348,2.98,ml,0,64.4,NA,0.254,ci,ci3025029,2016-02-10T21:30:43.084Z,"18km SSE of Joshua Tree, California",earthquake,NA,NA,NA,5,reviewed,ci,ci
+1992-05-12T08:41:44.650Z,33.979,-116.262,4.194,3.13,ml,0,44.7,NA,0.19,ci,ci2051911,2016-02-09T20:24:18.419Z,"18km SSE of Joshua Tree, California",earthquake,NA,2.906,NA,5,reviewed,ci,ci
+1992-05-12T18:53:24.670Z,34.028,-116.325,-0.045,2.84,mc,0,72.2,NA,0.198,ci,ci2051983,2016-02-10T00:08:09.443Z,"12km S of Joshua Tree, California",earthquake,NA,0.316,NA,74,reviewed,ci,ci
+1992-05-12T22:04:09.510Z,33.984,-116.26,4.151,2.64,mc,0,39.9,NA,0.171,ci,ci2052004,2016-02-10T17:52:02.793Z,"18km SSE of Joshua Tree, California",earthquake,NA,0.188,NA,56,reviewed,ci,ci
+1992-05-13T01:07:06.650Z,33.982,-116.264,6.251,2.77,mc,0,40,NA,0.189,ci,ci2052033,2016-02-10T21:31:12.737Z,"18km SSE of Joshua Tree, California",earthquake,NA,0.819,NA,60,reviewed,ci,ci
+1992-05-14T02:04:33.460Z,33.991,-116.327,-0.287,2.8,mc,0,76.5,NA,0.165,ci,ci2052176,2016-02-10T03:45:05.585Z,"16km S of Joshua Tree, California",earthquake,NA,0.387,NA,69,reviewed,ci,ci
+1992-05-14T06:58:17.840Z,34.004,-116.324,5.225,3.02,mc,0,77.4,NA,0.17,ci,ci2052191,2016-02-09T20:24:59.368Z,"15km S of Joshua Tree, California",earthquake,NA,2.586,NA,89,reviewed,ci,ci
+1992-05-14T07:25:27.510Z,33.994,-116.325,-0.137,2.52,mc,0,77.1,NA,0.161,ci,ci2052192,2016-02-10T10:53:25.638Z,"16km S of Joshua Tree, California",earthquake,NA,0.577,NA,61,reviewed,ci,ci
+1992-05-14T11:22:19.210Z,33.986,-116.29,0.88,3.01,mc,0,35.2,NA,0.201,ci,ci2052209,2016-02-09T20:25:00.748Z,"17km S of Joshua Tree, California",earthquake,NA,0.22,NA,16,reviewed,ci,ci
+1992-05-15T00:05:02.850Z,33.995,-116.287,2.434,2.75,mc,0,40.7,NA,0.187,ci,ci2052303,2016-02-10T14:20:27.011Z,"16km S of Joshua Tree, California",earthquake,NA,0.19,NA,58,reviewed,ci,ci
+1992-05-15T01:36:50.360Z,33.951,-116.317,7.566,3.26,ml,0,41.8,NA,0.2,ci,ci2052311,2016-02-10T00:08:45.715Z,"16km NNE of Thousand Palms, California",earthquake,NA,0.554,NA,3,reviewed,ci,ci
+1992-05-15T05:15:29.710Z,33.988,-116.284,2.302,2.86,ml,0,44.6,NA,0.195,ci,ci2052324,2016-02-10T03:45:34.774Z,"16km S of Joshua Tree, California",earthquake,NA,0.197,NA,5,reviewed,ci,ci
+1992-05-15T09:24:03.900Z,33.988,-116.284,2.412,3.03,mc,0,44.7,NA,0.194,ci,ci2052340,2016-02-10T21:31:53.813Z,"16km S of Joshua Tree, California",earthquake,NA,0.21,NA,85,reviewed,ci,ci
+1992-05-16T09:45:05.140Z,33.98,-116.28,1.772,2.52,mc,0,68.1,NA,0.183,ci,ci2052473,2016-02-09T20:25:52.413Z,"18km S of Joshua Tree, California",earthquake,NA,0.229,NA,52,reviewed,ci,ci
+1992-05-17T01:18:31.160Z,34.033,-116.32,1.725,2.54,mc,0,80.7,NA,0.195,ci,ci2052550,2016-02-10T03:46:08.650Z,"11km S of Joshua Tree, California",earthquake,NA,0.235,NA,52,reviewed,ci,ci
+1992-05-17T06:03:22.980Z,33.941,-116.37,1.235,2.61,mc,0,79.7,NA,0.184,ci,ci3025773,2016-02-10T17:53:14.009Z,"12km E of Desert Hot Springs, California",earthquake,NA,0.148,NA,62,reviewed,ci,ci
+1992-05-17T06:07:46.360Z,34.06,-116.319,-0.33,2.98,ml,0,39.3,NA,0.202,ci,ci2052571,2016-02-10T00:09:19.182Z,"8km S of Joshua Tree, California",earthquake,NA,0.28,NA,16,reviewed,ci,ci
+1992-05-17T06:21:31.500Z,33.96,-116.316,8.796,3.34,mc,0,30.3,NA,0.218,ci,ci2052572,2016-02-10T14:20:50.788Z,"17km NNE of Thousand Palms, California",earthquake,NA,0.365,NA,101,reviewed,ci,ci
+1992-05-17T11:32:09.140Z,33.949,-116.378,0.249,2.57,mc,0,68.1,NA,0.192,ci,ci2052601,2016-02-09T20:26:17.587Z,"12km E of Desert Hot Springs, California",earthquake,NA,0.21,NA,61,reviewed,ci,ci
+1992-05-17T21:03:51.880Z,34.064,-116.317,0.415,2.7,mc,0,92.1,NA,0.212,ci,ci3025877,2016-02-10T14:21:15.698Z,"8km S of Joshua Tree, California",earthquake,NA,0.405,NA,63,reviewed,ci,ci
+1992-05-17T21:04:19.180Z,34.068,-116.311,-0.106,2.62,mc,0,92.6,NA,0.188,ci,ci3025878,2016-02-09T20:26:24.275Z,"7km S of Joshua Tree, California",earthquake,NA,0.581,NA,25,reviewed,ci,ci
+1992-05-18T00:22:34.220Z,33.95,-116.36,7.211,3.64,ml,0,32.8,NA,0.189,ci,ci2052663,2016-02-10T10:54:25.256Z,"13km E of Desert Hot Springs, California",earthquake,NA,0.396,NA,28,reviewed,ci,ci
+1992-05-18T04:44:07.330Z,33.95,-116.308,4.486,2.5,mc,0,64.5,NA,0.181,ci,ci2052679,2016-02-10T14:21:22.398Z,"16km NNE of Thousand Palms, California",earthquake,NA,0.17,NA,56,reviewed,ci,ci
+1992-05-18T06:32:04.340Z,33.969,-116.242,-1.258,2.75,mc,0,60.1,NA,0.155,ci,ci2052686,2016-02-10T10:54:29.210Z,"20km SSE of Joshua Tree, California",earthquake,NA,0.456,NA,64,reviewed,ci,ci
+1992-05-18T15:44:17.970Z,33.951,-116.337,6.131,4.96,ml,0,30,NA,0.248,ci,ci2052730,2016-02-10T07:18:58.798Z,"15km E of Desert Hot Springs, California",earthquake,NA,0.309,NA,17,reviewed,ci,ci
+1992-05-18T15:45:04.930Z,33.9545,-116.3396667,4.429,3.9,mh,13,77,0.0393,0.13,ci,ci12178375,2016-02-10T07:19:00.008Z,"15km E of Desert Hot Springs, California",earthquake,0.46,1.12,NA,0,reviewed,ci,ci
+1992-05-18T15:50:22.980Z,33.952,-116.337,5.591,2.65,mc,0,67.2,NA,0.19,ci,ci3026371,2016-02-10T10:54:42.620Z,"15km E of Desert Hot Springs, California",earthquake,NA,0.82,NA,23,reviewed,ci,ci
+1992-05-18T16:10:39.210Z,33.952,-116.321,3.586,2.59,mc,0,66.1,NA,0.203,ci,ci2052733,2016-02-10T10:54:44.021Z,"16km NNE of Thousand Palms, California",earthquake,NA,0.102,NA,30,reviewed,ci,ci
+1992-05-18T16:18:26.540Z,33.951,-116.336,4.641,2.66,mc,0,66.8,NA,0.184,ci,ci2052734,2016-02-10T07:19:01.287Z,"15km E of Desert Hot Springs, California",earthquake,NA,0.14,NA,40,reviewed,ci,ci
+1992-05-18T16:33:10.790Z,33.961,-116.344,4.951,2.73,mc,0,37.6,NA,0.177,ci,ci2052736,2016-02-10T07:19:02.616Z,"14km E of Desert Hot Springs, California",earthquake,NA,0.217,NA,51,reviewed,ci,ci
+1992-05-18T17:23:14.770Z,33.974,-116.283,0.292,2.94,mc,0,67.3,NA,0.136,ci,ci2052747,2016-02-10T17:53:38.135Z,"18km S of Joshua Tree, California",earthquake,NA,0.32,NA,75,reviewed,ci,ci
+1992-05-18T20:36:28.700Z,33.951,-116.335,4.298,2.66,mc,0,66.8,NA,0.162,ci,ci3025988,2016-02-10T00:09:50.576Z,"15km E of Desert Hot Springs, California",earthquake,NA,0.159,NA,70,reviewed,ci,ci
+1992-05-18T20:36:56.690Z,33.948,-116.338,4.231,3.05,ml,0,66.3,NA,0.17,ci,ci2052768,2016-02-10T03:46:56.423Z,"15km NNE of Thousand Palms, California",earthquake,NA,0.16,NA,18,reviewed,ci,ci
+1992-05-18T20:39:41.440Z,34.041,-116.292,-0.233,3.02,mc,0,88.3,NA,0.174,ci,ci2052769,2016-02-10T21:33:02.212Z,"11km S of Joshua Tree, California",earthquake,NA,0.304,NA,82,reviewed,ci,ci
+1992-05-18T20:45:25.710Z,34.186,-116.433,-0.462,2.72,mc,0,84.6,NA,0.157,ci,ci2052770,2016-02-09T20:26:37.753Z,"8km N of Yucca Valley, California",earthquake,NA,0.485,NA,69,reviewed,ci,ci
+1992-05-18T22:56:06.960Z,33.972,-116.325,4.771,2.95,ml,0,71.2,NA,0.176,ci,ci2052787,2016-02-10T03:47:01.850Z,"16km E of Desert Hot Springs, California",earthquake,NA,167.709,NA,5,reviewed,ci,ci
+1992-05-18T23:50:20.210Z,33.961,-116.34,4.786,3.33,ml,0,69.5,NA,0.154,ci,ci2052792,2016-02-10T10:54:49.518Z,"15km E of Desert Hot Springs, California",earthquake,NA,0.191,NA,5,reviewed,ci,ci
+1992-05-19T00:14:15.620Z,33.96,-116.341,5.541,2.89,ml,0,69.4,NA,0.179,ci,ci2052794,2016-02-10T21:33:03.579Z,"15km E of Desert Hot Springs, California",earthquake,NA,0.844,NA,5,reviewed,ci,ci
+1992-05-19T12:15:27.640Z,33.945,-116.342,4.361,3.2,ml,0,45.6,NA,0.196,ci,ci2052858,2016-02-10T14:21:53.092Z,"15km NNE of Thousand Palms, California",earthquake,NA,0.152,NA,5,reviewed,ci,ci
+1992-05-19T14:48:34.280Z,33.993,-116.284,3.837,2.69,mc,0,67.4,NA,0.192,ci,ci2052870,2016-02-10T03:47:18.331Z,"16km S of Joshua Tree, California",earthquake,NA,0.263,NA,55,reviewed,ci,ci
+1992-05-19T22:19:27.460Z,34.033,-116.326,-0.595,2.62,mc,0,84.7,NA,0.176,ci,ci2052930,2016-02-10T00:10:28.962Z,"11km S of Joshua Tree, California",earthquake,NA,0.656,NA,47,reviewed,ci,ci
+1992-05-20T07:24:00.080Z,33.963,-116.319,9.136,2.84,mc,0,68.5,NA,0.147,ci,ci2052974,2016-02-10T17:54:07.878Z,"17km E of Desert Hot Springs, California",earthquake,NA,0.368,NA,63,reviewed,ci,ci
+1992-05-20T09:59:42.430Z,34.052,-116.326,-0.595,2.89,mc,0,82.1,NA,0.178,ci,ci2052980,2016-02-10T00:10:36.062Z,"9km S of Joshua Tree, California",earthquake,NA,0.373,NA,80,reviewed,ci,ci
+1992-05-20T11:49:10.150Z,34.049,-116.321,3.545,2.65,mc,0,90.2,NA,0.177,ci,ci2052988,2016-02-10T07:19:38.460Z,"10km S of Joshua Tree, California",earthquake,NA,0.268,NA,65,reviewed,ci,ci
+1992-05-20T17:52:42.970Z,34.021,-116.325,4.115,2.59,mc,0,81.4,NA,0.177,ci,ci2053023,2016-02-10T17:54:15.487Z,"13km S of Joshua Tree, California",earthquake,NA,0.249,NA,53,reviewed,ci,ci
+1992-05-20T23:35:05.860Z,34.033,-116.318,2.585,2.96,mc,0,89.7,NA,0.149,ci,ci2053057,2016-02-10T07:19:46.248Z,"11km S of Joshua Tree, California",earthquake,NA,0.29,NA,79,reviewed,ci,ci
+1992-05-21T02:05:15.020Z,34.033,-116.317,3.495,2.61,mc,0,87.3,NA,0.18,ci,ci2053066,2016-02-10T00:10:45.755Z,"11km S of Joshua Tree, California",earthquake,NA,0.217,NA,52,reviewed,ci,ci
+1992-05-23T18:22:52.870Z,33.973,-116.353,3.403,3.04,ml,0,63.4,NA,0.202,ci,ci2053372,2016-02-10T10:56:03.911Z,"14km E of Desert Hot Springs, California",earthquake,NA,0.31,NA,5,reviewed,ci,ci
+1992-05-23T21:37:47.360Z,34.034,-116.353,0.025,2.58,mc,0,43,NA,0.182,ci,ci2053387,2016-02-10T21:34:40.491Z,"12km SE of Yucca Valley, California",earthquake,NA,0.381,NA,55,reviewed,ci,ci
+1992-05-24T14:59:05.670Z,33.95,-116.318,2.423,2.61,mc,0,65.4,NA,0.201,ci,ci2053467,2016-02-09T20:28:07.792Z,"16km NNE of Thousand Palms, California",earthquake,NA,0.206,NA,59,reviewed,ci,ci
+1992-05-24T15:31:14.490Z,33.942,-116.349,2.406,2.84,ml,0,30.4,NA,0.216,ci,ci2053471,2016-02-10T03:48:34.796Z,"14km NNE of Thousand Palms, California",earthquake,NA,0.201,NA,6,reviewed,ci,ci
+1992-05-24T15:36:16.890Z,33.991,-116.236,4.586,2.55,mc,0,39.8,NA,0.192,ci,ci2053472,2016-02-10T03:48:36.817Z,"18km SSE of Joshua Tree, California",earthquake,NA,1.931,NA,45,reviewed,ci,ci
+1992-05-25T11:34:18.480Z,34.049,-116.322,2.424,2.81,mc,0,38.8,NA,0.195,ci,ci2053562,2016-02-10T14:23:17.725Z,"10km S of Joshua Tree, California",earthquake,NA,0.325,NA,79,reviewed,ci,ci
+1992-05-25T23:06:07.620Z,34.033,-116.325,0.014,2.76,ml,0,38.2,NA,0.196,ci,ci2053602,2016-02-10T17:55:47.528Z,"11km S of Joshua Tree, California",earthquake,NA,0.324,NA,6,reviewed,ci,ci
+1992-05-26T03:01:18.360Z,34.055,-116.323,0.046,2.7,mc,0,82.3,NA,0.165,ci,ci2053618,2016-02-10T00:12:01.602Z,"9km S of Joshua Tree, California",earthquake,NA,0.389,NA,69,reviewed,ci,ci
+1992-05-26T20:12:35.690Z,34.051,-116.315,0.429,2.97,ml,0,42,NA,0.203,ci,ci2053692,2016-02-10T00:12:09.876Z,"9km S of Joshua Tree, California",earthquake,NA,0.243,NA,5,reviewed,ci,ci
+1992-05-27T08:16:45.040Z,33.949,-116.334,4.658,2.73,mc,0,66.3,NA,0.165,ci,ci2053749,2016-02-09T20:28:29.754Z,"15km NNE of Thousand Palms, California",earthquake,NA,0.126,NA,53,reviewed,ci,ci
+1992-05-27T09:05:02.430Z,33.969,-116.343,4.418,2.65,mc,0,71.6,NA,0.177,ci,ci2053752,2016-02-09T20:28:32.083Z,"15km E of Desert Hot Springs, California",earthquake,NA,0.172,NA,52,reviewed,ci,ci
+1992-05-27T17:12:09.450Z,33.963,-116.342,5.328,2.94,mc,0,61.9,NA,0.173,ci,ci2053793,2016-02-10T07:21:28.666Z,"15km E of Desert Hot Springs, California",earthquake,NA,0.755,NA,77,reviewed,ci,ci
+1992-05-27T22:33:37.420Z,33.977,-116.32,6.968,2.62,mc,0,71.5,NA,0.18,ci,ci3027055,2016-02-10T21:35:57.921Z,"17km E of Desert Hot Springs, California",earthquake,NA,0.626,NA,10,reviewed,ci,ci
+1992-05-28T21:52:30.210Z,33.958,-116.339,4.988,3.53,ml,0,31.2,NA,0.2,ci,ci2053960,2016-02-10T10:57:17.135Z,"15km E of Desert Hot Springs, California",earthquake,NA,0.756,NA,6,reviewed,ci,ci
+1992-05-29T01:54:08.160Z,33.947,-116.341,4.925,2.96,ml,0,36.3,NA,0.17,ci,ci2053972,2016-02-10T07:21:51.400Z,"15km NNE of Thousand Palms, California",earthquake,NA,0.195,NA,4,reviewed,ci,ci
+1992-05-29T06:47:02.470Z,33.994,-116.294,2.028,2.68,ml,0,30.4,NA,0.207,ci,ci2053993,2016-02-09T20:29:00.733Z,"16km S of Joshua Tree, California",earthquake,NA,0.216,NA,4,reviewed,ci,ci
+1992-05-30T15:31:56.790Z,33.977,-116.321,5.368,2.53,mc,0,40.6,NA,0.168,ci,ci2054119,2016-02-10T00:13:06.993Z,"17km E of Desert Hot Springs, California",earthquake,NA,1.56,NA,55,reviewed,ci,ci
+1992-05-31T11:50:46.730Z,34.036,-116.312,-0.55,2.53,mc,0,42.4,NA,0.163,ci,ci2054197,2016-02-09T20:29:30.723Z,"11km S of Joshua Tree, California",earthquake,NA,0.364,NA,36,reviewed,ci,ci
+1992-06-01T08:07:08.370Z,34.099,-116.266,0.135,2.61,mc,0,95.9,NA,0.136,ci,ci2054291,2016-02-10T17:57:16.569Z,"6km SE of Joshua Tree, California",earthquake,NA,0.443,NA,58,reviewed,ci,ci
+1992-06-01T09:00:31.080Z,33.952,-116.285,0.478,2.61,mc,0,61.6,NA,0.153,ci,ci2054294,2016-02-10T03:50:16.506Z,"18km NNE of Thousand Palms, California",earthquake,NA,0.371,NA,54,reviewed,ci,ci
+1992-06-02T13:39:42.240Z,34.036,-116.322,5.308,2.52,mc,0,49.1,NA,0.176,ci,ci2054412,2016-02-10T21:37:14.189Z,"11km S of Joshua Tree, California",earthquake,NA,NA,NA,44,reviewed,ci,ci
+1992-06-02T16:09:55.690Z,34.038,-116.31,2.255,2.57,mc,0,90.5,NA,0.18,ci,ci2054425,2016-02-10T00:13:50.392Z,"11km S of Joshua Tree, California",earthquake,NA,0.427,NA,54,reviewed,ci,ci
+1992-06-03T08:54:40.870Z,34.003,-116.325,2.748,3.1,ml,0,77.4,NA,0.193,ci,ci2054500,2016-02-10T14:25:09.224Z,"15km S of Joshua Tree, California",earthquake,NA,0.268,NA,3,reviewed,ci,ci
+1992-06-04T05:22:22.280Z,33.983,-116.262,4.298,3.01,ml,0,45.1,NA,0.158,ci,ci2054570,2016-02-10T03:50:55.984Z,"18km SSE of Joshua Tree, California",earthquake,NA,0.192,NA,5,reviewed,ci,ci
+1992-06-04T09:24:00.520Z,34.095,-116.418,-1.057,2.52,mc,0,39.4,NA,0.193,ci,ci2054583,2016-02-10T21:37:41.054Z,"2km SSE of Yucca Valley, California",earthquake,NA,0.505,NA,57,reviewed,ci,ci
+1992-06-04T17:09:28.170Z,33.953,-116.311,4.328,3.22,ml,0,30.6,NA,0.204,ci,ci2054645,2016-02-10T00:14:10.564Z,"16km NNE of Thousand Palms, California",earthquake,NA,0.126,NA,3,reviewed,ci,ci
+1992-06-05T03:38:52.820Z,33.995,-116.288,2.858,2.99,mc,0,40.7,NA,0.16,ci,ci2054688,2016-02-10T07:23:19.833Z,"16km S of Joshua Tree, California",earthquake,NA,0.182,NA,81,reviewed,ci,ci
+1992-06-05T03:44:16.120Z,33.994,-116.288,2.888,2.94,ml,0,40.7,NA,0.163,ci,ci2054689,2016-02-10T14:25:25.411Z,"16km S of Joshua Tree, California",earthquake,NA,0.206,NA,3,reviewed,ci,ci
+1992-06-09T22:11:52.000Z,34.17,-116.315,-0.603,2.96,ml,0,45.3,NA,0.168,ci,ci2055233,2016-02-10T17:58:48.705Z,"4km N of Joshua Tree, California",earthquake,NA,0.349,NA,5,reviewed,ci,ci
+1992-06-10T02:15:07.920Z,34.171,-116.314,-0.043,2.59,mc,0,45.4,NA,0.145,ci,ci2055253,2016-02-10T03:51:48.921Z,"4km N of Joshua Tree, California",earthquake,NA,0.41,NA,49,reviewed,ci,ci
+1992-06-11T00:24:19.180Z,34.174,-116.35,-0.283,4.34,ml,0,44.3,NA,0.191,ci,ci2055346,2016-02-10T00:15:20.944Z,"6km NW of Joshua Tree, California",earthquake,NA,0.293,NA,27,reviewed,ci,ci
+1992-06-11T00:35:21.820Z,34.182,-116.353,0.107,2.54,mc,0,80.2,NA,0.143,ci,ci2055349,2016-02-10T21:38:48.656Z,"6km NW of Joshua Tree, California",earthquake,NA,0.475,NA,30,reviewed,ci,ci
+1992-06-11T00:48:09.580Z,34.17,-116.351,0.187,2.67,mc,0,44,NA,0.15,ci,ci2055351,2016-02-10T00:15:22.421Z,"5km NW of Joshua Tree, California",earthquake,NA,0.323,NA,47,reviewed,ci,ci
+1992-06-11T02:41:00.940Z,34.178,-116.352,-0.333,3.32,ml,0,44.4,NA,0.166,ci,ci2055360,2016-02-10T00:15:25.084Z,"6km NW of Joshua Tree, California",earthquake,NA,0.311,NA,6,reviewed,ci,ci
+1992-06-11T02:41:23.130Z,34.189,-116.339,1.934,2.5,mc,0,169,NA,0.149,ci,ci3028703,2016-02-09T20:32:18.633Z,"6km NNW of Joshua Tree, California",earthquake,NA,2.57,NA,1,reviewed,ci,ci
+1992-06-11T02:46:12.910Z,34.169,-116.35,0.007,2.99,ml,0,44,NA,0.167,ci,ci2055361,2016-02-09T20:32:20.529Z,"5km NW of Joshua Tree, California",earthquake,NA,0.303,NA,5,reviewed,ci,ci
+1992-06-13T07:21:09.140Z,34.17,-116.313,-0.423,2.71,ml,0,45.4,NA,0.164,ci,ci2055536,2016-02-10T07:24:43.801Z,"4km N of Joshua Tree, California",earthquake,NA,0.461,NA,5,reviewed,ci,ci
+1992-06-13T14:12:11.730Z,34.069,-116.319,-0.095,2.66,mc,0,43.7,NA,0.205,ci,ci2055547,2016-02-10T11:00:10.848Z,"7km S of Joshua Tree, California",earthquake,NA,0.316,NA,57,reviewed,ci,ci
+1992-06-14T15:50:47.110Z,34.024,-116.353,1.228,3.17,mc,0,37.7,NA,0.234,ci,ci2055624,2016-02-10T14:26:57.594Z,"12km SE of Yucca Valley, California",earthquake,NA,0.206,NA,91,reviewed,ci,ci
+1992-06-14T23:14:44.690Z,34.025,-116.349,3.558,2.51,mc,0,83.3,NA,0.177,ci,ci2055641,2016-02-10T00:16:15.922Z,"12km SE of Yucca Valley, California",earthquake,NA,0.214,NA,43,reviewed,ci,ci
+1992-06-15T00:33:41.440Z,34.026,-116.355,1.048,2.96,ml,0,80.4,NA,0.215,ci,ci2055644,2016-02-10T21:39:20.507Z,"12km SE of Yucca Valley, California",earthquake,NA,0.218,NA,4,reviewed,ci,ci
+1992-06-15T02:35:25.420Z,34.031,-116.349,0.858,2.55,mc,0,37.9,NA,0.217,ci,ci2055653,2016-02-10T17:59:49.634Z,"12km SSW of Joshua Tree, California",earthquake,NA,0.25,NA,52,reviewed,ci,ci
+1992-06-15T07:49:32.800Z,34.026,-116.356,0.618,2.5,mc,0,42.7,NA,0.196,ci,ci2055672,2016-02-09T20:33:06.239Z,"12km SE of Yucca Valley, California",earthquake,NA,0.267,NA,55,reviewed,ci,ci
+1992-06-16T06:11:24.890Z,34.008,-116.284,0.448,2.51,mc,0,70,NA,0.219,ci,ci2055778,2016-02-10T07:25:02.172Z,"14km S of Joshua Tree, California",earthquake,NA,0.304,NA,45,reviewed,ci,ci
+1992-06-18T08:06:13.040Z,34.052,-116.329,-0.325,3.01,mc,0,82.1,NA,0.183,ci,ci2056062,2016-02-10T03:53:18.252Z,"9km S of Joshua Tree, California",earthquake,NA,0.292,NA,87,reviewed,ci,ci
+1992-06-18T16:01:14.120Z,34.01,-116.341,0.848,2.73,mc,0,83.6,NA,0.185,ci,ci2056108,2016-02-10T21:40:04.327Z,"14km S of Joshua Tree, California",earthquake,NA,0.427,NA,46,reviewed,ci,ci
+1992-06-19T20:42:22.360Z,34,-116.317,4.258,3.51,ml,0,50.1,NA,0.219,ci,ci2056217,2016-02-10T03:53:37.715Z,"15km S of Joshua Tree, California",earthquake,NA,0.178,NA,32,reviewed,ci,ci
+1992-06-20T10:20:51.600Z,34.067,-116.321,-0.005,2.95,mc,0,39.5,NA,0.18,ci,ci2056261,2016-02-10T11:01:04.185Z,"8km S of Joshua Tree, California",earthquake,NA,0.276,NA,91,reviewed,ci,ci
+1992-06-20T21:37:03.160Z,33.979,-116.268,4.538,2.65,mc,0,31.9,NA,0.185,ci,ci2056303,2016-02-10T11:01:09.732Z,"18km SSE of Joshua Tree, California",earthquake,NA,0.175,NA,59,reviewed,ci,ci
+1992-06-21T00:47:53.290Z,33.952,-116.309,3.508,2.61,mc,0,65.1,NA,0.179,ci,ci2056321,2016-02-10T21:40:40.882Z,"16km NNE of Thousand Palms, California",earthquake,NA,0.151,NA,51,reviewed,ci,ci
+1992-06-22T16:55:57.110Z,33.978,-116.269,4.508,2.85,mc,0,31.8,NA,0.171,ci,ci2056453,2016-02-10T03:54:13.392Z,"18km SSE of Joshua Tree, California",earthquake,NA,0.164,NA,66,reviewed,ci,ci
+1992-06-22T17:17:25.690Z,33.994,-116.316,8.858,3.14,mc,0,32.7,NA,0.185,ci,ci2056454,2016-02-10T21:40:59.305Z,"16km S of Joshua Tree, California",earthquake,NA,0.394,NA,90,reviewed,ci,ci
+1992-06-24T00:03:04.280Z,34.043,-116.326,0.175,2.54,mc,0,81.4,NA,0.189,ci,ci2056573,2016-02-09T20:34:47.610Z,"10km S of Joshua Tree, California",earthquake,NA,0.302,NA,48,reviewed,ci,ci
+1992-06-26T14:16:31.060Z,34.039,-116.316,7.265,3.34,mc,0,38.5,NA,0.204,ci,ci2056787,2016-02-10T21:41:43.745Z,"11km S of Joshua Tree, California",earthquake,NA,1.163,NA,95,reviewed,ci,ci
+1992-06-28T05:47:20.940Z,34.199,-116.439,-0.217,2.81,ml,0,43,NA,0.174,ci,ci2056931,2016-02-09T20:35:26.261Z,"10km N of Yucca Valley, California",earthquake,NA,0.302,NA,18,reviewed,ci,ci
+1992-06-28T05:48:05.080Z,34.198,-116.439,-0.267,2.78,ml,0,53.7,NA,0.181,ci,ci3031215,2016-02-10T14:29:04.041Z,"9km N of Yucca Valley, California",earthquake,NA,0.348,NA,16,reviewed,ci,ci
+1992-06-28T05:48:36.230Z,34.198,-116.44,1.573,2.5,mh,0,96.6,NA,0.152,ci,ci3031221,2016-04-02T12:01:39.937Z,"9km N of Yucca Valley, CA",earthquake,NA,0.409,NA,0,reviewed,ci,ci
