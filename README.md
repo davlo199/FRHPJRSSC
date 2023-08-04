@@ -3,9 +3,10 @@ All of the scripts (and data) used in "A Fractional Model for Earthquakes" submi
 
 The fractional Hawkes process is now referred to as FHP.
 Notes:
-These are the data files (JT.csv, LM.csv HM.csv and KaikoraQuakes.csv) that were used. To replicate results in the manuscript, one needs to remove events in LM.csv that have magnitude <2.75 and then only use events 1 to 1348 of those left and only use events 1 to 1023 in HM.csv (parameters for this are in the input files).
+These are the data files (JT.csv, LM.csv HM.csv and KaikoraQuakes.csv) that were used. To replicate results in the manuscript, one needs to remove events in LM.csv that have magnitude <2.75 and then only use events 1 to 1348 of those left and only use events 1 to 1023 in HM.csv (parameters for this are in the input files and are done automatically when running the scripts).
 
 Scripts within the "Consistency" file are what was used for the simulation study, along with the "ml.m" function and its C++ adaption as mentioned. 
+"ml.m" and "MLapp.m" are needed for all of the MATLAB scripts to run, and is available in the "Consistency" file.
 Info for some of this code below.
 #
 
