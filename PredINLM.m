@@ -1,0 +1,11 @@
+dataname="LM";
+A=1;
+B=1348;
+M0=2.75;
+alp=0.402;
+m=0.414;
+gam=1.273;
+bet=0.665;
+c=0.849;
+PAR=1;
+parallel.slurmParameters={'--mem-per-cpu', '200m', '--time', '00:30:00','--cpus-per-task','12'};
