@@ -88,7 +88,7 @@ Use "PredCapETAS.m" to compute $bar p$ as in Section 3.4 and "PredictionCapabili
 
 
 # Misc
-Intensity of the FHP was computed using "Compute FHP intensity vector" section in the "Creatboxplots.m" script.
-Transformed time for the FHP was computed in the same script in the "Compute transformed time residuals" section.
-Transformed time for the ETAS model was computed in "ResidualonSamePlotWCl.R".
-Intensity of the ETAS model is computed in "IntPlot.R".
+Intensity of the FHP was computed using "Compute FHP intensity vector" section in the "miscScriptJRSSCFraqEq.m" script.
+Transformed time residuals for the FHP was computed in the same script in the "SFHP and restricted SFHP residuals" section.
+Transformed time residuals and intensity for the ETAS model is done using the "residuals" and "etas_gif" both in the PtProcess CRAN package by Harte (2010).
+
