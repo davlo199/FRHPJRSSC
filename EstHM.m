@@ -1,0 +1,12 @@
+M0=2.5;
+CSV=1;
+dataname='HM';
+batchsize=1;
+Nrand=30;
+USGS=1;
+PAR=2;
+maxFval=3000;
+A=1;
+B=1023;
+oldMLE=[];
+parallel.slurmParameters={'--mem-per-cpu', '350M', '--time', '2:00:00','--cpus-per-task','12'};
