@@ -69,10 +69,12 @@ The function "MLapp.m" incorporates a Poincare asymptotic expansion for large ti
 |  | `slurmParameters` | `{}` | Keyword + arguments to pass onto the slurm header. e.g. `{'--time', '01:00:00', '--mem', '1G'}`|
 | `saveOutput` | bool / string(path) | `False` | 'False' for no output, or path to output. |
 
-
+# FHP Simulation
+To run the simulation load the file "input_files/simIN.m" then run "JRSSCSim4GITHUB/ExpConsCheck.m". It is recommended to use a small value of RepNum, Nrand, and NSIM if on a desktop computer. You will also need the parallel inner and outer structure above set to 0. 
 
 # FHP data estimation
 "DataEstimationLogit.m" and "DataEstimation0Lamb0Hessian.m" were used to find parameter and standard error estimates of the FHP and of the restricted FHP.
+Ensure you have the files "JRSSCSim4GITHUB/LTInversionArray.cpp", "JRSSCSim4GITHUB/LTInversionArray.mexa64.m", "JRSSCSim4GITHUB/ml.m" and "JRSSCSim4GITHUB/MLapp.m" in the working directory of MATLAB when estimating data.
 
 # ETAS estimation
 This is done using "FitTimeETAS.R" and follows closely what was done by D. Harte in his cited guide.
