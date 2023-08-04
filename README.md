@@ -76,6 +76,11 @@ To run the simulation load the file "input_files/simIN.m" then run "JRSSCSim4GIT
 "DataEstimationLogit.m" and "DataEstimation0Lamb0Hessian.m" were used to find parameter and standard error estimates of the FHP and of the restricted FHP.
 Ensure you have the files "JRSSCSim4GITHUB/LTInversionArray.cpp", "JRSSCSim4GITHUB/LTInversionArray.mexa64.m", "JRSSCSim4GITHUB/ml.m" and "JRSSCSim4GITHUB/MLapp.m" in the working directory of MATLAB when estimating data.
 
+"CFHPEstimation.m" estimates MLE for the version of the fractional Hawkes process presented in Chen et al. (2021).
+
+# Predictive Capability
+Use 
+
 # ETAS estimation
 This is done using "FitTimeETAS.R" and follows closely what was done by D. Harte in his cited guide.
 # Misc
