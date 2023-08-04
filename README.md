@@ -80,7 +80,7 @@ Ensure you have the files "JRSSCSim4GITHUB/LTInversionArray.cpp", "JRSSCSim4GITH
 
 
 # ETAS estimation
-This is done using "FitTimeETAS.R" and follows closely what was done by D. Harte in his cited guide.
+This is done using "FitTimeETAS.R" and follows closely what was done by D. Harte in his cited guide. To run it enter in the information in the input_files for "JT", "LM" and "HM" verbatim. For "KK" follow the instructions in the script to uncomment certain sections of code.
 
 
 # Predictive Capability
