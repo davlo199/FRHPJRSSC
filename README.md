@@ -78,11 +78,15 @@ Ensure you have the files "JRSSCSim4GITHUB/LTInversionArray.cpp", "JRSSCSim4GITH
 
 "CFHPEstimation.m" estimates MLE for the version of the fractional Hawkes process presented in Chen et al. (2021).
 
-# Predictive Capability
-Use 
 
 # ETAS estimation
 This is done using "FitTimeETAS.R" and follows closely what was done by D. Harte in his cited guide.
+
+
+# Predictive Capability
+Use "PredCapETAS.m" to compute $bar p$ as in Section 3.4 and "PredictionCapability.m" to compute bar $p$ using "input_files/PredINLM.m". Then use "Compute information gains" of "miscScriptJRSSCFraqEq.m" to compute IGPE. To compute other IGPe use MLE as presented in the paper with input files for corresponding data set.
+
+
 # Misc
 Intensity of the FHP was computed using "Compute FHP intensity vector" section in the "Creatboxplots.m" script.
 Transformed time for the FHP was computed in the same script in the "Compute transformed time residuals" section.
