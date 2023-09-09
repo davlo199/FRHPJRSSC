@@ -1,6 +1,8 @@
 %% Compute information gains
 %Using the output from "PredCapETAS.m" and "PredicitionCapability.m" below
 %computes IGPe
+Tmp=size(PSFHP);
+PTest=reshape(PSFHP,1,Tmp(1)*Tmp(2)); %For using 
 X=zeros(1,NInt);
 for I=1:NInt
 T0=PredInt(I);
@@ -10,7 +12,11 @@ if any(Events>T0&(Events<=TF))
 end
 end
 Xlogic=logical(X);
-IGPe=(1/length(Events))*(sum(log(PSFHP(Xlogic)./P(Xlogic)))+sum(log((1-PSFHP(~Xlogic))./(1-P(~Xlogic)))));
+delI=diff(PredInt);
+
+PPois=expcdf(delI,Events(end)/length(Events)); %MATLAB uses mean as parameter
+PTest=PTest(1:length(PPois)); %Removes zeros on end from batchsizing
+IGPe=(1/length(Events))*(sum(log(PTest(Xlogic)./PPois(Xlogic)))+sum(log((1-PTest(~Xlogic))./(1-PPois(~Xlogic)))));
 
 %% SFHP and restricted SFHP residuals
 Comp=[];
