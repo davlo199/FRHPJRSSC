@@ -2,7 +2,8 @@
 %Using the output from "PredCapETAS.m" and "PredicitionCapability.m" below
 %computes IGPe
 Tmp=size(PSFHP);
-PTest=reshape(PSFHP,1,Tmp(1)*Tmp(2)); %For using 
+PTest=reshape(PSFHP,1,Tmp(1)*Tmp(2)); %For output of PredictionCapability.m
+% PTest=P; %For output of PredCapETAS.m
 X=zeros(1,NInt);
 for I=1:NInt
 T0=PredInt(I);
