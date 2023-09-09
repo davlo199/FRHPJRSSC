@@ -28,6 +28,7 @@ Events=Events-Events(1);
 %Setting up simulation
 %%
 PredInt=[1e-6:0.25:Events(end), Events(end)]; %End points of time bins, each is 6 hours 
+%PredInt=linspace(1e-6,Events(end),2000) for 2000 evenly sized intervals
 
 NInt=length(PredInt)-1; %Number of intervals for prediction
 
