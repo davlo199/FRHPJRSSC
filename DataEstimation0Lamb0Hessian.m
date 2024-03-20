@@ -70,7 +70,7 @@ end
 
 BestMinlik=min(BestMLE(:,end));
 FinalParameters=BestMLE((BestMLE(:,end)==BestMinlik),1:4);
-FinalParameters(1)=exp(FinalParameters(2))/(1+exp(FinalParameters(2)));
+FinalParameters(1)=exp(FinalParameters(1))/(1+exp(FinalParameters(1)));
 FinalParameters(2)=exp(FinalParameters(2));
 FinalParameters(3)=exp(FinalParameters(3))/(1+exp(FinalParameters(3)));
 FinalParameters(4)=exp(FinalParameters(4));
