@@ -1,12 +1,13 @@
 function SIM = mainSim(NSIM, alpha, beta, gamma, mu, M0, MMAX, lambda, theta,c)
+%Simulates event time and magnitude using Ogata's thinning method
     Out = zeros(2, NSIM);
     t = 0;
     n = 0;
     epsilon = 1e-10;
-    SimPoints = [];
-    MAG = [];
+    SimPoints = []; %Event time
+    MAG = []; %Magnitude
 
-    % Simulate Points
+    % Simulate Points, when the history is empty
     while length(SimPoints) < 1
         M = mu;
         E = exprnd(1 / M, 1, 1);
@@ -23,17 +24,17 @@ function SIM = mainSim(NSIM, alpha, beta, gamma, mu, M0, MMAX, lambda, theta,c)
         end
 
     end
-
+    % Thinning algorithm
     while length(SimPoints) < NSIM
         M = mu + alpha * ((exp(gamma * (MAG - M0))) ...
-            * (MLapp(t+epsilon-SimPoints,c,beta,beta).*(t+epsilon-SimPoints).^(beta-1)).');
-        E = exprnd(1 / M, 1, 1);
-        t = t + E;
+            * (MLapp(t+epsilon-SimPoints,c,beta,beta).*(t+epsilon-SimPoints).^(beta-1)).'); %Upper bound used for rejection
+        E = exprnd(1 / M, 1, 1); %Time step
+        t = t + E; %Update time
         U = rand;
 
         if (U < (mu + alpha * ((exp(gamma * (MAG - M0))) * (MLapp(t-SimPoints,c,beta,beta) ...
                 .* (t - SimPoints).^(beta - 1)).')) / M)
-            n = n + 1;
+            n = n + 1; %Accept point
             SimPoints = [SimPoints, t];
             magexp = exprnd(theta, 1, 1) + M0; % %W-a random variable
             magPar = gprnd(1 / lambda, M0/lambda, M0, 1, 1);
