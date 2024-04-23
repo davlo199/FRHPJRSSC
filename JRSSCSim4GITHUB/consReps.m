@@ -22,7 +22,7 @@ function FinalParameters = consReps(nBatch, batchSize, nBeta, Nrand, NSIM, alpha
             for k=1:Nrand
             
             x0=2.*rand(1,5)-1; 
-
+            %Minimisation of MLEfracEXP which is the objective function (negative conditional log-likelihood of SFHP)
             [MLE,Llhood,~,~,~,Hessian]=fminunc(@(x)MLEFracEXP(x,D,MAG,M0,Tprime,M),x0,options);  
             err=sqrt(diag(inv(Hessian))).';
             MLLik(k,:)=[MLE,err,Llhood];
