@@ -21,13 +21,13 @@ VECEXP=exp(gam*(MAG-M0));
 % 
 % Int(Intdx1)=AppML(M,beta,-(c*(Events(end)-Events(Intdx1))).^beta,1);
 
-Int=MLapp(Events(end)-Events,c,beta,1);
+Int=MLapp(Events(end)-Events,c,beta,1); %E_{\beta,1} used in the calculation of the integral
 
 MAT=zeros(length(Events));
 
 MAT3=zeros(length(Events));
 
-for j=2:length(Events)  
+for j=2:length(Events)  %Creating upper diagonal matrix for event times where entry (i,j) is t_j-t_i if this quantity is non-negative.
 
     MAT(1:j-1,j)=Events(j)-Events(1:j-1);
     
