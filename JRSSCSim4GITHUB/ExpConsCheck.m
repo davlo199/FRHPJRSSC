@@ -75,13 +75,13 @@ function ExpConsCheck(input_file)
     betSE=chat;
     cSE=chat;
     for kk = 1:RepNum
-        alphat(kk, :) = mle(10 * (kk - 1) + 2, :);
+        alphat(kk, :) = mle(10 * (kk - 1) + 2, :); %These are estimates
         muhat(kk, :) = mle(10 * (kk - 1) + 3, :);
         gamhat(kk, :) = mle(10 * (kk - 1) + 4, :);
         bethat(kk, :) = mle(10 * (kk - 1) + 5, :);
         chat(kk, :) = mle(10 * (kk - 1) + 6, :);
 
-        alpSE(kk, :) = mle(10 * (kk - 1) + 7, :);
+        alpSE(kk, :) = mle(10 * (kk - 1) + 7, :); %These are standard errors
         muSE(kk, :) = mle(10 * (kk - 1) + 8, :);
         gamSE(kk, :) = mle(10 * (kk - 1) + 9, :);
         betSE(kk, :) = mle(10 * (kk - 1) + 10, :);
