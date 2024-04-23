@@ -17,7 +17,7 @@ delI=diff(PredInt);
 
 PPois=expcdf(delI,Events(end)/length(Events)); %MATLAB uses mean as parameter
 PTest=PTest(1:length(PPois)); %Removes zeros on end from batchsizing
-IGPe=(1/length(Events))*(sum(log(PTest(Xlogic)./PPois(Xlogic)))+sum(log((1-PTest(~Xlogic))./(1-PPois(~Xlogic)))));
+IGPe=(1/Events(end))*(sum(log(PTest(Xlogic)./PPois(Xlogic)))+sum(log((1-PTest(~Xlogic))./(1-PPois(~Xlogic)))));
 
 %% SFHP and restricted SFHP residuals
 Comp=[];
