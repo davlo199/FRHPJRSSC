@@ -1,6 +1,6 @@
-function DataEstimationLogit(input_file)
+function DataEstimationLogit(input_file) %parameter estimation for SFHP
 run(input_file)
-%%
+%% Reading in data
 if CSV==1
 Data=strcat(dataname,'.csv');
 Points=readtable(Data);
@@ -58,7 +58,7 @@ start=clock;
 
 
 D=Events; 
-
+%Parallelisation use PAR=0 for desktop PC. PAR=2 for slurm batch parallelisation
 switch PAR
     case 1
     MLLik=zeros(Nrand,11);
@@ -81,7 +81,7 @@ end
 
 %% %%Check MLE
 Likelihood=MLLik(:,end);
-%% Find best mle for given beta
+%% Find best mle from all initial values
 MINlik=min(Likelihood);
 idx = Likelihood==MINlik;
 if sum(idx)>1
@@ -117,9 +117,9 @@ function MLLik=MinimisationLoop(D,MAG,M0,nInitial,oldMLE)
     
     rng(2*nInitial)
     if ~isempty(oldMLE)
-        x0=oldMLE;
+        x0=oldMLE; %oldMLE is for choosing the initial values if one has found the approximate minima and now just needs to compute it to a lower level of accuracy
     else
-    x0=rand(1,5); 
+    x0=rand(1,5); %Random initial values, could change to randn(1,5) for normally distributed
     end
     [MLE,Llhood,~,~,~,Hessian]=fminunc(@(x)MLEFracEXP(x,D,MAG,M0),x0,options); 
      SE=sqrt(diag(inv(Hessian))).';
@@ -142,7 +142,7 @@ c=exp(x(5));
 MAT=zeros(length(Events));
 MAT2=MAT;
 
-for j=2:length(Events) 
+for j=2:length(Events)  %Setting up event matrix where entry i,j is t_j-t_i if this is non-negative (for use in sum of log-intensities)
     MAT(1:j-1,j)=Events(j)-Events(1:j-1);
     
 end
@@ -151,21 +151,21 @@ IDX2=MAT~=0;
 
 ZMat2=MAT(IDX2); 
 
-TVec1=(c^beta).*(MLapp(ZMat2.',c,beta,beta).*(ZMat2.^(beta-1)).').';
+TVec1=(c^beta).*(MLapp(ZMat2.',c,beta,beta).*(ZMat2.^(beta-1)).').'; %Calculating sum of log-intensities at event times
 
 % TempVEC=(c^beta).*ml(-(c.*MAT(IDX2)).^beta,beta,beta,1).*(MAT(IDX2).^(beta-1)).';
 
 MAT2(IDX2)=TVec1.';
 
 %VEC2=ml(-(c*(Events(end)-Events)).^beta,beta);
-VEC2=MLapp(Events(end)-Events,c,beta,1);
+VEC2=MLapp(Events(end)-Events,c,beta,1); 
 
 
 VECEXP=exp(gam*(MAG-M0));
 
-SUM=sum(log(lamb0+m.*(VECEXP*MAT2)));
+SUM=sum(log(lamb0+m.*(VECEXP*MAT2))); %The sum of the log intensities at event times
 
-COMP=lamb0*D(end)-m.*(VECEXP*((VEC2-1).')); %Vec2 is just sum of ML function at -(T-t_i)^beta
+COMP=lamb0*D(end)-m.*(VECEXP*((VEC2-1).')); %Vec2 is just sum of ML function at -(c(T-t_i))^beta which is whats needed for the integral
 
 NegLogLik=-(SUM-COMP); %Negative log likelihood
 end
