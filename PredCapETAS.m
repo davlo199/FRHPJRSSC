@@ -1,7 +1,7 @@
-function PredCapETAS(input_file)
+function PredCapETAS(input_file) %Function to calculate IGPT for an unmarked ETAS model, i.e. what the magnitude distribution is doesn't matter
 run(input_file)
 %%
-%Reading in datafile
+%Reading in datafile for use as history
 Data=strcat(dataname,'.csv');
 Points=readtable(Data);
 % Time=Points(:,1); %For USGS data i.e. JT,LM,HM
@@ -29,8 +29,8 @@ Events=Events-Events(1);
 
 %Setting up simulation
 %%
-PredInt=[1e-6:0.25:Events(end), Events(end)]; %End points of time bins, each is 6 hours 
-%PredInt=linspace(1e-6,Events(end),2000) for 2000 evenly sized intervals
+PredInt=[1e-6:mean(diff(Events)):Events(end), Events(end)]; %End points of time bins, each is the mean interarrival time
+%PredInt=linspace(1e-6,Events(end),2000); %for 2000 evenly sized intervals
 
 NInt=length(PredInt)-1; %Number of intervals fr prediction
 
@@ -63,11 +63,11 @@ function OUT=PredictionLoop(mu0, A, del, p, M0, cE, Events, MAG, NRep, kInt, Pre
     %History for this interval
     TmpEvent=Events(Events<=T0);
     TmpMAG=MAG(Events<=T0);
-    Prop=zeros(1,NRep);
+    Prop=zeros(1,NRep); %Number of replicates with a success in this interval
         for L=1:NRep
         Prop(L)=SimPrediction(mu0, A, del, p, M0, cE,TmpEvent,TmpMAG,T0,TF);
         end
-    OUT=sum(Prop)/NRep;
+    OUT=sum(Prop)/NRep; %Proportion of trials for kInt interval with an event (i.e. an success)
 
 end
 
@@ -82,8 +82,7 @@ function N = SimPrediction(mu0, A, del, p, M0, cE,Events,MAG,T0,TF)
     epsilon = 1e-10;
     SimPoints = Events;
     N=0; %Number of simulated points
-    % Simulate Points
-   
+    % Simulate Points using thinning algorithm
     while t<=TF
         M = mu0 + A * exp(del * (MAG - M0))*((1+(t+epsilon-SimPoints)/cE).^(-p)).' ;
         E = exprnd(1 / M, 1, 1);
