@@ -1,6 +1,6 @@
 
 library("PtProcess")
-
+#Fitting unmarked ETAS model to .csv data. This closely follows the example in the CRAN ``PtProcess" package by David Harte
 
   data<-gsub(" ", "", paste(dataname,".csv"))
   XX<-read.csv(data,head=T)
