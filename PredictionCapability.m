@@ -1,4 +1,4 @@
-function PredictionCapability(input_file)
+function PredictionCapability(input_file) %Same as PredCapETAS except for SFHP and is also parallelised for computation speed
 run(input_file)
 %%
 %Reading in datafile
@@ -27,8 +27,8 @@ Events=Events-Events(1);
 
 %Setting up simulation
 %%
-PredInt=[1e-6:0.25:Events(end), Events(end)]; %End points of time bins, each is 6 hours 
-%PredInt=linspace(1e-6,Events(end),2000) for 2000 evenly sized intervals
+PredInt=[1e-6:mean(diff(Events)):Events(end), Events(end)]; %End points of time bins, each is the mean interarrival time
+%PredInt=linspace(1e-6,Events(end),2000); % for 2000 evenly sized intervals
 
 NInt=length(PredInt)-1; %Number of intervals for prediction
 
@@ -42,7 +42,7 @@ PSFHP=zeros(batchsize,ceil(NInt/batchsize));
         K
     end
     end
-else
+else %Logic for parallelisation which batches the NInt trials into a certain batchsize
     functionhandle=@(K)PredictionLoop(alp, bet, gam, m, M0, c, Events, MAG, NRep, K, PredInt,batchsize);
     PSFP=slurmParallel(functionhandle,1:ceil(NInt/batchsize),parallel.slurmParameters);
 end
@@ -54,8 +54,8 @@ end
 
 function OUT=PredictionLoop(alpha, beta, gamma, mu, M0, c, Events, MAG, NRep, kInt, PredInt,batchsize)
 OUT=zeros(1,batchsize);
-if kInt~=ceil((length(PredInt)-1)/batchsize)
-for i=1:batchsize
+if kInt~=ceil((length(PredInt)-1)/batchsize) %Trial isn't the last one
+for i=1:batchsize %Does trial for every interval in batchsize
     rng((kInt-1)*batchsize+i) %For reproducibility
     T0=PredInt((kInt-1)*batchsize+i);
     TF=PredInt((kInt-1)*batchsize+i+1);
@@ -68,7 +68,7 @@ for i=1:batchsize
         end
     OUT(i)=sum(Prop)/NRep;
 end
-else
+else %Sim experiment for the final batch size
     for i=1:(1-kInt)*batchsize+length(PredInt)-1
         rng((kInt-1)*batchsize+i) %For reproducibility
     T0=PredInt((kInt-1)*batchsize+i);
@@ -95,7 +95,7 @@ function N = SimPrediction(alpha, beta, gamma, mu, M0, c,Events,MAG,T0,TF)
     epsilon = 1e-10;
     SimPoints = Events;
     N=0; %Number of simulated points
-    % Simulate Points
+    % Simulate Points using thinning algorithm for SFHP
    
     while t<=TF
         M = mu + alpha * ((exp(gamma * (MAG - M0))) ...
