@@ -1,7 +1,7 @@
 function CFHPEstimation(input_file)
 %MLE for Chen et al. FHP model.
 run(input_file)
-%%
+%% Reading in data for data sets which aren't from the USGS website may need to change the exact way the data is read in.
 if CSV==1
 Data=strcat(dataname,'.csv');
 Points=readtable(Data);
@@ -59,7 +59,7 @@ start=clock;
 
 D=Events; 
 
-%Switch for parallelisation options on NeSI HPC. Use PAR=0 on a standard PC
+%Switch for parallelisation options on NeSI HPC. Use PAR=0 on a standard PC, PAR=2 is for slurm batch parallelisation on HPC.
 switch PAR
     case 1
     MLLik=zeros(Nrand,4);
@@ -83,9 +83,9 @@ end
 %% %%Check MLE
 Likelihood=MLLik(:,end);
 
-MINlik=min(Likelihood);
+MINlik=min(Likelihood); %Finding which estimate has the minimum likelihood
 idx = Likelihood==MINlik;
-if sum(idx)>1
+if sum(idx)>1 %If there's multiple at the exact same minima just select 1
 AA=MLLik(idx,1:3); %Selecting only one set in case minimiser finds the same minimum multiple times
 BestMLE=[AA(1,:) MINlik]; %Vector of MLE and the likelihood
 else
@@ -95,7 +95,7 @@ end
 BestMinlik=min(BestMLE(:,end));
 FinalParameters=BestMLE((BestMLE(:,end)==BestMinlik),:);
 %Back transforming the parameters
-FinalParameters(2)=exp(FinalParameters(2));
+FinalParameters(2)=exp(FinalParameters(2)); %Back transforming the parameters
 FinalParameters(1)=exp(FinalParameters(1))/(1+exp(FinalParameters(1)));
 FinalParameters(3)=exp(FinalParameters(3))/(1+exp(FinalParameters(3)));
 
@@ -124,7 +124,7 @@ function MLLik=MinimisationLoop(D,MAG,M0,nInitial,oldMLE)
     MLLik=[MLE,Llhood];
     
 end
-
+%Same as for SFHP except c=1 and gamma=0
 function NegLogLik=MLEFracEXP(x,D,MAG,M0) %Using predetermined matrix
 %D events, MAG is magnitude of the events, and M0 minimum magnitude
 %%Log likelihood expression
