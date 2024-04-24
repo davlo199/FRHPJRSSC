@@ -12,7 +12,7 @@ if any(Events>T0&(Events<=TF))
     X(I)=1;
 end
 end
-Xlogic=logical(X);
+Xlogic=logical(X); %Index for when there is a success interval (i.e. X_i=1)
 delI=diff(PredInt);
 
 PPois=expcdf(delI,Events(end)/length(Events)); %MATLAB uses mean as parameter
@@ -20,6 +20,7 @@ PTest=PTest(1:length(PPois)); %Removes zeros on end from batchsizing
 IGPe=(1/Events(end))*(sum(log(PTest(Xlogic)./PPois(Xlogic)))+sum(log((1-PTest(~Xlogic))./(1-PPois(~Xlogic)))));
 
 %% SFHP and restricted SFHP residuals
+%This is just calculating the integral of the intensity to the i^th event time, logic of this computation is the same as in the DataEstimationLogit.m script.
 Comp=[];
 if length(FinalParameters)==4
 m=FinalParameters(1);
@@ -64,7 +65,7 @@ MAG2=MAG(A:B);
 t1=Events2+eps;
 t2=Events2(2:end)-eps;
 t3=Events2(1):dt:Events2(end);
-tvec=sort([t1,t2,t3,Events2]);
+tvec=sort([t1,t2,t3,Events2]); %Time vector for intensity, this can be any time vector that you want to calculate the intensity at. Done this way we can see the spikes clearly.
 %tvec=Events2;
 %Create intensity vector
 m=0.402;
